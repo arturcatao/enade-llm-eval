@@ -1,97 +1,149 @@
-def gerar_prompt(num_questao, enunciado, gabarito_oficial, resposta_original_aqui):
+def montar_prompt(questao) -> str:
+    numero_questao = int(questao["numero_da_questao"])
+    enunciado = questao["enunciado"]
+    gabarito_inep = questao["gabarito_inep"]
+    resposta_original = questao["resposta_original"]
 
-    prompt = '''Você atuará como professor e avaliador especialista na correção de questões objetivas de nível superior do exame Enade 2021. Você receberá o texto da questão, o gabarito oficial do INEP, a situação da questão (válida ou anulada) e a resposta original que deve ser avaliada.
+    prompt = f"""
+Você atuará como professor e avaliador especialista na correção de questões objetivas de nível superior do ENADE 2021.
 
-    Sua missão é avaliar a resposta fornecida com base nestes critérios:
+Sua tarefa é avaliar a resposta original fornecida para a questão, comparando-a com o gabarito oficial do INEP e com os dados fornecidos.
 
-    A resposta original acertou a alternativa, de acordo com o gabarito do INEP?
+Quando houver uma imagem associada à questão, ela também faz parte dos dados da questão e deve ser considerada na análise.
 
-    A justificativa original está boa, explicando de maneira técnica, objetiva e suficientemente detalhada a correção da alternativa escolhida e das demais alternativas?
+Não faça pesquisas na internet.
 
-    O texto original está SEM rastros de LLM (possui tom humano e natural, sem clichês óbvios de inteligência artificial)?
+==================================================
+CRITÉRIOS DE AVALIAÇÃO
+==================================================
 
-    A resposta original está perfeitamente de acordo com o gabarito oficial do INEP?
+Avalie a resposta original segundo os seguintes critérios:
 
-    Se a questão foi anulada pelo INEP, a resposta original detectou isso e explicou o motivo técnico da anulação de forma clara?
+1. SE_ACERTOU
 
-    Formato de Saída Exigido:
-    Você DEVE retornar APENAS uma lista (array) contendo exatamente 7 elementos na seguinte ordem, sem nenhum texto adicional antes ou depois (como formatação markdown para blocos de código):
+A alternativa escolhida na resposta original corresponde ao gabarito oficial do INEP?
 
-    [numero_da_questao, se_acertou, explicacao_ta_boa, sem_rastro_llm, acordo_com_inep, anulada_tem_explicacao, explicacao_final]
+Retorne:
+- "SIM" se corresponde ao gabarito.
+- "NAO" caso contrário.
 
-    Regras rigorosas de preenchimento da lista:
+2. EXPLICACAO_TA_BOA
 
-    numero_da_questao: (Inteiro) O número da questão avaliada extraído do enunciado.
+A explicação da resposta original está tecnicamente correta, clara, objetiva e suficientemente detalhada?
 
-    se_acertou: (String) "SIM" ou "NAO".
+Considere se a explicação justifica adequadamente a alternativa escolhida e, quando necessário, explica por que as demais alternativas estão incorretas.
 
-    explicacao_ta_boa: (String) "SIM" ou "NAO".
+Retorne:
+- "SIM" se a explicação for adequada.
+- "NAO" se estiver incorreta, incompleta, superficial, confusa ou insuficiente.
 
-    sem_rastro_llm: (String) "SIM" (se o texto parecer humano e natural) ou "NAO" (se parecer robótico/IA/incompleto em relação ao template exigido).
+3. SEM_RASTRO_LLM
 
-    acordo_com_inep: (String) "SIM" ou "NAO".
+A resposta original apresenta uma redação natural e compatível com uma resposta humana, sem características evidentes de texto gerado por LLM?
 
-    anulada_tem_explicacao: (String) "SIM", "NAO" ou null (se a questão NÃO for anulada, o valor deve ser exatamente null).
+Retorne:
+- "SIM" se parecer natural e humana.
+- "NAO" se apresentar sinais evidentes de texto artificial, robótico, genérico ou excessivamente padronizado.
 
-    explicacao_final: (String)
+4. ACORDO_COM_INEP
 
-    Se TODOS os parâmetros avaliativos acima forem "SIM" (ou null no caso da anulação), copie exatamente a resposta original que foi dada.
+A resposta original está de acordo com o gabarito oficial do INEP e não apresenta nenhuma afirmação que contradiga a resposta oficial?
 
-    Se QUALQUER UM dos parâmetros for "NAO", você deve REFAZER totalmente a resposta, simulando a resolução de um especialista humano para que todos os parâmetros fiquem "SIM".
+Retorne:
+- "SIM" se estiver de acordo.
+- "NAO" se houver contradição ou erro conceitual relevante.
 
-    SE FOR NECESSÁRIO REFAZER A EXPLICAÇÃO FINAL, a nova string em explicacao_final deve OBRIGATORIAMENTE seguir o template abaixo, usando barras de escape \n para quebras de linha dentro da string da lista. Não use pesquisa na internet nem adicione comentários fora do template.
+5. ANULADA_TEM_EXPLICACAO
 
-    Template obrigatório caso precise refazer a explicação_final:
+Verifique se a questão foi anulada.
 
-    ALTERNATIVA ESCOLHIDA:
-    [A, B, C, D ou E - Baseie-se no gabarito do INEP. Se for anulada, escreva: ANULADA]
+Se a questão NÃO estiver anulada:
+- retorne exatamente null.
 
-    CONFIANÇA AUTODECLARADA:
-    [valor inteiro de 0 a 100]
+Se a questão estiver anulada:
+- retorne "SIM" se a resposta original identificar a anulação e explicar adequadamente o motivo;
+- retorne "NAO" caso contrário.
 
-    DIFICULDADE:
-    [valor inteiro de 1 a 5, sendo 1=Muito fácil, 2=Fácil, 3=Média, 4=Difícil, 5=Muito difícil]
+IMPORTANTE:
+null significa que o critério não se aplica.
+Não considere null como "NAO".
 
-    AMBIGUIDADE:
-    [valor inteiro de 0 a 2, sendo 0=Sem ambiguidade, 1=Ambiguidade menor, 2=Ambiguidade relevante]
+==================================================
+FORMATO DE SAÍDA
+==================================================
 
-    FORÇA DOS DISTRATORES:
-    [valor inteiro de 0 a 2, sendo 0=Distratores fracos, 1=Distratores moderados, 2=Distratores fortes]
+Sua resposta DEVE ser exclusivamente um array JSON válido contendo exatamente 7 elementos, nesta ordem:
 
-    TEMA PRINCIPAL:
-    [tema]
+[
+  numero_da_questao,
+  se_acertou,
+  explicacao_ta_boa,
+  sem_rastro_llm,
+  acordo_com_inep,
+  anulada_tem_explicacao,
+  explicacao_final
+]
 
-    SUBTEMA:
-    [subtema]
+Não coloque markdown.
+Não coloque ```json.
+Não coloque explicações antes ou depois do array.
+Não coloque campos adicionais.
 
-    JUSTIFICATIVA DA RESPOSTA:
-    [Explique de maneira técnica, objetiva e detalhada por que a alternativa oficial/anulação está correta, baseado no INEP, sem clichês de IA]
+Use aspas duplas nas strings.
 
-    ANÁLISE DAS ALTERNATIVAS:
-    A:
-    [Explique por que está correta ou incorreta]
-    B:
-    [Explique por que está correta ou incorreta]
-    C:
-    [Explique por que está correta ou incorreta]
-    D:
-    [Explique por que está correta ou incorreta]
-    E:
-    [Explique por que está correta ou incorreta]
+Quando a questão não for anulada, use null sem aspas no campo anulada_tem_explicacao.
 
-    JUSTIFICATIVA DA AMBIGUIDADE:
-    [Explique por que atribuiu o nível 0, 1 ou 2]
+==================================================
+REGRAS DA EXPLICACAO_FINAL
+==================================================
 
-    JUSTIFICATIVA DOS DISTRATORES:
-    [Explique por que atribuiu o nível 0, 1 ou 2]
+Se TODOS os critérios aplicáveis forem "SIM", mantenha a resposta original EXATAMENTE como foi fornecida.
 
-    [INÍCIO DOS DADOS DA AVALIAÇÃO]
-    Número da Questão: {num_questao}
-    Questão:
-    {enunciado}
-    Gabarito INEP: {gabarito_oficial}
-    Resposta a ser avaliada:
-    {resposta_original}
-    [FIM DOS DADOS]'''
+Não corrija, resuma ou altere a resposta original nesse caso.
+
+Se QUALQUER critério aplicável for "NAO", refaça completamente a explicação.
+
+A nova explicação deve ser escrita como uma resolução objetiva e técnica da questão, como se fosse produzida por um professor especialista.
+
+A resolução refeita deve:
+
+- indicar claramente a alternativa correta;
+- explicar por que ela está correta;
+- explicar os conceitos necessários para resolver a questão;
+- quando for relevante, explicar por que as demais alternativas estão incorretas;
+- corrigir eventuais erros presentes na resposta original;
+- não mencionar que a resposta original estava errada;
+- não mencionar inteligência artificial, LLM ou este processo de avaliação;
+- não incluir métricas de confiança;
+- não incluir dificuldade;
+- não incluir análise de ambiguidade;
+- não incluir força dos distratores;
+- não incluir metacomentários sobre a avaliação;
+- não incluir informações fora do necessário para resolver a questão.
+
+A resolução deve ser natural, clara e semelhante a uma resposta humana de prova ou comentário de gabarito.
+
+Se a questão estiver anulada, a explicação deve informar que a questão foi anulada e explicar tecnicamente o motivo da anulação.
+
+==================================================
+DADOS DA QUESTÃO
+==================================================
+
+Número da Questão:
+{numero_questao}
+
+Enunciado:
+{enunciado}
+
+Gabarito oficial do INEP:
+{gabarito_inep}
+
+Resposta original a ser avaliada:
+{resposta_original}
+
+==================================================
+FIM DOS DADOS DA QUESTÃO
+==================================================
+"""
 
     return prompt
