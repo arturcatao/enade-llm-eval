@@ -1,4 +1,5 @@
 import os
+import time
 import base64
 
 from dotenv import load_dotenv
@@ -12,6 +13,17 @@ API_KEY = os.getenv("MISTRAL_API_KEY")
 client = Mistral(api_key=API_KEY)
 
 MODEL = "mistral-medium-latest"
+
+# ------------------------------------------
+# Configuração do retry com backoff exponencial
+# ------------------------------------------
+MAX_TENTATIVAS = 6
+ESPERA_INICIAL_SEGUNDOS = 15
+
+# Pequena pausa fixa antes de cada chamada, para reduzir a chance de
+# disparar o rate limit em primeiro lugar (em vez de só reagir a ele
+# depois que ele já aconteceu).
+PAUSA_ENTRE_CHAMADAS_SEGUNDOS = 3
 
 
 SCHEMA_RESULTADO = {
@@ -68,7 +80,28 @@ def imagem_para_base64(caminho_imagem: str) -> str:
     return imagem_base64
 
 
+def _erro_e_rate_limit(erro: Exception) -> bool:
+    """
+    Detecta, de forma simples, se um erro da API foi causado por
+    rate limiting (HTTP 429), olhando o texto da exceção. Evita
+    depender de uma classe de exceção específica da biblioteca.
+    """
+
+    mensagem = str(erro).lower()
+
+    return (
+        "429" in mensagem
+        or "rate limit" in mensagem
+        or "rate_limit" in mensagem
+        or "too many requests" in mensagem
+    )
+
+
 def avaliar(prompt: str, caminho_imagem: str | None = None) -> str:
+
+    # Pausa fixa antes de qualquer chamada, para espaçar as requisições
+    # e reduzir a chance de atingir o rate limit logo de cara.
+    time.sleep(PAUSA_ENTRE_CHAMADAS_SEGUNDOS)
 
     content = [
         {
@@ -88,23 +121,44 @@ def avaliar(prompt: str, caminho_imagem: str | None = None) -> str:
             }
         )
 
-    try:
-        response = client.chat.complete(
-            model=MODEL,
-            messages=[
-                {
-                    "role": "user",
-                    "content": content
-                }
-            ],
-            temperature=0.0,
-            response_format=SCHEMA_RESULTADO,
-        )
+    ultimo_erro: Exception | None = None
 
-        print("  Resposta recebida do Mistral!")
+    for tentativa in range(1, MAX_TENTATIVAS + 1):
 
-        return response.choices[0].message.content
+        try:
+            response = client.chat.complete(
+                model=MODEL,
+                messages=[
+                    {
+                        "role": "user",
+                        "content": content
+                    }
+                ],
+                temperature=0.0,
+                response_format=SCHEMA_RESULTADO,
+            )
 
-    except Exception as erro:
-        print(f"  Erro na API do Mistral: {erro}")
-        raise
+            return response.choices[0].message.content
+
+        except Exception as erro:
+
+            ultimo_erro = erro
+
+            if _erro_e_rate_limit(erro) and tentativa < MAX_TENTATIVAS:
+
+                espera = ESPERA_INICIAL_SEGUNDOS * (2 ** (tentativa - 1))
+
+                print(
+                    f"  Rate limit atingido (tentativa "
+                    f"{tentativa}/{MAX_TENTATIVAS}). "
+                    f"Aguardando {espera}s antes de tentar novamente..."
+                )
+
+                time.sleep(espera)
+                continue
+
+            print(f"  Erro na API do Mistral: {erro}")
+            raise
+
+    # Não deveria chegar aqui, mas por segurança:
+    raise ultimo_erro
