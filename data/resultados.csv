@@ -1,262 +1,1042 @@
 ﻿numero_da_questao,se_acertou,explicacao_ta_boa,sem_rastro_llm,acordo_com_inep,anulada_tem_explicacao,explicacao_final
-1,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
-[
-  1,
-  ""SIM"",
-  ""SIM"",
-  ""SIM"",
-  ""SIM"",
-  null,
-  ""QUESTÃO 1 — Alternativa E
+1,SIM,SIM,SIM,SIM,,"QUESTÃO 1 — Alternativa E
 
 Comentário geral
 
-O texto aborda a mobilidade social intergeracional, ou seja, a capacidade de um indivíduo alcançar uma posição socioeconômica diferente da de sua família de origem ao longo das gerações. No Brasil, conforme os dados apresentados, essa mobilidade é extremamente baixa: seriam necessárias nove gerações para que descendentes dos 10% mais pobres atingissem a renda média do país. O texto destaca que filhos de famílias pobres enfrentam dificuldades estruturais, como acesso limitado à saúde, educação de baixa qualidade e poucas oportunidades de qualificação profissional, o que restringe suas possibilidades no mercado de trabalho e perpetua a pobreza.
+O texto aborda o tema da mobilidade social intergeracional, ou seja, a capacidade de um indivíduo alcançar uma posição socioeconômica diferente daquela de sua família de origem ao longo de sua vida ou entre gerações. No contexto brasileiro, os dados apresentados revelam uma mobilidade social extremamente baixa: seriam necessárias cerca de nove gerações para que os descendentes de uma pessoa entre os 10% mais pobres do país atingissem o nível médio de rendimento nacional. Além disso, mais de um terço dos que nascem entre os 20% mais pobres permanece na base da pirâmide social, enquanto apenas 7% consegue alcançar os 20% mais ricos.
 
-Nesse contexto, a alternativa E é a que melhor sintetiza a ideia central do texto: a ascensão social depende de fatores como educação, saúde e oportunidades profissionais, que são menos acessíveis às camadas mais pobres. Essa desigualdade de acesso contribui para a manutenção das disparidades sociais e pode gerar conflitos pela busca de melhores condições.
+O texto também destaca os mecanismos que perpetuam essa situação: filhos de famílias pobres têm menor acesso à saúde, maior probabilidade de frequentar escolas de baixa qualidade e, consequentemente, menos oportunidades de qualificação profissional. Essa formação precária limita as possibilidades de inserção no mercado de trabalho, restringindo os empregos a funções de baixa remuneração e reduzindo as chances de ascensão social. Assim, forma-se um ciclo de reprodução intergeracional da pobreza, no qual as condições socioeconômicas dos pais influenciam diretamente as oportunidades dos filhos.
+
+Nesse contexto, a alternativa E é a que melhor sintetiza a ideia central do texto, pois aponta que a ascensão social depende de fatores viabilizadores — como educação de qualidade, saúde e melhores oportunidades de trabalho — que estão fora do alcance das camadas mais pobres. Essa desigualdade de acesso a recursos essenciais perpetua a pobreza e limita a mobilidade social.
 
 Análise das alternativas
 
 A) Incorreta.
-A alternativa associa a mobilidade social a fatores ambientais e demográficos, como taxas de natalidade, o que não é mencionado no texto. O foco do enunciado está em condições estruturais, como renda familiar, qualidade da educação e oportunidades de trabalho, e não em variáveis demográficas.
+A alternativa associa a baixa mobilidade social a fatores ambientais e demográficos, como as taxas de natalidade. No entanto, o texto não estabelece essa relação. A discussão sobre mobilidade social no Brasil é baseada em condições estruturais, como renda familiar, escolaridade, acesso à saúde, qualidade da educação e oportunidades de trabalho. A taxa de natalidade não é mencionada como um fator determinante para a mobilidade social observada.
 
 B) Incorreta.
-O texto não atribui a baixa mobilidade social à falta de organização dos grupos economicamente desfavorecidos. A explicação apresentada está ligada a condições estruturais de desigualdade, como acesso limitado à saúde e à educação de qualidade, e não a uma suposta desorganização social.
+A alternativa sugere que a baixa mobilidade social é determinada pela falta de organização dos grupos economicamente desfavorecidos. Essa interpretação transfere a responsabilidade pela dificuldade de ascensão para os próprios indivíduos pobres, o que não condiz com o texto. O enunciado aponta, na verdade, para condições estruturais de desigualdade, como o menor acesso à saúde, a educação de baixa qualidade e as limitadas oportunidades de trabalho, que perpetuam a pobreza.
 
 C) Incorreta.
-Embora o texto mencione a transmissão intergeracional da pobreza, a alternativa introduz a ideia de um \""fator ancestral\"" que limitaria a eficácia de políticas públicas. O enunciado não aborda a eficácia de políticas nem caracteriza a desigualdade como um fenômeno ancestral, mas sim como resultado de condições socioeconômicas desiguais.
+Embora a alternativa mencione a transmissão intergeracional da pobreza, ela introduz a ideia de um ""fator ancestral"" que limitaria a eficácia de políticas públicas de redução das desigualdades. O texto não aborda a desigualdade como resultado de uma característica ancestral, nem discute a eficácia de políticas públicas. O que o texto demonstra é a influência das condições socioeconômicas dos pais sobre as oportunidades dos filhos, um processo social e econômico de reprodução da pobreza.
 
 D) Incorreta.
-A alternativa interpreta erroneamente o \""ciclo de pobreza\"" como um movimento de subida e queda sucessivas nas camadas sociais. O texto, no entanto, descreve um ciclo de reprodução da pobreza, em que condições desfavoráveis (educação precária, empregos de baixa remuneração) mantêm as famílias na base da pirâmide social ao longo das gerações.
+A alternativa interpreta de forma equivocada o conceito de ""ciclo de pobreza"". O texto não descreve um movimento de subida e queda sucessivas nas camadas sociais. Pelo contrário, o ciclo apresentado é de permanência e reprodução da pobreza entre gerações: condições desfavoráveis de educação e saúde levam a oportunidades profissionais limitadas, que mantêm os baixos rendimentos e aumentam a probabilidade de que a geração seguinte enfrente as mesmas dificuldades.
 
 E) Correta.
-A alternativa E está alinhada ao texto, que mostra que a ascensão social depende de fatores como educação, saúde e oportunidades de trabalho, os quais são menos acessíveis às camadas pobres. Essa desigualdade de acesso perpetua a pobreza e pode gerar conflitos sociais, conforme sugerido na alternativa.""
-]"
-2,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
-[
-  2,
-  ""NAO"",
-  ""NAO"",
-  ""SIM"",
-  ""NAO"",
-  null,
-  ""QUESTÃO 2 — Alternativa C
+A alternativa E está de acordo com o texto, pois destaca que a ascensão social depende de fatores viabilizadores — como acesso à saúde, educação de qualidade e melhores oportunidades de trabalho — que não estão ao alcance das camadas mais pobres. Essa falta de acesso perpetua a desigualdade e limita a mobilidade social, conforme demonstrado no texto."
+2,NAO,NAO,NAO,NAO,,"QUESTÃO 2 — Alternativa C
 
 Comentário geral
-A questão aborda a relação entre os textos I e II, que tratam da aparência de hortaliças e sua qualidade. O texto I (infográfico da Embrapa) diferencia hortaliças feias (fora do padrão estético, mas próprias para consumo) de hortaliças estragadas (com danos que comprometem a qualidade). O texto II discute o desperdício de alimentos no Brasil e na Europa, destacando que a exigência excessiva por aparência perfeita aumenta o desperdício, enquanto a exigência por qualidade (ausência de danos e higiene) reduz perdas e melhora a alimentação.
+A questão aborda a relação entre os textos I e II, que tratam da qualidade e aparência de hortaliças. O texto I (infográfico da Embrapa) distingue critérios visuais que afetam apenas a estética daqueles que comprometem a qualidade do alimento. O texto II discute o desperdício de hortaliças no Brasil e na Europa, destacando que a exigência excessiva por aparência perfeita pode aumentar o desperdício, enquanto a busca por produtos sem danos (como contaminação ou falta de higiene) melhora a qualidade.
 
 Análise das asserções
 I. O texto I sintetiza uma informação principal do texto II, ao apresentar critérios distintos de alterações visuais que têm efeitos puramente estéticos em produtos alimentícios daquelas que têm implicações na qualidade desses produtos.
-- A asserção I está correta. O texto I (infográfico) de fato diferencia hortaliças com alterações estéticas (feias, mas boas para consumo) daquelas com danos que as tornam estragadas (murchas, machucadas, com coloração inadequada etc.), alinhando-se ao conteúdo do texto II, que aborda a distinção entre aparência e qualidade.
+- A asserção I é VERDADEIRA. O texto I de fato diferencia, por meio de cores e símbolos, hortaliças estragadas (com danos que comprometem a qualidade, como amassadas, machucadas, quebradas ou com coloração inadequada) daquelas que são apenas feias (fora do padrão visual, mas sem comprometimento da qualidade, como formato irregular ou pequenas cicatrizes superficiais). Essa distinção está alinhada com a discussão do texto II sobre a necessidade de esclarecer quais aspectos visuais afetam a qualidade.
 
 II. O texto II divulga que o aumento das perdas na cadeia produtiva de hortaliças no Brasil é proporcional à elevação de exigências dos consumidores pela aparência de produtos agropecuários.
-- A asserção II está incorreta. O texto II afirma que a exigência por aparência perfeita *aumenta o desperdício*, mas não estabelece uma relação de proporcionalidade direta entre o aumento das perdas e a elevação das exigências estéticas. Além disso, o texto destaca que a exigência por *qualidade* (não apenas aparência) reduz perdas, o que contraria a ideia de que o aumento das exigências (sem distinção) sempre eleva as perdas.
+- A asserção II é FALSA. O texto II afirma que a exigência por aparência perfeita aumenta o desperdício, mas não estabelece uma relação de proporcionalidade direta entre o aumento das perdas e a elevação das exigências estéticas. Além disso, o texto destaca que a solução não é replicar o modelo europeu (que exige padronização estética), mas sim conscientizar sobre quais aspectos visuais realmente comprometem a qualidade. Portanto, a asserção II distorce a mensagem do texto II.
 
 Relação entre as asserções
-A asserção II não justifica a I, pois a II é falsa. Além disso, a I não depende da II para ser verdadeira, já que o texto I de fato sintetiza a distinção entre feio e estragado, independentemente da relação de proporcionalidade mencionada na II.
+A asserção II não justifica a I, pois é falsa. Além disso, mesmo que fosse verdadeira, não explicaria adequadamente a síntese apresentada no texto I.
 
 Análise das alternativas
-A) Incorreta. A asserção II é falsa, logo não pode ser justificativa correta da I.
-B) Incorreta. A asserção II é falsa, então não é verdadeira.
-C) Correta. A asserção I é verdadeira, e a II é falsa.
-D) Incorreta. A asserção I é verdadeira, não falsa.
-E) Incorreta. A asserção I é verdadeira, então não são ambas falsas.""
-]"
-3,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
-[
-  3,
-  ""SIM"",
-  ""SIM"",
-  ""SIM"",
-  ""SIM"",
-  null,
-  ""QUESTÃO 3 — Alternativa B
+A) As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+- Incorreta. A asserção II é falsa, e a relação de justificativa não se aplica.
+
+B) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+- Incorreta. A asserção II é falsa.
+
+C) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+- Correta. A asserção I está de acordo com os textos, enquanto a II não.
+
+D) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+- Incorreta. A asserção I é verdadeira, e a II é falsa.
+
+E) As asserções I e II são proposições falsas.
+- Incorreta. A asserção I é verdadeira."
+3,SIM,SIM,SIM,SIM,,"QUESTÃO 03 — Alternativa B
 
 Comentário geral
 
-A questão aborda o uso da bicicleta como meio de transporte sustentável e sua contribuição para a mobilidade urbana e a qualidade de vida nas grandes cidades, com base em dois textos: um histórico (Texto I) e uma charge (Texto II).
+A questão aborda o uso da bicicleta como meio de transporte e sua relação com a qualidade de vida nas grandes cidades, com base em dois textos: um histórico (Texto I) e uma charge (Texto II). O foco está na avaliação de afirmações sobre a necessidade de infraestrutura, os benefícios do uso da bicicleta e o contexto histórico de sua adoção.
 
-A afirmativa I está incorreta. Embora as bicicletas ocupem menos espaço na malha viária, isso não significa que investimentos públicos em ciclovias possam ser dispensados. O Texto I destaca a importância de políticas públicas para incentivar o uso da bicicleta, e a charge reforça a necessidade de infraestrutura adequada, como ciclovias e ciclofaixas, para garantir a segurança dos ciclistas. Portanto, a conclusão de que se pode prescindir de investimentos em ciclovias é equivocada.
+O Texto I destaca que, na Alemanha nazista, a prioridade era para veículos automotivos, o que levou à criação de espaços exclusivos para bicicletas (ciclovias). Hoje, o uso de bicicletas é visto como uma alternativa para melhorar a qualidade de vida nas metrópoles, especialmente por meio de políticas públicas que incentivam seu uso. A charge reforça a importância de ciclovias e ciclofaixas para a segurança dos ciclistas.
 
-A afirmativa II está correta. O uso da bicicleta como meio de transporte contribui para a melhoria da qualidade de vida nas metrópoles, pois não emite poluentes durante seu uso e promove atividade física, beneficiando tanto o meio ambiente quanto a saúde dos usuários.
-
-A afirmativa III está incorreta. O Texto I menciona que, na Alemanha nazista, foram criados espaços exclusivos para bicicletas porque os veículos automotivos eram prioridade, não porque a bicicleta tenha passado a prevalecer. Não há fundamento no texto para afirmar que, a partir da Segunda Guerra Mundial, a bicicleta se tornou predominante nas cidades europeias.
+Analisando as afirmações:
+- A afirmativa I sugere que, por ocuparem pouco espaço, as bicicletas dispensariam investimentos em ciclovias, priorizando apenas campanhas de conscientização. No entanto, o Texto I e a charge deixam claro que a infraestrutura (ciclovias) é fundamental para a segurança e viabilidade do uso da bicicleta como meio de transporte. Portanto, a afirmativa I está incorreta.
+- A afirmativa II afirma que o uso da bicicleta contribui para a melhoria da qualidade de vida, pois não emite poluentes e promove atividade física. Essa afirmação está alinhada com o Texto I, que aponta a bicicleta como uma alternativa para melhorar a qualidade de vida nas cidades. Portanto, a afirmativa II está correta.
+- A afirmativa III afirma que, a partir da Segunda Guerra Mundial, o uso da bicicleta tornou-se eficaz e passou a prevalecer nas cidades europeias. O Texto I, no entanto, menciona que, na Alemanha nazista, os veículos automotivos eram prioridade, e as ciclovias foram criadas para resolver um problema pontual (o empecilho causado pelos ciclistas). Não há menção de que a bicicleta tenha prevalecido nas cidades europeias a partir daquele período. Portanto, a afirmativa III está incorreta.
 
 Portanto, apenas a afirmativa II está correta.
 
 Análise das alternativas
 
-A) Incorreta. A afirmativa I está errada, pois a necessidade de infraestrutura cicloviária é reforçada pelos textos, e não dispensada.
+A) Incorreta. A afirmativa I está errada, pois a necessidade de infraestrutura (ciclovias) é fundamental para o uso seguro da bicicleta, conforme indicado nos textos.
 
-B) Correta. Apenas a afirmativa II está correta, pois o uso da bicicleta de fato contribui para a melhoria da qualidade de vida, como explicado.
+B) Correta. Apenas a afirmativa II está correta, pois o uso da bicicleta de fato contribui para a melhoria da qualidade de vida, tanto pelo aspecto ambiental (ausência de emissões) quanto pelo aspecto da saúde (atividade física).
 
-C) Incorreta. A afirmativa I está errada, e a III não é sustentada pelo Texto I, que não afirma que a bicicleta passou a prevalecer nas cidades europeias.
+C) Incorreta. A afirmativa I está incorreta, e a afirmativa III não é sustentada pelo Texto I, que não afirma que a bicicleta passou a prevalecer nas cidades europeias a partir da Segunda Guerra Mundial.
 
-D) Incorreta. A afirmativa III está incorreta, pois não há evidência no texto de que a bicicleta tenha se tornado predominante nas cidades europeias a partir da Segunda Guerra Mundial.
+D) Incorreta. Embora a afirmativa II esteja correta, a afirmativa III está incorreta, pois o Texto I não sustenta a ideia de que a bicicleta tenha se tornado predominante nas cidades europeias a partir daquele período.
 
-E) Incorreta. Apenas a afirmativa II está correta, enquanto I e III estão incorretas.""
-]"
-4,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
-[
-  4,
-  ""SIM"",
-  ""SIM"",
-  ""SIM"",
-  ""SIM"",
-  null,
-  ""QUESTÃO 4 — Alternativa B
+E) Incorreta. A afirmativa I está incorreta, a afirmativa II está correta, e a afirmativa III está incorreta. Portanto, não é correto afirmar que todas as três estão corretas."
+4,SIM,SIM,SIM,SIM,,"QUESTÃO 04 — Alternativa B
 
 Comentário geral
 
-A questão aborda o fenômeno da Gig Economy, ou economia dos bicos, que se caracteriza pela contratação de trabalhadores autônomos por meio de plataformas digitais, sem vínculo empregatício formal. O texto destaca que esses profissionais não contam com proteções legais como FGTS, férias ou décimo terceiro salário, além de arcarem com os custos de sua atividade e enfrentarem longas jornadas de trabalho, o que pode gerar problemas de saúde.
+A questão aborda o fenômeno da Gig Economy, ou economia dos bicos, que se caracteriza pela contratação de trabalhadores autônomos por meio de plataformas digitais, sem vínculo empregatício formal. O texto destaca que esses profissionais não contam com proteções legais e sociais, como FGTS, férias ou décimo terceiro salário, e arcam com todos os custos de sua atividade, enfrentando longas jornadas e problemas de saúde.
 
-A asserção I é verdadeira, pois descreve corretamente a composição da Gig Economy: trabalhadores autônomos informais, sem regulamentação ou proteção legal, atuando em plataformas digitais. A asserção II também é verdadeira, uma vez que o texto menciona explicitamente que os trabalhadores arcam com os custos da atividade, enfrentam longas jornadas e sofrem com desgaste físico e mental.
+A asserção I é verdadeira, pois descreve corretamente a composição da Gig Economy: trabalhadores autônomos, sem vínculo empregatício, que atuam em plataformas digitais e estão desprotegidos de regulamentações trabalhistas. Essa definição está alinhada com o contexto apresentado no enunciado.
 
-No entanto, a asserção II não constitui uma justificativa para a asserção I. Enquanto a I define quem são os trabalhadores da Gig Economy, a II descreve as condições e consequências do trabalho nesses moldes. Não há uma relação causal ou explicativa entre as duas: as condições de trabalho (II) não explicam a definição do modelo (I).
+A asserção II também é verdadeira, uma vez que o texto menciona explicitamente que os trabalhadores assumem os custos da atividade, enfrentam longas jornadas e sofrem com problemas de saúde, como estresse e dores na coluna. No entanto, a asserção II não constitui uma justificativa para a asserção I. Enquanto a I define o que é a Gig Economy, a II descreve consequências e condições de trabalho dentro desse modelo, sem estabelecer uma relação causal ou explicativa direta.
+
+Portanto, as duas asserções são verdadeiras, mas a II não justifica a I.
 
 Análise das alternativas
 
 A) Incorreta.
-As asserções I e II são verdadeiras, mas a II não é uma justificativa correta da I. A asserção II descreve as condições de trabalho, enquanto a I define o modelo de contratação. Não há uma relação de causa e efeito entre elas.
+As asserções I e II são verdadeiras, mas a II não é uma justificativa correta da I. A asserção II descreve condições de trabalho, enquanto a I define o conceito de Gig Economy. Não há uma relação de causa e efeito entre elas.
 
 B) Correta.
-As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I. A I caracteriza a Gig Economy, e a II descreve as condições de trabalho, sem estabelecer uma relação lógica de justificativa.
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I. A asserção I caracteriza a Gig Economy, e a II descreve aspectos do trabalho nesses moldes, sem explicar por que a Gig Economy é assim definida.
 
 C) Incorreta.
-A asserção I é verdadeira, e a II também é verdadeira, conforme o texto. Portanto, não é correto afirmar que a II é falsa.
+A asserção I é verdadeira, e a asserção II também é verdadeira, conforme o texto. Portanto, não é correto afirmar que a II é falsa.
 
 D) Incorreta.
-A asserção I é verdadeira, pois o texto confirma que os trabalhadores das plataformas digitais são autônomos e desprotegidos legalmente. A asserção II também é verdadeira, conforme descrito no enunciado.
+A asserção I é verdadeira, pois o texto confirma que os trabalhadores das plataformas digitais são autônomos e desprotegidos de regulamentações. Logo, não é falsa.
 
 E) Incorreta.
-Ambas as asserções são verdadeiras, conforme o texto. Portanto, não é correto afirmar que ambas são falsas.""
-]"
-5,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
-[
-  5,
-  ""SIM"",
-  ""SIM"",
-  ""SIM"",
-  ""SIM"",
-  null,
-  ""QUESTÃO 5 — Alternativa A
+Ambas as asserções são verdadeiras, conforme o texto. Portanto, não é correto afirmar que ambas são falsas."
+5,SIM,SIM,SIM,SIM,,"QUESTÃO 05 — Alternativa A
 
 Comentário geral
 
-A questão aborda o tema do suicídio entre crianças e adolescentes indígenas no Brasil, apresentando dados epidemiológicos, distribuição geográfica e discussões sobre direitos fundamentais. Os textos destacam que a taxa de suicídio na população indígena é significativamente maior que a média nacional, com destaque para a faixa etária de 10 a 19 anos. O mapa complementa as informações, mostrando a distribuição dos óbitos por suicídio entre crianças e adolescentes indígenas no país.
+A questão aborda o suicídio entre crianças e adolescentes indígenas no Brasil, articulando dados epidemiológicos, distribuição territorial e direitos fundamentais dessa população.
 
-A afirmativa I está correta, pois o elevado índice de suicídios entre crianças e adolescentes indígenas evidencia a necessidade de ações voltadas para a garantia dos direitos fundamentais dessa população, como vida, saúde e dignidade.
+Os textos evidenciam uma situação particularmente grave: enquanto a média nacional apresentada é de 5,7 óbitos por suicídio para cada 100 mil habitantes, entre a população indígena o valor informado chega a 15,2, aproximadamente três vezes maior. Além disso, parcela expressiva dos registros indígenas ocorre entre crianças e adolescentes. O Texto II reforça que determinadas minorias étnico-raciais, entre elas os povos indígenas, apresentam taxas de suicídio infantil superiores às observadas na população geral.
 
-A afirmativa II está incorreta, uma vez que o mapa não indica que Pará e Tocantins sejam os estados com os maiores índices de suicídio na faixa etária de 10 a 14 anos. A concentração de casos parece estar em outras unidades federativas, como Mato Grosso do Sul e Amazonas.
+A afirmativa I está correta, pois a magnitude do problema demonstra a necessidade de ações de proteção voltadas à vida, à saúde, à infância, à dignidade e aos demais direitos fundamentais das crianças e adolescentes indígenas.
 
-A afirmativa III está incorreta, pois os povos indígenas têm seus direitos e garantias constitucionais amparados, inclusive no que diz respeito à preservação de sua história e cultura.
+A afirmativa II está incorreta porque a representação cartográfica apresentada na questão não sustenta a afirmação de que Pará e Tocantins sejam os estados com as maiores ocorrências na faixa de 10 a 14 anos. A leitura do mapa indica concentrações mais expressivas em outras unidades da Federação, de modo que a proposição não corresponde adequadamente aos dados apresentados.
 
-A afirmativa IV está incorreta, pois o estabelecimento de ações preventivas ao suicídio nas comunidades indígenas deve considerar as particularidades dessa população, e não apenas elementos globais que afetam a população em geral na faixa etária entre 15 e 20 anos. Os textos deixam claro que o perfil epidemiológico do suicídio entre indígenas é distinto, com forte presença em faixas etárias mais jovens.
+A afirmativa III também está incorreta. Os povos indígenas possuem proteção constitucional específica; portanto, é falsa a declaração categórica de que sua história e preservação cultural não estejam amparadas por direitos e garantias constitucionais.
+
+Por fim, a afirmativa IV está incorreta porque desloca para as comunidades indígenas um enfoque baseado genericamente na população nacional de 15 a 20 anos. Os próprios textos mostram um perfil epidemiológico distinto na população indígena, com forte presença de suicídios em faixas etárias mais jovens. Dessa forma, ações preventivas não podem desconsiderar as particularidades dessa população.
 
 Análise das alternativas
 
 A) Correta.
-Apenas a afirmativa I está correta. Os dados apresentados mostram uma incidência de suicídio indígena muito superior à média nacional, com participação expressiva de crianças e adolescentes, o que evidencia a necessidade de políticas e ações voltadas à proteção dos direitos fundamentais dessa população.
+Apenas a afirmativa I está correta. Os dados apresentados revelam uma incidência de suicídio indígena muito superior à média nacional e com participação expressiva de crianças e adolescentes. Esse cenário evidencia a necessidade de políticas e ações voltadas à proteção da vida, da saúde e dos direitos fundamentais dessa população. As afirmativas II, III e IV apresentam problemas factuais ou conceituais.
 
 B) Incorreta.
-A afirmativa II não está correta, pois o mapa não sustenta que Pará e Tocantins sejam os estados com os maiores índices de suicídio indígena na faixa de 10 a 14 anos.
+Essa alternativa considera verdadeira apenas a afirmativa II. Entretanto, a afirmação de que Pará e Tocantins apresentam os maiores índices de suicídio indígena entre 10 e 14 anos não corresponde à distribuição representada no mapa. Assim, não é possível utilizar essa afirmativa como única proposição correta.
 
 C) Incorreta.
-A afirmativa I está correta, mas a III está incorreta, pois os povos indígenas têm seus direitos e garantias constitucionais amparados.
+A alternativa reúne I e III. A afirmativa I está correta, porém a III é falsa. A Constituição brasileira reconhece direitos específicos dos povos indígenas, incluindo proteção de sua organização social, costumes, línguas, crenças, tradições e demais elementos relacionados à sua identidade e cultura. Portanto, não se pode afirmar que esses povos estejam desprovidos de direitos e garantias constitucionais.
 
 D) Incorreta.
-As afirmativas II e IV estão incorretas. A II não corresponde aos dados do mapa, e a IV desconsidera as particularidades do perfil epidemiológico do suicídio entre indígenas.
+Essa alternativa reúne II e IV, mas ambas são inadequadas. A afirmativa II não corresponde aos dados apresentados pelo mapa. A afirmativa IV, por sua vez, propõe que as ações preventivas sejam orientadas pelos elementos que afetam a população em geral na faixa de 15 a 20 anos, quando os textos mostram que o fenômeno possui características específicas entre indígenas e alcança de maneira importante faixas etárias mais jovens. Portanto, a prevenção deve considerar o perfil apresentado para essa população, e não simplesmente reproduzir uma abordagem baseada no panorama geral.
 
 E) Incorreta.
-As afirmativas III e IV estão incorretas. A III nega a existência de direitos constitucionais para os povos indígenas, e a IV desconsidera as diferenças epidemiológicas entre a população indígena e a população geral.""
-]"
-6,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-7,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-8,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-9,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-10,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-11,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-12,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-13,NAO,NAO,SIM,NAO,,"QUESTÃO 13 — Alternativa D
+A alternativa considera III e IV corretas, mas ambas apresentam problemas. A afirmativa III nega uma proteção constitucional que efetivamente existe. Já a IV desconsidera as diferenças epidemiológicas evidenciadas pelos textos entre a população indígena e a população geral. Assim, nenhuma das duas sustenta a alternativa E como resposta correta."
+6,SIM,SIM,SIM,SIM,,"QUESTÃO 06 — Alternativa A
 
 Comentário geral
-A questão aborda o desenvolvimento iterativo e evolutivo, uma metodologia de engenharia de software que divide o projeto em ciclos (iterações) com duração fixa, produzindo, ao final de cada um, um subsistema executável, testável e integrável. O texto baseia-se em conceitos de refinamento progressivo e feedback contínuo, característicos de abordagens ágeis ou incrementais.
 
-O enunciado destaca que cada iteração inclui atividades completas (análise de requisitos, projeto, implementação e teste), e que o produto de cada iteração é um sistema parcial, mas funcional. Isso permite que o cliente interaja com protótipos ou versões parciais ao longo do desenvolvimento, não apenas no final.
+A questão aborda os impactos desiguais da pandemia de Covid-19 sobre diferentes grupos sociais nos Estados Unidos, com foco na redução da expectativa de vida. O texto destaca que, enquanto a expectativa de vida geral da população norte-americana caiu 1,1 ano em 2020, a queda foi mais acentuada entre negros (2,1 anos) e latinos (3 anos). Um ponto relevante é que os latinos, apesar de apresentarem menor incidência de condições crônicas (fatores de risco para a Covid-19), sofreram um declínio ainda maior, o que sugere que fatores não biológicos, como condições socioeconômicas, desempenharam papel fundamental.
+
+A asserção I afirma que o efeito desproporcional da pandemia na expectativa de vida de negros e latinos está relacionado à sua vulnerabilidade social. Essa afirmação é verdadeira, pois os dados do texto evidenciam um impacto desigual, e a vulnerabilidade social é um conceito amplamente utilizado para explicar disparidades em saúde, especialmente em contextos de crise como uma pandemia. A asserção II propõe uma hipótese para esse fenômeno: a precariedade das condições de trabalho desses grupos os expõe mais ao contágio. Essa hipótese é coerente e verdadeira, pois condições de trabalho precárias (como empregos essenciais com menor proteção ou sem acesso a home office) aumentam o risco de exposição ao vírus. Além disso, a asserção II justifica a I, pois a vulnerabilidade social (I) pode se manifestar em condições de trabalho precárias (II), que, por sua vez, levam a maior exposição ao vírus e, consequentemente, a um impacto desproporcional na expectativa de vida.
 
 Análise das alternativas
 
-A) A alternativa está incorreta. No desenvolvimento iterativo, a mudança nos requisitos não é evitada, mas sim gerenciada. A abordagem iterativa é flexível e permite ajustes com base em feedbacks, sendo a adaptação cíclica um de seus pilares. Evitar mudanças pode ser contraproducente em contextos dinâmicos.
+A) Correta.
+As asserções I e II são verdadeiras, e a II é uma justificativa correta da I. A vulnerabilidade social (I) pode ser exemplificada por condições de trabalho precárias (II), que aumentam a exposição ao vírus e, assim, explicam o impacto desproporcional observado nos dados.
 
-B) A alternativa está incorreta. O texto do enunciado deixa claro que o ciclo de desenvolvimento (iteração) possui duração fixa. A menção a sistemas críticos não justifica a alteração da duração, pois a fixação do tempo é uma característica central do método iterativo.
+B) Incorreta.
+Embora as asserções I e II sejam verdadeiras, a alternativa erra ao afirmar que a II não é uma justificativa correta da I. Na verdade, a II oferece um mecanismo concreto (condições de trabalho precárias) que explica como a vulnerabilidade social (I) pode resultar em maior exposição ao vírus.
 
-C) A alternativa está incorreta. O teste de usabilidade não precisa esperar até o último ciclo. No desenvolvimento iterativo, testes podem (e devem) ser realizados em cada iteração, à medida que funcionalidades são implementadas. Adiar para o final contraria a ideia de feedback contínuo.
+C) Incorreta.
+A asserção I é verdadeira, e a II não é falsa. A II é uma hipótese plausível e coerente com os dados apresentados, não uma afirmação absoluta, mas uma explicação possível para o fenômeno observado.
 
-D) A alternativa está correta. O subsistema gerado ao final de uma iteração é executável e testável, podendo ser utilizado como protótipo pelo cliente. Isso permite validação precoce, ajuste de requisitos e maior alinhamento com as necessidades do usuário.
+D) Incorreta.
+A asserção I não é falsa. Os dados do texto comprovam o impacto desproporcional da pandemia sobre negros e latinos, e a vulnerabilidade social é uma explicação adequada para esse fenômeno.
 
-E) A alternativa está incorreta. Embora a acessibilidade seja importante, o texto do enunciado não aborda especificamente o documento de teste de usabilidade nem critérios de acessibilidade. Além disso, a alternativa não está alinhada com o foco da questão, que é o desenvolvimento iterativo e a geração de protótipos funcionais em cada iteração."
-14,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
-[
-  14,
-  ""NAO"",
-  ""NAO"",
-  ""SIM"",
-  ""NAO"",
-  null,
-  ""QUESTÃO 14 — Alternativa C
+E) Incorreta.
+Ambas as asserções são verdadeiras, e a II justifica a I. Portanto, não é correto afirmar que ambas são falsas."
+7,SIM,SIM,SIM,SIM,,"QUESTÃO 7 — Alternativa C
 
 Comentário geral
 
-A questão aborda a arquitetura de Von Neumann e exige distinguir seus princípios fundamentais de técnicas de otimização empregadas em processadores modernos.
+A questão aborda a relação entre o acesso a informações sobre saúde, especialmente por meio da Internet, e seus impactos na sociedade, tanto positivos quanto negativos. Os textos apresentados discutem como o conhecimento sobre doenças pode influenciar hábitos saudáveis, mas também alertam para os riscos de informações equivocadas ou mal interpretadas, como autodiagnóstico e automedicação.
 
-A asserção I é verdadeira. A arquitetura de Von Neumann consolidou o conceito de programa armazenado, no qual instruções e dados são armazenados na memória e processados pela CPU. Apesar das inúmeras evoluções ocorridas desde os primeiros computadores — como memória cache, múltiplos núcleos, pipelines e diferentes níveis de paralelismo —, seus princípios continuam servindo de base conceitual para grande parte dos computadores de uso geral atuais.
+O Texto I destaca que o acesso a informações de saúde pode ser benéfico, como no caso do aumento de diagnósticos precoces e da redução do tabagismo, mas também pode ser prejudicial se as informações forem incorretas ou mal interpretadas. O Texto II reforça a ideia de que a busca por informações médicas na Internet é comum, mas adverte sobre os perigos da falta de critérios nessas buscas, como o autodiagnóstico e a automedicação.
 
-A asserção II é falsa. Ela mistura uma técnica real de otimização dos processadores, a busca antecipada de instruções (prefetching), com características fundamentais da arquitetura de Von Neumann. A pré-busca permite antecipar instruções que provavelmente serão necessárias, mas é uma técnica de microarquitetura, e não um princípio definidor do modelo de Von Neumann.
+Analisando as afirmações:
+- A afirmativa I está correta, pois ambos os textos ressaltam a importância de critérios nas buscas por informações de saúde, uma vez que informações equivocadas podem levar a interpretações erradas e práticas perigosas.
+- A afirmativa II está correta, pois o Texto I explicitamente menciona que o conhecimento sobre doenças está correlacionado com a adoção de hábitos saudáveis, citando exemplos como o aumento de diagnósticos precoces e a redução do tabagismo.
+- A afirmativa III está incorreta, pois o Texto II não defende o acesso a informações de saúde como meio de tornar o indivíduo proativo na prevenção de patologias. Pelo contrário, ele alerta para os riscos de buscas sem critérios, como autodiagnóstico e automedicação.
 
-Além disso, há um erro importante na afirmação de que a próxima instrução a ser executada está “normalmente armazenada nos registradores da CPU e não precisa ser buscada da memória principal”. Os registradores possuem funções específicas e capacidade muito limitada; as instruções de um programa permanecem no sistema de memória e são trazidas para a CPU por meio da hierarquia de memória, podendo estar previamente disponíveis em cache. Uma instrução efetivamente em processamento pode ocupar registradores internos, como o registrador de instrução, mas isso não significa que as próximas instruções do programa permaneçam normalmente armazenadas nos registradores.
-
-Portanto:
-
-I = verdadeira
-II = falsa
-
-Logo, a alternativa correta é C.
+Portanto, apenas as afirmações I e II estão corretas.
 
 Análise das alternativas
 
 A) Incorreta.
-Para que essa alternativa fosse correta, I e II deveriam ser verdadeiras e II ainda teria de justificar I. Embora I seja verdadeira, II apresenta uma caracterização inadequada da arquitetura de Von Neumann. A pré-busca de instruções é uma técnica posterior de otimização e não uma propriedade fundamental que explique a permanência desse modelo arquitetural.
+A afirmativa I está correta, mas a alternativa A considera apenas I, ignorando que a afirmativa II também está correta. O Texto I não se limita a advertir sobre os riscos; ele também destaca os benefícios do acesso a informações de saúde.
 
 B) Incorreta.
-Esta é uma alternativa plausível porque a asserção II menciona uma técnica real de otimização — a antecipação da busca de instruções. Entretanto, ela apresenta essa técnica de maneira inadequada ao associá-la diretamente à arquitetura de Von Neumann e ao afirmar que a próxima instrução normalmente se encontra nos registradores da CPU. A pré-busca de instruções é uma técnica de microarquitetura e não constitui um princípio fundamental do modelo de Von Neumann.
+A afirmativa III está incorreta, pois o Texto II não defende o acesso a informações de saúde como meio de prevenção. Além disso, as afirmativas I e II também estão corretas, o que torna a alternativa B incompleta.
 
 C) Correta.
-A asserção I está correta porque os princípios fundamentais da arquitetura de Von Neumann continuam presentes como base conceitual de computadores modernos. A asserção II é falsa porque confunde técnicas modernas de antecipação e processamento de instruções com características constitutivas da arquitetura e, principalmente, apresenta de forma inadequada o papel dos registradores no armazenamento das próximas instruções.
+As afirmativas I e II estão corretas e são sustentadas pelos textos. A afirmativa I aborda a necessidade de critérios nas buscas por informações de saúde, enquanto a afirmativa II destaca os benefícios do acesso a informações de saúde. A afirmativa III, no entanto, não é sustentada pelo Texto II.
 
 D) Incorreta.
-A alternativa inverte os valores lógicos corretos das proposições. A asserção I não é falsa: apesar das várias modificações introduzidas ao longo das décadas, o modelo de programa armazenado associado à arquitetura de Von Neumann permanece fundamental em sistemas computacionais modernos. A II, por sua vez, é que contém o erro conceitual.
+A afirmativa II está correta, mas a afirmativa III está incorreta. O Texto II não defende o acesso a informações de saúde como meio de prevenção; ele alerta para os riscos de buscas sem critérios.
 
 E) Incorreta.
-Não é correto considerar as duas asserções falsas. A primeira descreve adequadamente a permanência histórica e conceitual da arquitetura de Von Neumann. Portanto, mesmo que II seja falsa, a alternativa E não pode ser aceita.""
-]"
-15,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-16,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-17,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-18,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-19,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-20,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-21,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-22,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-23,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-24,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-25,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-26,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-27,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-28,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-29,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-30,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-31,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-32,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-33,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-34,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
-35,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+A afirmativa III está incorreta, pois o Texto II não defende o acesso a informações de saúde como meio de prevenção. Portanto, nem todas as afirmativas estão corretas."
+8,SIM,SIM,SIM,SIM,,"QUESTÃO 08 — Alternativa D
+
+Comentário geral
+
+A questão aborda dois modelos de democracia: a majoritária e a consensual. O texto destaca que, na democracia majoritária, o governo é orientado pela vontade da maioria, enquanto na democracia consensual busca-se governar para o maior número possível de pessoas, visando consensos mais amplos e evitando a exclusão dos interesses das minorias. O texto também ressalta que a democracia consensual exige lideranças políticas mais maduras, tanto no governo quanto na oposição.
+
+A afirmativa I está correta, pois o bem comum em uma democracia não deve ser reduzido automaticamente à opinião da maioria. A democracia consensual, ao buscar atender ao máximo de pessoas, demonstra que o bem comum pode transcender a simples vontade majoritária.
+
+A afirmativa II está incorreta. Embora o texto mencione a necessidade de maturidade política tanto do governo quanto da oposição, a democracia consensual não se define pela obrigação de que situação e oposição alcancem consenso em todas as decisões. O foco é ampliar a inclusão de interesses sociais, não necessariamente um consenso formal entre os polos políticos.
+
+A afirmativa III está correta. O modelo majoritário, ao priorizar a vontade da maioria, tende a gerar uma dinâmica política mais competitiva e adversarial, com maior polarização e combatividade entre posições divergentes, em contraste com a lógica de acomodação e negociação da democracia consensual.
+
+A afirmativa IV está correta, pois a democracia consensual pressupõe que a situação política no poder considere as necessidades das minorias, buscando governar para todo o povo, e não apenas para a maioria.
+
+Assim, as afirmativas corretas são I, III e IV.
+
+Análise das alternativas
+
+A) Incorreta.
+A alternativa reúne I e II. Embora I esteja correta, II não caracteriza adequadamente a democracia consensual, pois reduz o conceito a um consenso formal entre situação e oposição, o que não é exigido pelo texto.
+
+B) Incorreta.
+A alternativa reúne I e IV, mas omite III, que também está correta. A dinâmica majoritária, de fato, tende a ser mais adversarial, o que é compatível com a caracterização do modelo majoritário apresentada na questão.
+
+C) Incorreta.
+A alternativa reúne II e III. Embora III esteja correta, II não está, pois a democracia consensual não se define pelo consenso entre situação e oposição, mas pela busca de decisões que contemplem o máximo possível de pessoas e interesses.
+
+D) Correta.
+As afirmativas I, III e IV estão de acordo com a distinção entre democracia majoritária e consensual apresentada no texto. I reconhece que o bem comum não se reduz à vontade majoritária; III caracteriza a dinâmica mais competitiva do modelo majoritário; e IV expressa a preocupação do modelo consensual com a inclusão das minorias.
+
+E) Incorreta.
+A alternativa inclui II, que está incorreta, e exclui I, que está correta. Além disso, a democracia consensual não se resume a um consenso entre situação e oposição, mas sim à busca de decisões que abranjam o maior número possível de interesses."
+9,SIM,SIM,SIM,SIM,,"QUESTÃO 09 — Alternativa E
+
+Comentário geral
+
+A questão aborda algoritmos de escalonamento de processos e sua adequação a diferentes ambientes computacionais. O escalonador é o componente do sistema operacional responsável por decidir qual processo ou thread no estado pronto utilizará a CPU em seguida. Em ambientes distintos, como sistemas em lote, interativos ou de tempo real, os objetivos do escalonamento variam, exigindo algoritmos específicos para maximizar o uso dos recursos.
+
+Em sistemas interativos, a responsividade e o compartilhamento justo da CPU são fundamentais. O escalonamento por prioridades é adequado a esse contexto, pois permite que processos com maior prioridade (geralmente associados a tarefas mais críticas ou sensíveis ao tempo) sejam executados primeiro, garantindo melhor experiência ao usuário.
+
+Análise das alternativas
+
+A) Incorreta. O algoritmo First In, Last Out (FILO) não é um método clássico de escalonamento de CPU. Além disso, sistemas de tempo real exigem previsibilidade e cumprimento de prazos, características não atendidas por FILO, que se assemelha a uma política de pilha (LIFO), inadequada para esse ambiente.
+
+B) Incorreta. O Rate Monotonic Scheduling (RMS) é um algoritmo projetado para sistemas de tempo real, onde tarefas com períodos menores recebem prioridades maiores. Sua associação a sistemas em lote está incorreta, pois esse ambiente valoriza critérios como vazão e tempo médio de espera, não prazos rígidos.
+
+C) Incorreta. O algoritmo Tarefa Mais Curta Primeiro (SJF) é mais adequado para sistemas em lote, onde é possível estimar o tempo de execução das tarefas. Em sistemas interativos, o SJF pode causar inanição de processos longos e não garante boa responsividade.
+
+D) Incorreta. O round-robin é um algoritmo comumente usado em sistemas interativos e de tempo compartilhado, pois distribui a CPU de forma equitativa entre os processos. No entanto, não é o mais indicado para sistemas de tempo real, que exigem garantias temporais mais rigorosas.
+
+E) Correta. O escalonamento por prioridades é adequado para sistemas interativos, pois permite que processos com maior prioridade sejam executados primeiro, garantindo melhor responsividade e atendimento a demandas críticas do usuário."
+10,SIM,SIM,SIM,SIM,,"QUESTÃO 10 — Alternativa B
+
+Comentário geral
+
+A questão aborda o reconhecimento de estruturas de dados fundamentais em Java com base em suas características de organização, inserção e remoção. As classes A, B, C e D são descritas por meio de suas propriedades operacionais, e o objetivo é associá-las às estruturas de dados correspondentes.
+
+A Classe A permite inserções no início ou no final de uma sequência linear, o que define um deque (double-ended queue), estrutura que possibilita operações em ambas as extremidades.
+
+A Classe B organiza os objetos em uma ordem linear por meio de referências ao próximo elemento, característica típica de uma lista simplesmente ligada.
+
+A Classe C remove os objetos na ordem oposta à inserção, o que corresponde ao comportamento LIFO (Last In, First Out) de uma pilha.
+
+A Classe D remove sempre o elemento inserido primeiro, seguindo o princípio FIFO (First In, First Out) de uma fila.
+
+Portanto, a sequência correta é: deque, lista simplesmente ligada, pilha e fila, que corresponde à alternativa B.
+
+Análise das alternativas
+
+A) Incorreta. A Classe A não é uma lista circular, pois esta última é caracterizada por um ciclo entre o último e o primeiro elemento, enquanto a Classe A permite inserções nas extremidades, típico de um deque. As Classes B, C e D estão corretas, mas o erro em A invalida a alternativa.
+
+B) Correta. A associação está integralmente alinhada: Classe A (deque), Classe B (lista simplesmente ligada), Classe C (pilha) e Classe D (fila).
+
+C) Incorreta. A Classe A não é uma lista duplamente ligada, pois a descrição enfatiza a operação (inserção nas extremidades), não a implementação interna. Além disso, as Classes C e D estão invertidas: C é pilha (LIFO) e D é fila (FIFO).
+
+D) Incorreta. A Classe A não é uma pilha, pois esta restringe operações a uma única extremidade. A Classe B não é uma fila, pois a descrição refere-se à estrutura de uma lista ligada. As Classes C e D também estão mal associadas.
+
+E) Incorreta. Embora A (deque) e D (fila) estejam corretas, a Classe B não é uma pilha, e a Classe C não é uma lista ligada. A Classe C é, de fato, uma pilha, e a Classe B é uma lista simplesmente ligada."
+11,SIM,SIM,SIM,SIM,,"QUESTÃO 11 — Alternativa D
+
+Comentário geral
+
+A questão aborda decisões de projeto em redes neurais profundas para classificação de imagens, considerando dois objetivos simultâneos: aumentar a acurácia e evitar um tempo de treinamento excessivamente alto. O cenário apresentado é de classificação de imagens, o que torna especialmente relevante a escolha da arquitetura da rede, a quantidade de dados de treinamento e a complexidade computacional envolvida.
+
+A afirmativa I está incorreta. Aumentar o número de camadas pode, em determinadas situações, aumentar a capacidade de representação da rede e até melhorar a acurácia. Entretanto, isso normalmente também aumenta a quantidade de operações e parâmetros envolvidos, o que tende a aumentar, e não diminuir, o tempo de treinamento.
+
+A afirmativa II está correta. Redes Neurais Convolucionais, ou CNNs, são particularmente adequadas para classificação de imagens porque exploram padrões espaciais locais, como bordas, formas e características visuais. Essa especialização pode melhorar a acurácia, embora as operações de convolução e arquiteturas mais complexas possam demandar maior capacidade computacional, frequentemente com uso de GPUs.
+
+A afirmativa III está incorreta. Aumentar o número de neurônios por camada aumenta o número de parâmetros que precisam ser ajustados durante o treinamento. Embora isso possa, em alguns casos, favorecer sobreajuste e até prejudicar a generalização, não é correto afirmar que essa alteração diminui o tempo de treinamento; em geral, ocorre o oposto.
+
+A afirmativa IV está correta. O aumento do número de amostras de treinamento pode melhorar a capacidade de generalização da rede e, consequentemente, sua acurácia. Porém, como há mais dados a processar em cada época, o tempo total de treinamento tende a aumentar.
+
+A afirmativa V está incorreta no contexto da questão. Redes recorrentes, como RNNs e LSTMs, são voltadas principalmente para dados sequenciais e temporais, como texto, áudio e séries temporais. Para classificação de imagens estáticas, as CNNs são a arquitetura mais naturalmente indicada.
+
+Portanto, apenas as afirmativas II e IV estão corretas.
+
+Análise das alternativas
+
+A) Incorreta. A afirmativa IV está correta, mas a I não. O erro de I está em afirmar que o aumento do número de camadas diminuiria o tempo de treinamento. Redes mais profundas tendem a exigir mais cálculos durante a propagação direta e o ajuste dos pesos, aumentando o custo computacional.
+
+B) Incorreta. A alternativa reúne I e V. A afirmativa I está errada pela associação inadequada entre maior profundidade e menor tempo de treinamento. A afirmativa V também não é adequada ao problema apresentado, porque redes recorrentes são projetadas principalmente para processamento sequencial, e não constituem a escolha típica para classificação de imagens estáticas.
+
+C) Incorreta. A afirmativa II está correta, mas a III está incorreta. Aumentar o número de neurônios eleva a capacidade do modelo, mas também aumenta a quantidade de parâmetros e operações. Embora uma rede excessivamente grande possa sofrer com sobreajuste, não se pode afirmar que o aumento de neurônios leve simultaneamente à piora da acurácia e à redução do tempo de treinamento.
+
+D) Correta. A afirmativa II identifica adequadamente as CNNs como uma arquitetura apropriada para imagens, capaz de melhorar a acurácia com possível aumento de demanda computacional. A afirmativa IV também está correta porque mais dados de treinamento podem melhorar a generalização, embora aumentem o volume de processamento necessário. Essa é a combinação que melhor atende ao cenário apresentado.
+
+E) Incorreta. A alternativa considera III e V corretas. A afirmativa III erra ao associar mais neurônios à diminuição do tempo de treinamento, enquanto V propõe uma arquitetura que não é a escolha natural para o tipo de dado apresentado. Assim, ambas são inadequadas no contexto da tarefa."
+12,SIM,SIM,SIM,SIM,,"QUESTÃO 12 — Alternativa B
+
+Comentário geral
+
+A questão aborda aspectos fundamentais da Lei Geral de Proteção de Dados Pessoais (LGPD), como a proteção de dados sensíveis, o conceito de anonimização, os direitos do titular dos dados e as competências da Autoridade Nacional de Proteção de Dados (ANPD).
+
+A afirmativa I está correta, pois a LGPD de fato estabelece proteção especial para dados pessoais sensíveis, que incluem origem racial ou étnica, convicção religiosa e opinião política, entre outros. Esses dados estão sujeitos a regras mais restritivas de tratamento devido ao maior potencial de discriminação ou violação de direitos do titular.
+
+A afirmativa II está incorreta. Embora a LGPD preveja que dados anonimizados não sejam considerados dados pessoais, a afirmação erra ao ignorar a possibilidade de reversão do processo de anonimização. Se o dado puder ser reidentificado por meios técnicos razoáveis, ele volta a ser considerado dado pessoal.
+
+A afirmativa III está correta. A LGPD garante ao titular o direito de solicitar informações sobre o tratamento de seus dados, bem como de exigir a correção, atualização ou eliminação deles, conforme as hipóteses previstas na lei.
+
+A afirmativa IV está incorreta. Embora a ANPD tenha competências de fiscalização, orientação e regulamentação da aplicação da LGPD, ela não possui poder para modificar a legislação. A alteração de leis depende do processo legislativo, que é de competência do Poder Legislativo.
+
+Portanto, apenas as afirmativas I e III estão corretas.
+
+Análise das alternativas
+
+A) Incorreta.
+A alternativa combina I (correta) e II (incorreta). A afirmativa II está errada porque a anonimização não é absoluta: se o processo puder ser revertido, o dado volta a ser considerado pessoal.
+
+B) Correta.
+A alternativa reúne I e III, ambas corretas. A afirmativa I trata da proteção especial aos dados sensíveis, e a III aborda os direitos do titular, como acesso, correção e eliminação de dados.
+
+C) Incorreta.
+A alternativa combina II (incorreta) e IV (incorreta). A afirmativa II desconsidera a possibilidade de reversão da anonimização, e a IV atribuí à ANPD uma competência que não lhe pertence (modificar a legislação).
+
+D) Incorreta.
+A alternativa inclui I (correta), III (correta) e IV (incorreta). Embora I e III estejam corretas, a inclusão de IV, que está errada, invalida a alternativa.
+
+E) Incorreta.
+A alternativa combina II (incorreta), III (correta) e IV (incorreta). A presença de II e IV, ambas incorretas, torna a alternativa inválida."
+13,NAO,NAO,NAO,NAO,,"QUESTÃO 13 — Alternativa E
+
+Comentário geral
+A questão aborda o desenvolvimento de sistemas iterativo e evolutivo, destacando suas características, como ciclos de desenvolvimento com duração fixa (iterações), geração de sistemas parciais executáveis e testáveis, e a incorporação de realimentação e adaptação cíclicas. O texto baseia-se em conceitos de engenharia de software, especialmente no contexto de metodologias ágeis ou incrementais, como o RUP (Rational Unified Process) ou Scrum.
+
+O desenvolvimento iterativo e evolutivo permite que o sistema seja construído em partes, com cada iteração entregando um subsistema funcional. Isso possibilita que o cliente interaja com versões parciais do sistema, fornecendo feedback para ajustes nas próximas iterações. Além disso, a abordagem valoriza a flexibilidade para incorporar mudanças nos requisitos ao longo do processo, desde que sejam gerenciadas adequadamente.
+
+Análise das alternativas
+
+A) A alternativa está incorreta. No desenvolvimento iterativo e evolutivo, a mudança nos requisitos não é evitada, mas sim gerenciada. A abordagem é projetada para acomodar refinamentos e ajustes ao longo das iterações, desde que sejam controlados e alinhados com os objetivos do projeto. Evitar mudanças pode limitar a adaptação do sistema às necessidades reais do cliente.
+
+B) A alternativa está incorreta. O texto do enunciado deixa claro que o ciclo de desenvolvimento (iteração) possui duração fixa. A menção a sistemas críticos não justifica a alteração da duração, pois a fixação do tempo é um princípio central dessa abordagem, garantindo previsibilidade e ritmo constante.
+
+C) A alternativa está incorreta. No desenvolvimento iterativo, o teste de usabilidade não é realizado apenas no último ciclo. Pelo contrário, ele pode (e deve) ser executado em cada iteração, à medida que subsistemas parciais são entregues. Isso permite identificar problemas de usabilidade precocemente e incorporar melhorias nas iterações seguintes.
+
+D) A alternativa está incorreta. Embora o subsistema gerado ao final de uma iteração possa ser utilizado como protótipo para validação com o cliente, o texto do enunciado não menciona explicitamente essa prática como uma característica central. Além disso, a alternativa E é a correta segundo o Gabarito INEP, o que torna esta opção inválida.
+
+E) A alternativa está correta. O documento de teste de usabilidade deve, de fato, contemplar critérios de acessibilidade para garantir que o sistema atenda a todos os usuários, inclusive aqueles com necessidades especiais. A acessibilidade é um aspecto fundamental da usabilidade, e sua inclusão em testes é uma boa prática em engenharia de software, alinhada com padrões como a NBR ISO/IEC 9126 ou as diretrizes WCAG."
+14,SIM,SIM,SIM,SIM,,"QUESTÃO 14 — Alternativa C
+
+Comentário geral
+
+A questão aborda a arquitetura de Von Neumann e sua relevância histórica, bem como a distinção entre seus princípios fundamentais e técnicas de otimização empregadas em processadores modernos. O texto base menciona o ENIAC e a transição para o uso de código binário, proposto por Von Neumann, como forma de reduzir erros em sistemas eletrônicos.
+
+A asserção I afirma que a arquitetura de Von Neumann, concebida na década de 1950, permanece até os dias atuais. Essa afirmação é verdadeira, pois os princípios fundamentais dessa arquitetura — como o conceito de programa armazenado, no qual instruções e dados são armazenados na memória e processados pela CPU — continuam servindo de base para a maioria dos computadores modernos, mesmo com as inúmeras evoluções tecnológicas.
+
+A asserção II, por sua vez, afirma que a arquitetura de Von Neumann permite que a CPU realize a busca de uma ou mais instruções além da próxima a ser executada, acelerando a velocidade de operação, uma vez que a próxima instrução estaria normalmente armazenada nos registradores da CPU. Essa asserção é falsa, pois a busca antecipada de instruções (prefetching) é uma técnica de otimização de microarquitetura, e não um princípio fundamental da arquitetura de Von Neumann. Além disso, a afirmação de que a próxima instrução está ""normalmente armazenada nos registradores da CPU"" é incorreta, já que os registradores têm funções específicas e capacidade limitada, e as instruções são buscadas na hierarquia de memória (cache, memória principal etc.), não permanecendo normalmente nos registradores.
+
+Portanto, a asserção I é verdadeira, e a asserção II é falsa.
+
+Análise das alternativas
+
+A) Incorreta. Para que esta alternativa fosse correta, ambas as asserções deveriam ser verdadeiras, e a II deveria justificar a I. No entanto, a asserção II é falsa, o que invalida a alternativa.
+
+B) Incorreta. Embora a asserção I seja verdadeira, a asserção II é falsa, o que torna impossível que a II seja uma justificativa correta ou não para a I. Além disso, a asserção II contém erros conceituais, como a afirmação incorreta sobre o armazenamento de instruções nos registradores.
+
+C) Correta. A asserção I é verdadeira, e a asserção II é falsa, o que corresponde à descrição desta alternativa.
+
+D) Incorreta. A asserção I não é falsa, pois a arquitetura de Von Neumann de fato permanece como base conceitual para os computadores modernos. A asserção II é falsa, mas a alternativa inverte os valores lógicos das proposições.
+
+E) Incorreta. A asserção I é verdadeira, o que invalida esta alternativa, que exige que ambas as asserções sejam falsas."
+15,SIM,SIM,SIM,SIM,,"QUESTÃO 15 — Alternativa C
+
+Comentário geral
+
+A questão aborda os papéis e responsabilidades no framework Scrum, especialmente as funções do Scrum Master e do Product Owner. O enunciado destaca que esses papéis atuam como interface entre a equipe de desenvolvimento e a organização, e pede para avaliar afirmações sobre suas atribuições e autoridade.
+
+O Scrum é um framework ágil que promove a auto-organização da equipe, com papéis bem definidos. O Scrum Master é responsável por facilitar a adoção do Scrum, removendo impedimentos e garantindo que a equipe siga as práticas do framework. O Product Owner, por sua vez, é o responsável por maximizar o valor do produto, definindo prioridades e garantindo que o foco permaneça nas necessidades do negócio e dos stakeholders.
+
+Analisando as afirmações:
+- A afirmativa I está correta, pois o Scrum Master de fato guia a equipe no uso efetivo do Scrum, atuando como facilitador e mentor.
+- A afirmativa II está correta, pois o Product Owner garante que o foco permaneça no produto, evitando que a equipe se perca em questões técnicas menos relevantes para o valor do negócio.
+- A afirmativa III está incorreta, pois nem o Scrum Master nem o Product Owner têm autoridade hierárquica direta sobre a equipe. O Scrum preza pela auto-organização, e esses papéis não exercem função de comando tradicional.
+
+Portanto, as afirmações I e II são corretas, e a III é incorreta.
+
+Análise das alternativas
+
+A) Incorreta.
+A alternativa considera apenas a afirmativa II correta. No entanto, a afirmativa I também está correta, pois o Scrum Master tem o papel de guiar a equipe no uso do Scrum. Portanto, esta alternativa está incompleta.
+
+B) Incorreta.
+A alternativa considera apenas a afirmativa III correta. Contudo, a afirmativa III é falsa, pois os papéis do Scrum Master e do Product Owner não envolvem autoridade hierárquica direta sobre a equipe.
+
+C) Correta.
+As afirmativas I e II estão corretas. O Scrum Master guia a equipe no uso do Scrum, e o Product Owner mantém o foco no produto. A afirmativa III é falsa, pois não há autoridade hierárquica direta sobre a equipe.
+
+D) Incorreta.
+A alternativa combina as afirmativas I e III. Embora a afirmativa I esteja correta, a afirmativa III está incorreta, pois os papéis não exercem autoridade hierárquica direta sobre a equipe.
+
+E) Incorreta.
+A alternativa considera todas as afirmativas corretas. No entanto, a afirmativa III está incorreta, pois o Scrum não prevê autoridade hierárquica direta para o Scrum Master ou o Product Owner sobre a equipe."
+16,SIM,SIM,SIM,SIM,,"QUESTÃO 16 — Alternativa B
+
+Comentário geral
+
+A questão aborda a representação de circuitos combinacionais por meio de expressões booleanas, utilizando as portas lógicas básicas: AND (E), OR (OU) e NOT (NÃO). O objetivo é derivar a expressão booleana que corresponde ao circuito apresentado, seguindo o fluxo das entradas até a saída final.
+
+No circuito, as entradas X₁ e X₂ passam por portas NOT, resultando em X₁' e X₂'. Em seguida, X₂' e X₃ são combinadas por uma porta AND, produzindo X₃ · X₂'. Esse resultado é então combinado com X₁' por uma porta OR, gerando (X₃ · X₂') + X₁'. Por fim, toda essa expressão passa por uma porta NOT, resultando em ((X₃ · X₂') + X₁')'.
+
+Análise das alternativas
+
+A) Incorreta.
+A expressão (X₃ · X₂') + X₁' representa corretamente as etapas intermediárias do circuito, mas não inclui a última porta NOT, que nega todo o resultado da OR. Portanto, não representa a saída final do circuito.
+
+B) Correta.
+A expressão ((X₃ · X₂') + X₁')' reproduz fielmente a sequência de operações do circuito: negação de X₁ e X₂, combinação AND entre X₃ e X₂', combinação OR com X₁' e, por fim, negação do resultado total.
+
+C) Incorreta.
+A expressão ((X₃ · X₂)' + X₁')' posiciona a negação de forma incorreta. No circuito, X₂ é negado antes da porta AND, resultando em X₃ · X₂', e não (X₃ · X₂)'. A posição da negação altera o significado lógico da expressão.
+
+D) Incorreta.
+A expressão (X₃ · X₂)' + X₁' apresenta dois erros: a negação de X₂ não é aplicada antes da porta AND, e a negação final não abrange todo o resultado da OR, mas apenas parte dele.
+
+E) Incorreta.
+A expressão ((X₃ · X₂')' + X₁')' introduz uma negação adicional após a porta AND, que não existe no circuito. A negação final deve atuar apenas sobre o resultado da OR, não sobre o resultado da AND."
+17,SIM,SIM,SIM,SIM,,"QUESTÃO 17 — Alternativa C
+
+Comentário geral
+
+A questão aborda o conceito de exclusão mútua em sistemas operacionais, especialmente no contexto de regiões críticas, onde processos acessam recursos compartilhados. O objetivo é evitar condições de corrida, garantindo que apenas um processo esteja em sua região crítica por vez. O texto e a figura ilustram o comportamento ideal para exclusão mútua, destacando a necessidade de sincronização entre processos.
+
+A asserção I afirma que a exclusão mútua pode ser obtida por meio da desabilitação de interrupções controlada pelo Sistema Operacional, não sendo permitido que o usuário faça esse controle. Essa afirmação é verdadeira, pois, em sistemas monoprocessados, desabilitar interrupções pode evitar que o processo seja interrompido durante a execução de uma região crítica. No entanto, essa operação deve ser restrita ao Sistema Operacional para evitar abusos, como um processo não reabilitar as interrupções, o que comprometeria o sistema.
+
+A asserção II afirma que a desabilitação de interrupções impede que o processador executando um processo em sua região crítica seja interrompido e que essa técnica é mais eficiente em sistemas multiprocessadores. Essa afirmação é falsa, pois, embora a desabilitação de interrupções possa evitar a preempção em uma CPU, em sistemas multiprocessadores, outras CPUs podem continuar executando e acessando a mesma região crítica, não garantindo, assim, exclusão mútua.
+
+Portanto, I é verdadeira e II é falsa, o que torna a alternativa C a correta.
+
+Análise das alternativas
+
+A) Incorreta. A asserção II é falsa, pois a desabilitação de interrupções não é eficiente em sistemas multiprocessadores, já que não impede que outras CPUs acessem a região crítica simultaneamente. Além disso, II não justifica I, pois a justificativa apresentada em II é incorreta.
+
+B) Incorreta. Embora a asserção I seja verdadeira, a asserção II é falsa, o que invalida a alternativa, que pressupõe que ambas são verdadeiras.
+
+C) Correta. A asserção I é verdadeira, pois a desabilitação de interrupções pode ser usada pelo Sistema Operacional para garantir exclusão mútua em sistemas monoprocessados. A asserção II é falsa, pois a técnica não é eficiente em sistemas multiprocessadores, como afirmado.
+
+D) Incorreta. A asserção I é verdadeira, e a asserção II é falsa, o que inverte a avaliação correta das asserções.
+
+E) Incorreta. A asserção I é verdadeira, e a asserção II é falsa, o que torna essa alternativa incorreta."
+18,SIM,SIM,SIM,SIM,,"QUESTÃO 18 — Alternativa E
+
+Comentário geral
+
+A questão aborda os conceitos de aprendizado supervisionado e não supervisionado em Aprendizado de Máquina, destacando suas principais características e aplicações. O aprendizado supervisionado utiliza dados rotulados, ou seja, exemplos com entradas e saídas conhecidas, para treinar modelos capazes de generalizar para novos dados. Já o aprendizado não supervisionado trabalha com dados não rotulados, buscando identificar padrões, estruturas ou agrupamentos intrínsecos aos dados.
+
+No texto-base, é apresentada a distinção entre os dois tipos de aprendizado: o supervisionado conta com uma referência (saída desejada) para orientar o treinamento, enquanto o não supervisionado não utiliza referências, focando na descoberta de estruturas nos dados.
+
+Analisando as afirmações:
+- A afirmativa I está correta, pois a regressão linear é um modelo clássico de aprendizado supervisionado, que utiliza dados de entrada e saída conhecidos para ajustar seus parâmetros.
+- A afirmativa II está incorreta, uma vez que o cálculo do erro como a diferença entre a saída desejada e a saída gerada pressupõe a existência de uma referência conhecida, característica do aprendizado supervisionado, e não do não supervisionado.
+- A afirmativa III está correta, pois o aprendizado não supervisionado é amplamente utilizado para identificar padrões em dados sem rótulos prévios, como em tarefas de agrupamento (clustering).
+- A afirmativa IV está correta, já que o aprendizado supervisionado, ao ser treinado com dados conhecidos, busca aprender padrões que permitam tomar decisões ou fazer previsões precisas para novos dados.
+
+Portanto, as afirmações I, III e IV estão corretas, enquanto a II está incorreta.
+
+Análise das alternativas
+
+A) Incorreta.
+Inclui apenas I e III, omitindo a afirmativa IV, que também está correta. A alternativa não abrange todas as afirmações verdadeiras.
+
+B) Incorreta.
+Inclui II, que está incorreta, e III, que está correta. Além disso, omite I e IV, que também são verdadeiras. A afirmativa II é inválida porque o cálculo de erro com base em uma saída desejada não se aplica ao aprendizado não supervisionado.
+
+C) Incorreta.
+Inclui II, que está incorreta, e IV, que está correta. A afirmativa II é inadequada, pois o aprendizado não supervisionado não utiliza saídas desejadas para calcular erros. Além disso, omite I e III, que são verdadeiras.
+
+D) Incorreta.
+Inclui I e IV, que estão corretas, mas também inclui II, que está incorreta. A afirmativa II é inválida, como explicado anteriormente. Além disso, omite III, que está correta.
+
+E) Correta.
+Reúne as afirmações I, III e IV, que estão corretas. A afirmativa II é a única incorreta, pois o cálculo de erro com base em uma saída desejada é característico do aprendizado supervisionado, não do não supervisionado."
+19,SIM,SIM,SIM,SIM,,"QUESTÃO 19 — Alternativa D
+
+Comentário geral
+
+A questão aborda o uso de personas e cenários na elicitação de requisitos, técnicas que visam enriquecer a compreensão sobre usuários, comportamentos e situações de uso. O texto base destaca que essas técnicas trazem detalhes realísticos, permitem explorar atividades atuais e futuras dos usuários e orientam o desenvolvimento ao longo do ciclo de vida do produto.
+
+A afirmativa I está correta, pois personas e cenários tornam explícitas situações de uso, necessidades e comportamentos que, de outra forma, poderiam permanecer implícitos nos requisitos. Ao representar usuários e contextos concretos, essas técnicas favorecem a identificação de aspectos que não estariam claros em uma descrição abstrata.
+
+A afirmativa II está correta, uma vez que cenários e personas permitem ao projetista visualizar o impacto de suas decisões de projeto sobre a experiência do usuário. Ao simular situações de uso, é possível avaliar como as escolhas de design afetam as tarefas e objetivos dos usuários.
+
+A afirmativa III está incorreta. Personas e cenários são técnicas descritivas e narrativas, voltadas para contextualizar e humanizar o processo de desenvolvimento. Elas não têm como objetivo produzir uma especificação formal e não ambígua dos requisitos, função esta que cabe a outras técnicas, como linguagens formais ou modelos matemáticos.
+
+A afirmativa IV está correta, pois uma das principais vantagens dessas técnicas é manter a equipe de desenvolvimento focada nos usuários reais do sistema. Personas representam perfis de usuários, e cenários descrevem situações de uso, o que evita que o desenvolvimento se torne excessivamente técnico ou abstrato.
+
+Portanto, as afirmativas I, II e IV estão corretas, enquanto a III está incorreta.
+
+Análise das alternativas
+
+A) Incorreta.
+A alternativa inclui I (correta) e III (incorreta). Personas e cenários não são ferramentas para especificação formal de requisitos, logo a inclusão de III a torna inválida.
+
+B) Incorreta.
+A alternativa inclui I e IV (corretas), mas exclui II, que também está correta. O uso de personas e cenários não se limita a explicitarem situações implícitas e lembrarem que pessoas reais usarão o produto; eles também auxiliam na avaliação do impacto das decisões de projeto.
+
+C) Incorreta.
+A alternativa inclui II (correta) e III (incorreta). Além disso, omite I e IV, que também são verdadeiras. Personas e cenários auxiliam na análise de decisões de projeto, mas não são técnicas formais de especificação.
+
+D) Correta.
+A alternativa inclui I, II e IV, todas corretas. Essas afirmativas descrevem adequadamente os objetivos do uso de personas e cenários: explicitam situações implícitas, auxiliam na compreensão do impacto das decisões de projeto e mantêm o foco nos usuários reais.
+
+E) Incorreta.
+A alternativa inclui II, III e IV. Embora II e IV estejam corretas, III está incorreta, o que invalida a alternativa. Além disso, exclui I, que também é verdadeira."
+20,SIM,SIM,SIM,SIM,,"QUESTÃO 20 — Alternativa A
+
+Comentário geral
+
+A questão aborda algoritmos de busca em vetores, comparando uma busca sequencial com uma busca binária, além de exigir a identificação do uso de recursividade.
+
+O vetor utilizado no programa é: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19. Como os índices em C começam em zero, o valor 15 está no índice 7.
+
+A função funcao1 percorre o vetor sequencialmente desde a posição 0 até encontrar o valor procurado. Ao procurar 15, encontra-o na posição 7 e retorna 7.
+
+A funcao2 implementa uma busca binária recursiva. Na primeira chamada, o intervalo é 0 a 9, com posição central 4 (valor 9). Como 15 é maior que 9, a busca continua na metade direita, entre as posições 5 e 9. Na chamada seguinte, o intervalo é 5 a 9, com posição central 7 (valor 15), onde o valor é encontrado e a função retorna 7.
+
+Assim, a impressão realizada pelo programa é: 7 - 7.
+
+Portanto, a afirmativa I é verdadeira.
+
+A afirmativa II é falsa. A funcao1 implementa busca sequencial, com complexidade O(n) no pior caso, enquanto a funcao2 implementa busca binária, com complexidade O(log n) para vetores ordenados. Assim, no pior caso, a busca binária é assintoticamente mais eficiente que a busca sequencial.
+
+A afirmativa III também é falsa. A funcao2 não implementa uma estratégia iterativa, mas sim recursiva, pois realiza chamadas a si mesma para dividir o intervalo de busca.
+
+Portanto, apenas a afirmativa I está correta.
+
+Análise das alternativas
+
+A) Correta.
+Somente a afirmativa I é verdadeira. Tanto funcao1 quanto funcao2 encontram o valor 15 no índice 7 do vetor, resultando na saída 7 - 7. A afirmativa II é falsa porque a busca binária é mais eficiente no pior caso, e a III é falsa porque funcao2 é recursiva, não iterativa.
+
+B) Incorreta.
+A afirmativa III está errada, pois funcao2 é recursiva. Além disso, a afirmativa I é verdadeira, o que invalida esta alternativa.
+
+C) Incorreta.
+A afirmativa I está correta, mas a II está errada. A busca sequencial (funcao1) não é mais rápida que a busca binária (funcao2) no pior caso.
+
+D) Incorreta.
+Ambas as afirmativas II e III são falsas. A busca sequencial não é mais rápida que a busca binária no pior caso, e funcao2 é recursiva, não iterativa.
+
+E) Incorreta.
+Apenas a afirmativa I é verdadeira. As afirmativas II e III são falsas, pois a busca binária é mais eficiente no pior caso e funcao2 é recursiva."
+21,SIM,SIM,SIM,SIM,,"QUESTÃO 21 — Alternativa E
+
+Comentário geral
+
+A questão aborda os dispositivos de interconexão de redes e suas respectivas camadas de atuação no modelo de referência. O foco está em entender como cada dispositivo opera em uma camada específica, manipulando informações distintas para realizar sua função. A Figura 1 ilustra a relação entre os dispositivos e as camadas (física, enlace, rede, transporte e aplicação), enquanto a Figura 2 detalha o encapsulamento de dados, mostrando como pacotes e quadros são construídos com cabeçalhos adicionados em cada camada.
+
+O enunciado destaca que dispositivos como repetidores, hubs, bridges, switches, roteadores e gateways operam em camadas diferentes, utilizando fragmentos de informações distintos para decidir como realizar a comutação. A questão exige o conhecimento sobre as funções específicas de cada dispositivo e sua camada de atuação.
+
+Análise das alternativas
+
+A) Incorreta.
+Os repetidores operam na camada física e sua função é regenerar e retransmitir sinais elétricos ou ópticos, sem qualquer interpretação de quadros, pacotes ou cabeçalhos. Portanto, a afirmação de que eles reconhecem "
+22,SIM,SIM,SIM,SIM,,"QUESTÃO 22 — Alternativa A
+
+Comentário geral
+
+A questão aborda o mapeamento de um Diagrama Entidade-Relacionamento (DER) para o Modelo Relacional. O DER apresentado contém três entidades: PESSOA, PET e TIPO_PET, além de dois relacionamentos: ""adotar"" (entre PESSOA e PET) e ""pertencer"" (entre PET e TIPO_PET).
+
+No mapeamento para o modelo relacional, é fundamental aplicar as regras de transformação de relacionamentos. Para relacionamentos do tipo 1:N, a chave primária da entidade do lado 1 é inserida como chave estrangeira na tabela correspondente ao lado N.
+
+No relacionamento ""pertencer"", cada PET pertence a um único TIPO_PET, mas um TIPO_PET pode estar associado a vários PETs. Portanto, a chave primária de TIPO_PET (codigo) deve ser inserida como chave estrangeira em PET, resultando no atributo codigo_tipo_pet.
+
+No relacionamento ""adotar"", cada PET pode ser adotado por uma única PESSOA, mas uma PESSOA pode adotar vários PETs. Assim, a chave primária de PESSOA (cpf) deve ser inserida como chave estrangeira em PET, resultando no atributo adotante.
+
+Portanto, a tabela PET deve conter as chaves estrangeiras codigo_tipo_pet (referenciando TIPO_PET) e adotante (referenciando PESSOA), além de seus próprios atributos (codigo, nome, data_nascimento).
+
+Análise das alternativas
+
+A) Correta.
+A alternativa preserva as três entidades como tabelas independentes (PESSOA, PET, TIPO_PET) e posiciona corretamente as chaves estrangeiras em PET: codigo_tipo_pet referencia TIPO_PET(codigo) e adotante referencia PESSOA(cpf). Esse esquema respeita as cardinalidades do DER e as regras de mapeamento de relacionamentos 1:N.
+
+B) Incorreta.
+A alternativa inverte a direção das chaves estrangeiras. Ao colocar codigo_pet em PESSOA e TIPO_PET, ela faz com que essas tabelas referenciem PET, o que não condiz com as cardinalidades do DER. Além disso, uma PESSOA pode adotar vários PETs, então não faz sentido armazenar apenas um codigo_pet em PESSOA.
+
+C) Incorreta.
+Embora a alternativa mapeie corretamente o relacionamento ""pertencer"" (codigo_tipo_pet em PET), ela erra no relacionamento ""adotar"", ao colocar codigo_pet em PESSOA. Isso inverte a lógica do relacionamento 1:N, pois uma PESSOA pode adotar vários PETs, e a referência deve estar em PET, não em PESSOA.
+
+D) Incorreta.
+A alternativa propõe uma única tabela PET_PESSOA, que agrupa todos os atributos das entidades e relacionamentos. Isso elimina a separação entre as entidades, gerando redundância de dados (como nome da pessoa e descrição do tipo de pet) e não representando adequadamente a estrutura do DER.
+
+E) Incorreta.
+A alternativa acerta ao colocar adotante em PET referenciando PESSOA, mas falha ao não preservar a entidade TIPO_PET como uma tabela independente. Incorporar descricao_tipo_pet diretamente em PET causa redundância, pois a descrição de um mesmo tipo seria repetida para todos os PETs daquele tipo. Além disso, não representa corretamente a entidade TIPO_PET do DER."
+23,SIM,SIM,SIM,SIM,,"QUESTÃO 23 — Alternativa C
+
+Comentário geral
+
+A questão aborda o conceito de Árvores Binárias de Busca (ABB), com foco na inserção de elementos, na altura da árvore e nos percursos pré-ordem, em-ordem e pós-ordem. A ABB é uma estrutura de dados em que, para cada nó, todos os elementos da subárvore esquerda são menores que o nó, e todos os elementos da subárvore direita são maiores ou iguais. A inserção dos elementos (27, 34, 40, 18, 23, 5, 25, 36, 10, 7, -2) na árvore inicialmente vazia segue essa regra, resultando em uma estrutura hierárquica específica.
+
+O percurso em-ordem em uma ABB sempre produz uma lista de elementos em ordem crescente, o que é fundamental para resolver a questão.
+
+Análise das alternativas
+
+A) Incorreta.
+A altura da árvore resultante é, de fato, 5 níveis (caminho mais longo: 27 → 18 → 5 → 10 → 7). No entanto, a contagem de elementos à esquerda e à direita da raiz (27) está errada. À esquerda de 27, há 7 elementos (18, 5, -2, 10, 7, 23, 25), e à direita, 3 elementos (34, 40, 36). A alternativa afirma 6 à esquerda e 4 à direita, o que a torna incorreta.
+
+B) Incorreta.
+O percurso pré-ordem visita os nós na ordem: raiz → subárvore esquerda → subárvore direita. Para a árvore construída, a sequência correta é: 27, 18, 5, -2, 10, 7, 23, 25, 34, 40, 36. A alternativa B apresenta uma ordem que não corresponde a esse percurso, começando por -2 e terminando em 27.
+
+C) Correta.
+O percurso em-ordem visita os nós na ordem: subárvore esquerda → raiz → subárvore direita. Em uma ABB, esse percurso sempre resulta em uma lista ordenada em ordem crescente. Para a árvore em questão, a sequência é: -2, 5, 7, 10, 18, 23, 25, 27, 34, 36, 40, que coincide com a alternativa C.
+
+D) Incorreta.
+O percurso pós-ordem visita os nós na ordem: subárvore esquerda → subárvore direita → raiz. Para a árvore construída, a sequência correta é: -2, 7, 10, 5, 25, 23, 18, 36, 40, 34, 27. A alternativa D começa com 27, o que não condiz com o percurso pós-ordem, em que a raiz é visitada por último.
+
+E) Incorreta.
+O número máximo de elementos em uma árvore binária completa com 10 níveis é calculado pela soma de uma progressão geométrica: 1 + 2 + 4 + ... + 512 = 1.023 (ou 2¹⁰ − 1). A alternativa E afirma que o número máximo é 1.024, o que está incorreto, pois 1.024 corresponde a 2¹⁰, não ao total acumulado de nós."
+24,SIM,SIM,SIM,SIM,,"QUESTÃO 24 — Alternativa E
+
+Comentário geral
+
+A questão aborda conceitos fundamentais de segurança da informação e criptografia, como autenticidade, integridade, criptografia simétrica e assimétrica, vetores de inicialização e funções hash. O texto base descreve o funcionamento da criptografia de ponta a ponta do WhatsApp, e as afirmações I a IV devem ser avaliadas quanto à sua correção técnica.
+
+A afirmativa I está correta. Em sistemas de criptografia assimétrica, a chave pública do remetente pode ser usada para verificar a autenticidade de uma mensagem assinada digitalmente com sua chave privada. Se a chave pública for obtida de forma confiável (por exemplo, armazenada em um servidor de confiança), é possível confirmar que a mensagem foi realmente enviada pelo remetente.
+
+A afirmativa II está correta. O vetor de inicialização (IV) variável é uma técnica comum em criptografia para garantir que mensagens idênticas não produzam o mesmo texto cifrado. Isso oculta padrões nos dados e dificulta ataques de reprodução (replay attacks), nos quais um atacante tenta reutilizar uma mensagem capturada anteriormente.
+
+A afirmativa III está incorreta. Embora o AES seja de fato um algoritmo de criptografia simétrica, a definição apresentada está errada. Na criptografia simétrica, a mesma chave é usada para cifrar e decifrar a mensagem, não um par de chaves distintas. O uso de um par de chaves (pública e privada) é característico da criptografia assimétrica.
+
+A afirmativa IV está correta. O algoritmo SHA-256 é uma função hash criptográfica que gera um valor único para cada entrada. Comparar os valores de hash da mensagem original e da mensagem recebida permite detectar alterações nos dados, garantindo a integridade da mensagem.
+
+Portanto, as afirmações I, II e IV estão corretas, enquanto III está incorreta.
+
+Análise das alternativas
+
+A) Incorreta.
+A alternativa inclui apenas I e IV, mas II também está correta. O uso de IV variável é uma prática válida para ocultar padrões e dificultar ataques de reprodução, conforme descrito na afirmativa II.
+
+B) Incorreta.
+A alternativa inclui II, que está correta, mas III está incorreta. Além disso, I e IV também estão corretas, o que torna esta alternativa incompleta.
+
+C) Incorreta.
+A alternativa inclui III, que está incorreta, e IV, que está correta. No entanto, I e II também estão corretas, e a alternativa não as contempla.
+
+D) Incorreta.
+A alternativa inclui I e II, que estão corretas, mas também inclui III, que está incorreta. A definição de criptografia simétrica em III é tecnicamente errada, o que invalida a alternativa.
+
+E) Correta.
+A alternativa reúne I, II e IV, que são as afirmações corretas. A afirmativa III é a única incorreta, conforme explicado acima."
+25,SIM,SIM,SIM,SIM,,"QUESTÃO 25 — Alternativa B
+
+Comentário geral
+
+A questão aborda os conceitos fundamentais de Computação em Nuvem, segundo o modelo apresentado pelo NIST, envolvendo características essenciais, modelos de serviço (SaaS, PaaS e IaaS) e modelos de implantação, como a Nuvem Comunidade.
+
+No modelo SaaS (Software como Serviço), o usuário acessa aplicações hospedadas na nuvem sem precisar gerenciar a infraestrutura subjacente, como servidores ou hardware. As atualizações e manutenções do software são de responsabilidade do provedor, o que elimina a necessidade de o usuário adquirir ou atualizar hardware para executar as aplicações. Portanto, a afirmativa I está correta.
+
+A elasticidade rápida, uma das características essenciais da computação em nuvem, refere-se à capacidade de provisionar e liberar recursos computacionais de forma automática e rápida, conforme a demanda. A afirmativa II está incorreta, pois associa elasticidade ao ""tempo de disponibilidade"" dos recursos, o que não condiz com o conceito técnico.
+
+A Nuvem Comunidade é um modelo de implantação em que a infraestrutura é compartilhada por várias organizações com interesses ou requisitos comuns, como políticas de segurança ou objetivos institucionais. A afirmativa III está incorreta, pois sugere que o objetivo é gerenciar recursos computacionais pertencentes a cada organização individualmente, o que não reflete o propósito do modelo.
+
+No modelo IaaS (Infraestrutura como Serviço), o provedor gerencia a infraestrutura física, enquanto o usuário tem controle sobre sistemas operacionais, armazenamento e aplicativos implantados. Assim, a afirmativa IV está correta.
+
+Portanto, as afirmativas I e IV estão corretas, enquanto II e III estão incorretas.
+
+Análise das alternativas
+
+A) Incorreta.
+A afirmativa I está correta, mas a II está incorreta, pois confunde elasticidade com tempo de disponibilidade. A elasticidade refere-se à capacidade de ajustar recursos conforme a demanda, não à duração contratual.
+
+B) Correta.
+As afirmativas I e IV estão corretas. Em SaaS, o usuário não gerencia a infraestrutura, e em IaaS, o usuário tem controle sobre sistemas operacionais, armazenamento e aplicativos, enquanto o provedor gerencia a infraestrutura física.
+
+C) Incorreta.
+As afirmativas II e III estão incorretas. A II distorce o conceito de elasticidade, e a III apresenta uma definição inadequada para Nuvem Comunidade.
+
+D) Incorreta.
+Embora I e IV estejam corretas, a afirmativa III está incorreta, pois a Nuvem Comunidade não tem como objetivo gerenciar recursos individuais de cada organização, mas sim compartilhar uma infraestrutura comum.
+
+E) Incorreta.
+A alternativa inclui II e III, que estão incorretas, e IV, que está correta. No entanto, a presença de afirmações erradas invalida a alternativa."
+26,SIM,SIM,SIM,SIM,,"QUESTÃO 26 — Alternativa A
+
+Comentário geral
+
+A questão aborda os níveis de adaptação em interfaces adaptativas na Interação Humano-Computador, exigindo a correta associação entre técnicas específicas e os respectivos níveis de adaptação: conteúdo, navegação e apresentação. O enunciado destaca que cada nível possui métodos e técnicas próprios, o que é fundamental para a resolução.
+
+A afirmativa I está correta, pois as técnicas de fragmentos de texto, fragmentos condicionais, páginas variantes e abordagem baseada em frames estão diretamente relacionadas à adaptação de conteúdo. Essas técnicas alteram o que é apresentado ao usuário, ajustando o conteúdo conforme seu perfil ou contexto de interação.
+
+A afirmativa II está incorreta, pois layouts de página e guias de estilos são técnicas associadas à adaptação de apresentação, e não de navegação. Esses recursos dizem respeito à disposição visual e ao estilo dos elementos na interface, não à forma como o usuário navega entre as páginas ou opções.
+
+A afirmativa III também está incorreta, pois as técnicas de orientação direta, anotação de links, apresentação e ocultação e ordenação de links são típicas da adaptação de navegação. Elas modificam ou auxiliam o percurso do usuário pela interface, e não a forma visual de apresentação do conteúdo.
+
+Portanto, apenas a afirmativa I está correta.
+
+Análise das alternativas
+
+A) Correta.
+A alternativa I é a única que associa corretamente as técnicas ao nível de adaptação de conteúdo. As demais afirmativas (II e III) invertem os níveis de adaptação das técnicas mencionadas.
+
+B) Incorreta.
+A afirmativa III está errada, pois as técnicas citadas (orientação direta, anotação de links etc.) pertencem ao nível de navegação, não de apresentação. Além disso, a afirmativa I está correta, o que invalida esta alternativa.
+
+C) Incorreta.
+Embora a afirmativa I esteja correta, a afirmativa II está incorreta, pois layouts de página e guias de estilos são técnicas de apresentação, não de navegação.
+
+D) Incorreta.
+Ambas as afirmativas (II e III) estão incorretas. A afirmativa II associa técnicas de apresentação ao nível de navegação, enquanto a afirmativa III faz o inverso, classificando técnicas de navegação como de apresentação.
+
+E) Incorreta.
+A alternativa exige que todas as afirmativas (I, II e III) estejam corretas. No entanto, apenas a afirmativa I está correta, enquanto II e III estão incorretas."
+27,SIM,SIM,SIM,SIM,,"QUESTÃO 27 — Alternativa D
+
+Comentário geral
+
+A questão aborda a aplicação da regra empírica (ou regra 68-95-99,7) em uma distribuição normal, utilizando os parâmetros de média e desvio-padrão fornecidos no histograma. O histograma exibe uma distribuição aproximadamente simétrica e unimodal, o que sugere que a amostra segue uma distribuição normal. Os dados informam que a média da capacidade dos servidores é 171 requisições simultâneas, com desvio-padrão de 10.
+
+A regra empírica para distribuições normais estabelece que:
+- Cerca de 68,26% dos dados estão dentro de ±1 desvio-padrão da média;
+- Cerca de 95,44% dos dados estão dentro de ±2 desvios-padrão da média;
+- Cerca de 99,74% dos dados estão dentro de ±3 desvios-padrão da média.
+
+Analisando os intervalos propostos nas alternativas, calculamos:
+- [151, 191]: 171 ± 20 (ou seja, média ± 2 desvios-padrão), que corresponde a aproximadamente 95,44% dos dados.
+
+Análise das alternativas
+
+A) Incorreta.
+O intervalo [141, 201] corresponde a média ± 3 desvios-padrão (171 ± 30). Pela regra empírica, esse intervalo abrange cerca de 99,74% dos dados, e não 34,13%. O valor 34,13% refere-se à área sob a curva normal entre a média e +1 desvio-padrão (ou entre -1 desvio-padrão e a média), não ao intervalo completo.
+
+B) Incorreta.
+O intervalo [161, 181] corresponde a média ± 1 desvio-padrão (171 ± 10). Pela regra empírica, esse intervalo abrange cerca de 68,26% dos dados. O valor 34,13% é a metade desse percentual, referente a apenas um lado da distribuição (da média a +1 desvio-padrão ou da média a -1 desvio-padrão).
+
+C) Incorreta.
+O intervalo [171, 191] abrange da média até +2 desvios-padrão. A regra empírica indica que cerca de 95,44% dos dados estão entre -2 e +2 desvios-padrão. Portanto, a área entre a média e +2 desvios-padrão é aproximadamente 47,72% (metade de 95,44%), e não 76,68%. O valor 76,68% não corresponde a nenhum intervalo padrão da regra empírica.
+
+D) Correta.
+O intervalo [151, 191] corresponde a média ± 2 desvios-padrão (171 ± 20). Pela regra empírica, cerca de 95,44% dos dados estão dentro desse intervalo, o que está de acordo com a alternativa.
+
+E) Incorreta.
+O intervalo [161, 181] corresponde a média ± 1 desvio-padrão, abrangendo cerca de 68,26% dos dados. O percentual de 99,74% está associado a média ± 3 desvios-padrão, que corresponde ao intervalo [141, 201]."
+28,SIM,SIM,SIM,SIM,,"QUESTÃO 28 — Alternativa B
+
+Comentário geral
+
+A questão aborda o funcionamento de um pipeline de instruções com cinco estágios (S1 a S5) e analisa afirmações sobre seu comportamento em situações específicas, como bolhas, execução de instruções e uso de caches e BTB.
+
+No modelo apresentado, cada estágio tem uma função distinta: S1 busca a instrução, S2 a decodifica, S3 busca os operandos, S4 executa a instrução e S5 grava o resultado. O pipeline permite que múltiplas instruções estejam em estágios diferentes simultaneamente, melhorando a eficiência.
+
+A afirmativa I está correta. Se uma instrução não for buscada em S1 em um ciclo, uma bolha (ausência de instrução útil) é criada. Essa bolha avança por todos os estágios subsequentes (S2, S3, S4, S5) nos ciclos seguintes, até ser eliminada do pipeline.
+
+A afirmativa II está incorreta. No modelo teórico do pipeline, cada instrução deve passar por todos os estágios, mesmo que um deles não realize trabalho útil para ela. Não é possível pular estágios para reduzir o número de ciclos.
+
+A afirmativa III está incorreta. O estágio S1 é responsável apenas pela busca de instruções na cache de instruções. A busca de dados (operandos) é realizada em estágios posteriores, como S3, e não em S1.
+
+A afirmativa IV está correta. O BTB (Branch Target Buffer) permite prever o endereço de desvio em instruções condicionais, possibilitando que o pipeline continue a buscar instruções sem interrupções, evitando bolhas causadas por hazards de controle.
+
+Portanto, apenas as afirmações I e IV são corretas.
+
+Análise das alternativas
+
+A) Incorreta.
+A afirmativa I está correta, mas II está incorreta. Não é possível pular estágios no pipeline para reduzir o número de ciclos.
+
+B) Correta.
+As afirmações I e IV são verdadeiras. A bolha em S1 se propaga pelos estágios seguintes, e o BTB evita bolhas em desvios condicionais.
+
+C) Incorreta.
+A afirmativa IV está correta, mas III está incorreta. S1 não busca dados na cache de dados, apenas instruções na cache de instruções.
+
+D) Incorreta.
+A afirmativa I está correta, mas II e III estão incorretas. Não é possível pular estágios, e S1 não busca dados.
+
+E) Incorreta.
+A afirmativa IV está correta, mas II e III estão incorretas. As mesmas justificativas das alternativas anteriores se aplicam."
+29,NAO,SIM,SIM,NAO,SIM,"QUESTÃO 29 — ANULADA
+
+Comentário geral
+
+A questão aborda operações morfológicas em Processamento Digital de Imagens, especificamente dilatação e erosão. Essas operações utilizam um elemento estruturador, também denominado kernel, que percorre a imagem e determina o novo valor de cada pixel a partir dos valores existentes em sua vizinhança.
+
+Em imagens em níveis de cinza, a distinção fundamental entre as duas operações é:
+
+Dilatação → valor máximo da vizinhança
+Erosão → valor mínimo da vizinhança
+
+Na dilatação, o elemento estruturador percorre a imagem e, para cada posição analisada, seleciona-se o maior valor entre os pixels abrangidos pelo kernel. Essa operação tende a expandir regiões claras da imagem.
+
+Na erosão ocorre o procedimento oposto: seleciona-se o menor valor entre os pixels abrangidos pelo elemento estruturador. Como consequência, regiões claras tendem a diminuir ou sofrer redução em seus contornos.
+
+A afirmativa I está correta. Ela descreve adequadamente a operação de dilatação ao afirmar que, durante a aplicação do kernel B, deve-se calcular o valor máximo entre os pixels sobrepostos e utilizar esse valor na posição correspondente ao ponto de ancoragem.
+
+A afirmativa II está incorreta. Ela associa à dilatação o cálculo do valor mínimo, característica própria da erosão. Além disso, existe uma inconsistência interna na própria redação, pois a afirmativa inicialmente menciona o cálculo do valor mínimo e posteriormente determina a substituição pelo “valor máximo”.
+
+A afirmativa III está incorreta. Na erosão não se utiliza o valor máximo da vizinhança, mas o valor mínimo. Portanto, a operação descrita nessa afirmativa corresponde conceitualmente à dilatação, e não à erosão.
+
+A afirmativa IV apresenta o principal problema da questão. Seu início está conceitualmente correto ao afirmar que, na erosão, calcula-se o valor mínimo dos pixels abrangidos pelo elemento estruturador. Entretanto, ao final, o texto afirma que o pixel deve ser substituído por “esse valor máximo”. Há, portanto, uma contradição dentro da própria afirmativa: ela determina corretamente o cálculo do mínimo, mas posteriormente denomina esse resultado como máximo.
+
+Caso o termo “máximo” presente ao final da afirmativa IV fosse interpretado como um simples erro de redação e substituído por “mínimo”, teríamos:
+I = verdadeira
+II = falsa
+III = falsa
+IV = verdadeira
+
+Nesse caso, a alternativa esperada seria B — I e IV, apenas.
+
+Entretanto, a prova não pode exigir que o candidato corrija mentalmente uma afirmativa contraditória. Como a redação da afirmativa IV compromete a determinação inequívoca das proposições verdadeiras, a questão foi ANULADA no gabarito definitivo.
+
+Análise das alternativas
+
+A) Incorreta.
+A alternativa considera corretas as afirmativas I e III. A afirmativa I está correta porque descreve adequadamente a dilatação como uma operação baseada na seleção do valor máximo da vizinhança. Entretanto, III está incorreta porque atribui à erosão o cálculo do valor máximo. Na erosão deve ser selecionado o menor valor entre os pixels considerados pelo elemento estruturador. Assim, I e III não podem ser simultaneamente consideradas verdadeiras.
+
+B) Seria a alternativa conceitualmente esperada, mas a questão foi anulada.
+A afirmativa I descreve corretamente a dilatação por meio da seleção do valor máximo. A afirmativa IV, em sua primeira parte, também descreve corretamente a erosão ao mencionar a seleção do valor mínimo. Se o trecho final de IV dissesse “substituímos o pixel por esse valor mínimo”, a combinação I e IV estaria correta e B seria a resposta esperada. Entretanto, a própria afirmativa IV termina dizendo “esse valor máximo”, produzindo uma contradição que impede que ela seja classificada inequivocamente como verdadeira.
+
+C) Incorreta.
+A alternativa considera corretas II e III. Entretanto, as duas afirmativas apresentam uma inversão dos conceitos fundamentais. II associa o valor mínimo à dilatação, quando essa operação utiliza o máximo. III associa o valor máximo à erosão, quando essa operação utiliza o mínimo. Portanto, ambas estão conceitualmente incorretas.
+
+D) Incorreta.
+A alternativa combina II e IV. A afirmativa II é falsa porque a dilatação não seleciona o valor mínimo da vizinhança. A afirmativa IV possui um início compatível com o conceito de erosão, mas contém uma contradição textual ao afirmar posteriormente que o pixel deve ser substituído pelo “valor máximo”. Assim, essa combinação não constitui uma resposta válida.
+
+E) Incorreta.
+Para essa alternativa ser correta, as quatro afirmativas deveriam estar certas. Entretanto, II e III invertem explicitamente os conceitos de dilatação e erosão. A dilatação utiliza o máximo da vizinhança, enquanto a erosão utiliza o mínimo. Além disso, IV contém o problema de redação que motivou a anulação da questão. Portanto, não é possível considerar todas as proposições verdadeiras."
+30,SIM,SIM,SIM,SIM,,"QUESTÃO 30 — Alternativa E
+
+Comentário geral
+
+A questão aborda as principais etapas do processo de compilação, destacando as fases de análise léxica, sintática, semântica e otimização de código. Um compilador traduz um programa em linguagem de alto nível para código de máquina, passando por etapas de verificação e transformação.
+
+A análise léxica identifica os tokens (palavras reservadas, identificadores, operadores etc.) do código-fonte. A análise sintática verifica se a sequência desses tokens obedece às regras gramaticais da linguagem. A análise semântica checa se as construções sintaticamente corretas também são semanticamente válidas, como compatibilidade de tipos e uso adequado de variáveis. Por fim, a otimização busca melhorar o código intermediário para gerar um código de máquina mais eficiente.
+
+Analisando as afirmações:
+- I: Correta. O analisador sintático verifica se a sequência de tokens forma um programa válido segundo a gramática da linguagem.
+- II: Incorreta. A análise léxica depende da linguagem específica (Java, Pascal etc.), pois cada uma tem suas próprias regras e classificações de tokens.
+- III: Correta. O analisador semântico verifica incoerências de significado, como operações entre tipos incompatíveis.
+- IV: Correta. A otimização melhora o código intermediário para gerar código de máquina mais rápido e eficiente.
+
+Portanto, as afirmações corretas são I, III e IV.
+
+Análise das alternativas
+
+A) Incorreta. Inclui apenas I e IV, omitindo III, que também está correta.
+
+B) Incorreta. Inclui II (incorreta) e III (correta).
+
+C) Incorreta. Inclui II (incorreta) e IV (correta).
+
+D) Incorreta. Inclui I, II e III, mas II está incorreta e IV está ausente.
+
+E) Correta. Inclui I, III e IV, que são as afirmações verdadeiras."
+31,SIM,SIM,SIM,SIM,,"QUESTÃO 31 — Alternativa E
+
+Comentário geral
+
+A questão aborda o funcionamento de uma Máquina de Turing projetada para reconhecer números binários palíndromos de comprimento par. Um palíndromo é uma sequência que lida da esquerda para a direita ou da direita para a esquerda produz o mesmo resultado. A entrada fornecida é 110011, que é um palíndromo de comprimento par (6 símbolos).
+
+A máquina opera apagando os símbolos das extremidades e comparando-os. Se forem iguais, prossegue; caso contrário, a palavra não é aceita. O diagrama da máquina define as transições de estado e as ações (leitura, escrita e movimento da cabeça).
+
+Análise das afirmações:
+
+I. Após 4 movimentos, o conteúdo da fita, excluindo-se os símbolos ""B"", é ""110011"".
+   - Incorreta. No primeiro movimento, a máquina está em q0, lê o primeiro símbolo (1), substitui por B e move para a direita. Assim, após o primeiro movimento, a fita já não contém mais 110011 (passa a ser B10011, ou 10011 sem os B). Após 4 movimentos, a fita já foi modificada, logo a afirmação I é falsa.
+
+II. Após 8 movimentos, o conteúdo da fita, excluindo-se os símbolos ""B"", é ""1001"".
+   - Correta. A máquina apaga o primeiro símbolo (1) e, em seguida, move-se até o final da palavra para apagar o último símbolo (1). Após 8 movimentos, os dois símbolos das extremidades (1 e 1) foram apagados, restando 1001.
+
+III. A máquina irá certamente travar em um estado de aceitação.
+   - Correta. A entrada 110011 é um palíndromo de comprimento par, logo a máquina aceitará a palavra e alcançará o estado de aceitação qf.
+
+IV. Existe um autômato com pilha que também aceita a linguagem de M.
+   - Correta. A linguagem dos palíndromos binários de comprimento par é livre de contexto. Um autômato com pilha pode reconhecê-la armazenando a primeira metade da palavra na pilha e comparando-a com a segunda metade em ordem inversa.
+
+Portanto, as afirmações II, III e IV são corretas.
+
+Análise das alternativas
+
+A) I e II.
+   - Incorreta. A afirmação I é falsa, pois a fita é modificada já no primeiro movimento.
+
+B) I e IV.
+   - Incorreta. A afirmação I é falsa, e a alternativa não inclui II e III, que são verdadeiras.
+
+C) II e III.
+   - Incorreta. A alternativa está incompleta, pois não inclui a afirmação IV, que também é verdadeira.
+
+D) I, III e IV.
+   - Incorreta. A afirmação I é falsa, o que invalida a alternativa.
+
+E) II, III e IV.
+   - Correta. Todas as afirmações incluídas são verdadeiras, e a alternativa abrange todas as afirmações corretas."
+32,SIM,SIM,SIM,SIM,,"QUESTÃO 32 — Alternativa A
+
+Comentário geral
+
+A questão aborda o algoritmo QuickSort, um método de ordenação do tipo divide-and-conquer. O código apresentado implementa o QuickSort com o pivô sendo o último elemento do vetor (A[hi]). O algoritmo funciona particionando o vetor em torno do pivô, de modo que elementos menores que o pivô fiquem à esquerda e os maiores à direita. Em seguida, o processo é aplicado recursivamente às subpartes.
+
+O QuickSort é amplamente utilizado devido à sua eficiência média, mas seu desempenho pode variar conforme a escolha do pivô e a distribuição dos dados.
+
+Análise das afirmações
+
+I. O algoritmo precisa de um espaço adicional O(n) para a pilha de recursão.
+   - Correta. No pior caso, quando as partições são extremamente desbalanceadas (por exemplo, vetor já ordenado e pivô sempre no último elemento), a profundidade da recursão pode chegar a n, exigindo O(n) de espaço na pilha de chamadas.
+
+II. O algoritmo apresentado é um algoritmo de ordenação recursivo e estável.
+   - Incorreta. Embora o algoritmo seja recursivo, ele não é estável. Durante o particionamento, trocas entre elementos iguais podem alterar sua ordem original, violando a propriedade de estabilidade.
+
+III. O algoritmo precisa, em média, de O(n log n) comparações para ordenar n itens.
+   - Correta. Em média, o QuickSort realiza O(n log n) comparações, desde que as partições sejam razoavelmente equilibradas. Isso decorre da divisão do problema em subproblemas de tamanho aproximadamente n/2, resultando em log n níveis de recursão, cada um com cerca de n comparações.
+
+IV. O uso do primeiro elemento do vetor como “pivot” é mais eficiente que usar o último.
+   - Incorreta. Não há evidência de que escolher o primeiro elemento como pivô seja mais eficiente que o último. A eficiência depende da capacidade do pivô de dividir o vetor de forma equilibrada. Em casos como vetores já ordenados, escolher o primeiro ou o último elemento como pivô pode levar ao pior caso (O(n²)).
+
+Portanto, apenas as afirmações I e III estão corretas.
+
+Análise das alternativas
+
+A) I e III.
+   - Correta. As afirmações I e III estão corretas, conforme analisado acima.
+
+B) II e IV.
+   - Incorreta. Ambas as afirmações II e IV estão incorretas.
+
+C) III e IV.
+   - Incorreta. A afirmação III está correta, mas IV está incorreta.
+
+D) I, II e III.
+   - Incorreta. A afirmação II está incorreta.
+
+E) I, II e IV.
+   - Incorreta. As afirmações II e IV estão incorretas."
+33,NAO,NAO,NAO,NAO,NAO,"QUESTÃO 33 — Alternativa D
+
+Comentário geral
+A questão aborda o paradigma de programação lógica em PROLOG, com foco na definição de regras para verificar relações familiares, especificamente a relação de irmandade entre duas pessoas do sexo feminino (irmãs). A base de fatos fornecida descreve uma árvore genealógica com relações de pai e mãe, além do gênero de cada indivíduo.
+
+Para que duas pessoas sejam irmãs, é necessário que:
+1. Ambas tenham o mesmo pai (ou a mesma mãe, mas a regra deve ser consistente com a base de fatos fornecida, que usa apenas `paide` para pai e `maede` para mãe).
+2. As duas pessoas sejam distintas (`X \= Y`).
+3. Ambas sejam do sexo feminino (`mulher(X), mulher(Y)`).
+
+A regra deve, portanto, verificar essas três condições.
+
+Análise das alternativas
+
+A) saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y.
+Esta alternativa verifica apenas que X e Y têm o mesmo pai e são distintas. No entanto, não garante que ambas sejam mulheres, o que é necessário para que sejam irmãs. Portanto, está incorreta.
+
+B) saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X).
+Esta alternativa verifica que X e Y têm o mesmo pai, são distintas e que X é mulher. No entanto, não verifica se Y também é mulher. Portanto, está incorreta.
+
+C) saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X,Y).
+Esta alternativa contém um erro sintático: `mulher(X,Y)` não é uma forma válida em PROLOG para verificar o gênero de X e Y. O predicado `mulher` deve ser aplicado individualmente a cada variável. Portanto, está incorreta.
+
+D) saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X), mulher(Y).
+Esta alternativa verifica todas as condições necessárias: X e Y têm o mesmo pai, são distintas e ambas são mulheres. É a única alternativa que atende a todos os requisitos para definir irmãs. Portanto, está correta.
+
+E) saoirmas(X,Y):-paide(X,P), maede(Y,M), X\=Y, mulher(X), mulher(Y).
+Esta alternativa verifica que X tem um pai P e Y tem uma mãe M, mas não garante que P e M sejam a mesma pessoa (ou seja, que X e Y tenham os mesmos pais). Além disso, a regra não é consistente com a base de fatos, que usa `paide` para pai e `maede` para mãe, mas não garante que os pais sejam os mesmos. Portanto, está incorreta."
+34,NAO,NAO,NAO,NAO,,"QUESTÃO 34 — Alternativa C
+
+Comentário geral
+A questão aborda o algoritmo de Dijkstra, utilizado para encontrar o caminho mínimo em grafos ponderados com pesos não negativos. O algoritmo mantém uma estimativa de custo para cada vértice, atualizando-a à medida que explora os arcos do grafo. A estimativa inicial para o vértice de origem (D) é 0, e para os demais é -1 (infinito).
+
+Neste caso, o vértice de origem é D, e o objetivo é determinar as estimativas de custo após duas iterações do algoritmo. Cada iteração consiste em retirar o vértice com a menor estimativa de custo da fila de prioridades e relaxar os arcos que partem dele.
+
+Análise das iterações:
+1. **Primeira iteração**: O vértice D é retirado (custo 0). Os arcos que partem de D são D→A (peso 5), D→B (peso 9) e D→F (peso 1). As estimativas são atualizadas para:
+   - A: 5
+   - B: 9
+   - F: 1
+   - D: 0 (já processado)
+   - C, E, G: -1 (ainda não descobertos).
+
+2. **Segunda iteração**: O vértice com a menor estimativa não processada é F (custo 1). Os arcos que partem de F são F→E (peso 3) e F→G (peso 1). As estimativas são atualizadas para:
+   - E: 1 (custo de F) + 3 = 4
+   - G: 1 (custo de F) + 1 = 2
+   - Os demais vértices (A, B, C, D) mantêm suas estimativas anteriores.
+
+Após duas iterações, as estimativas são:
+- A: 5
+- B: 9
+- C: -1
+- D: 0
+- E: 4
+- F: 1
+- G: 2
+
+Análise das alternativas
+A) A: 5 B: 6 C: 10 D: 0 E: 4 F: 1 G: -1
+   Incorreta. O custo de B não pode ser 6, pois o único caminho até B a partir de D é direto (peso 9). Além disso, G não foi atualizado para -1, pois já foi descoberto via F.
+
+B) A: 5 B: 9 C: -1 D: 0 E: 5 F: 1 G: -1
+   Incorreta. O custo de E não é 5, pois o caminho D→F→E tem custo 1 + 3 = 4. Além disso, G não foi atualizado para -1, pois já foi descoberto via F.
+
+C) A: 5 B: 9 C: -1 D: 0 E: 4 F: 1 G: 2
+   Correta. As estimativas correspondem exatamente ao estado após duas iterações do algoritmo.
+
+D) A: 5 B: 7 C: 8 D: 0 E: 4 F: 1 G: 2
+   Incorreta. O custo de B não pode ser 7, pois não há caminho com esse peso a partir de D. Além disso, C não foi atualizado para 8, pois ainda não foi descoberto.
+
+E) A: 5 B: 6 C: 8 D: 0 E: 3 F: 1 G: 2
+   Incorreta. O custo de B não pode ser 6, e o custo de E não pode ser 3, pois o caminho D→F→E tem custo 4. Além disso, C não foi atualizado para 8."
+35,SIM,SIM,SIM,SIM,,"QUESTÃO 35 — Alternativa D
+
+Comentário geral
+
+A questão aborda os conceitos fundamentais de Sistemas Distribuídos, com foco em características como heterogeneidade, concorrência, tolerância a falhas, transparência e escalabilidade. O enunciado define um sistema distribuído como aquele em que componentes de hardware ou software, localizados em computadores interligados por uma rede, comunicam-se e coordenam suas ações por meio da troca de mensagens.
+
+Um sistema distribuído visa permitir que diferentes computadores e recursos cooperem para fornecer serviços, mesmo que esses componentes tenham características distintas de hardware, sistemas operacionais, linguagens ou protocolos. Entre as propriedades essenciais desses sistemas, destacam-se:
+
+- **Heterogeneidade**: capacidade de integrar componentes diversos;
+- **Concorrência**: execução simultânea de operações por múltiplos processos ou usuários;
+- **Tolerância a falhas**: capacidade de o sistema continuar operando mesmo com a falha de um ou mais componentes;
+- **Transparência**: ocultação de aspectos da distribuição, como localização ou replicação de recursos;
+- **Escalabilidade**: capacidade de o sistema manter seu desempenho à medida que cresce o número de usuários, recursos ou requisições, muitas vezes por meio da adição de novos dispositivos.
+
+A alternativa D está correta porque associa diretamente a adição de novos dispositivos para atender a uma demanda crescente ou temporária à característica de escalabilidade. Um sistema escalável deve ser capaz de crescer, incorporando recursos adicionais para lidar com o aumento da carga sem exigir uma reformulação completa de sua arquitetura.
+
+Análise das alternativas
+
+A) Incorreta.
+A alternativa sugere que a coordenação em sistemas distribuídos depende de um relógio físico local sincronizado com um relógio global. No entanto, uma das principais dificuldades em sistemas distribuídos é justamente a ausência de um relógio global perfeito. Cada máquina possui seu próprio relógio, que pode não estar sincronizado com os demais. A coordenação é realizada por meio de protocolos de comunicação e mecanismos de sincronização, não pela existência de um relógio global.
+
+B) Incorreta.
+A alternativa afirma que a falha de um componente em um sistema peer-to-peer interrompe todos os demais até seu retorno. Isso contraria o princípio de tolerância a falhas, segundo o qual sistemas distribuídos devem ser capazes de operar mesmo com falhas parciais. Em arquiteturas peer-to-peer, a falha de um nó não implica necessariamente a interrupção de toda a rede, pois os nós são autônomos e podem continuar operando independentemente.
+
+C) Incorreta.
+A alternativa condiciona o compartilhamento de recursos à homogeneidade de hardware e software. No entanto, sistemas distribuídos são projetados para operar com componentes heterogêneos. A heterogeneidade é uma característica comum e desejável, pois permite a integração de diferentes plataformas em uma mesma infraestrutura, desde que haja protocolos e interfaces padronizados.
+
+D) Correta.
+A escalabilidade é a capacidade de um sistema distribuído manter seu desempenho à medida que sua carga ou dimensão aumenta. A adição de novos dispositivos para atender a uma demanda crescente é uma estratégia típica para garantir escalabilidade, permitindo que o sistema cresça sem perder eficiência.
+
+E) Incorreta.
+A alternativa associa o acesso concorrente a um recurso compartilhado ao alto nível de transparência do sistema. No entanto, o acesso simultâneo está relacionado à concorrência, enquanto a transparência refere-se à ocultação de aspectos da distribuição, como a localização física de um recurso. São conceitos distintos e não intercambiáveis."

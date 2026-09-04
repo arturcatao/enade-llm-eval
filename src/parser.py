@@ -26,7 +26,14 @@ def parsear_resposta(resposta: str) -> list:
     resposta = limpar_resposta(resposta)
 
     try:
-        resultado = json.loads(resposta)
+        # strict=False permite caracteres de controle (como quebras de
+        # linha literais "\n" reais, em vez de "\\n" escapado) dentro
+        # de strings do JSON. O Mistral ocasionalmente devolve
+        # explicacao_final com quebras de linha reais em vez de
+        # escapadas, mesmo com o response_format em json_schema; isso é
+        # apenas um detalhe de formatação, não um problema com o
+        # conteúdo, então não faz sentido descartar a resposta por isso.
+        resultado = json.loads(resposta, strict=False)
     except json.JSONDecodeError as erro:
         raise ValueError(
             f"Resposta do Mistral não está em um JSON válido:\n"
@@ -60,7 +67,8 @@ def validar_resultado(resultado: list) -> list:
 
     if not isinstance(numero, int) or isinstance(numero, bool):
         raise ValueError(
-            "numero_da_questao deve ser um inteiro."
+            "numero_da_questao deve ser um inteiro, mas recebeu: "
+            f"{numero!r}"
         )
 
     campos_sim_nao = {
@@ -75,18 +83,19 @@ def validar_resultado(resultado: list) -> list:
         if valor not in VALORES_SIM_NAO:
             raise ValueError(
                 f"{nome} deve ser 'SIM' ou 'NAO', "
-                f"mas recebeu: {valor}"
+                f"mas recebeu: {valor!r}"
             )
 
     if anulada_tem_explicacao not in VALORES_ANULADA:
         raise ValueError(
-            "anulada_tem_explicacao deve ser "
-            "'SIM', 'NAO' ou null."
+            "anulada_tem_explicacao deve ser 'SIM', 'NAO' ou null, "
+            f"mas recebeu: {anulada_tem_explicacao!r}"
         )
 
     if not isinstance(explicacao_final, str):
         raise ValueError(
-            "explicacao_final deve ser uma string."
+            "explicacao_final deve ser uma string, mas recebeu: "
+            f"{type(explicacao_final).__name__}"
         )
 
     if not explicacao_final.strip():
