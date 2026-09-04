@@ -1,0 +1,262 @@
+﻿numero_da_questao,se_acertou,explicacao_ta_boa,sem_rastro_llm,acordo_com_inep,anulada_tem_explicacao,explicacao_final
+1,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
+[
+  1,
+  ""SIM"",
+  ""SIM"",
+  ""SIM"",
+  ""SIM"",
+  null,
+  ""QUESTÃO 1 — Alternativa E
+
+Comentário geral
+
+O texto aborda a mobilidade social intergeracional, ou seja, a capacidade de um indivíduo alcançar uma posição socioeconômica diferente da de sua família de origem ao longo das gerações. No Brasil, conforme os dados apresentados, essa mobilidade é extremamente baixa: seriam necessárias nove gerações para que descendentes dos 10% mais pobres atingissem a renda média do país. O texto destaca que filhos de famílias pobres enfrentam dificuldades estruturais, como acesso limitado à saúde, educação de baixa qualidade e poucas oportunidades de qualificação profissional, o que restringe suas possibilidades no mercado de trabalho e perpetua a pobreza.
+
+Nesse contexto, a alternativa E é a que melhor sintetiza a ideia central do texto: a ascensão social depende de fatores como educação, saúde e oportunidades profissionais, que são menos acessíveis às camadas mais pobres. Essa desigualdade de acesso contribui para a manutenção das disparidades sociais e pode gerar conflitos pela busca de melhores condições.
+
+Análise das alternativas
+
+A) Incorreta.
+A alternativa associa a mobilidade social a fatores ambientais e demográficos, como taxas de natalidade, o que não é mencionado no texto. O foco do enunciado está em condições estruturais, como renda familiar, qualidade da educação e oportunidades de trabalho, e não em variáveis demográficas.
+
+B) Incorreta.
+O texto não atribui a baixa mobilidade social à falta de organização dos grupos economicamente desfavorecidos. A explicação apresentada está ligada a condições estruturais de desigualdade, como acesso limitado à saúde e à educação de qualidade, e não a uma suposta desorganização social.
+
+C) Incorreta.
+Embora o texto mencione a transmissão intergeracional da pobreza, a alternativa introduz a ideia de um \""fator ancestral\"" que limitaria a eficácia de políticas públicas. O enunciado não aborda a eficácia de políticas nem caracteriza a desigualdade como um fenômeno ancestral, mas sim como resultado de condições socioeconômicas desiguais.
+
+D) Incorreta.
+A alternativa interpreta erroneamente o \""ciclo de pobreza\"" como um movimento de subida e queda sucessivas nas camadas sociais. O texto, no entanto, descreve um ciclo de reprodução da pobreza, em que condições desfavoráveis (educação precária, empregos de baixa remuneração) mantêm as famílias na base da pirâmide social ao longo das gerações.
+
+E) Correta.
+A alternativa E está alinhada ao texto, que mostra que a ascensão social depende de fatores como educação, saúde e oportunidades de trabalho, os quais são menos acessíveis às camadas pobres. Essa desigualdade de acesso perpetua a pobreza e pode gerar conflitos sociais, conforme sugerido na alternativa.""
+]"
+2,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
+[
+  2,
+  ""NAO"",
+  ""NAO"",
+  ""SIM"",
+  ""NAO"",
+  null,
+  ""QUESTÃO 2 — Alternativa C
+
+Comentário geral
+A questão aborda a relação entre os textos I e II, que tratam da aparência de hortaliças e sua qualidade. O texto I (infográfico da Embrapa) diferencia hortaliças feias (fora do padrão estético, mas próprias para consumo) de hortaliças estragadas (com danos que comprometem a qualidade). O texto II discute o desperdício de alimentos no Brasil e na Europa, destacando que a exigência excessiva por aparência perfeita aumenta o desperdício, enquanto a exigência por qualidade (ausência de danos e higiene) reduz perdas e melhora a alimentação.
+
+Análise das asserções
+I. O texto I sintetiza uma informação principal do texto II, ao apresentar critérios distintos de alterações visuais que têm efeitos puramente estéticos em produtos alimentícios daquelas que têm implicações na qualidade desses produtos.
+- A asserção I está correta. O texto I (infográfico) de fato diferencia hortaliças com alterações estéticas (feias, mas boas para consumo) daquelas com danos que as tornam estragadas (murchas, machucadas, com coloração inadequada etc.), alinhando-se ao conteúdo do texto II, que aborda a distinção entre aparência e qualidade.
+
+II. O texto II divulga que o aumento das perdas na cadeia produtiva de hortaliças no Brasil é proporcional à elevação de exigências dos consumidores pela aparência de produtos agropecuários.
+- A asserção II está incorreta. O texto II afirma que a exigência por aparência perfeita *aumenta o desperdício*, mas não estabelece uma relação de proporcionalidade direta entre o aumento das perdas e a elevação das exigências estéticas. Além disso, o texto destaca que a exigência por *qualidade* (não apenas aparência) reduz perdas, o que contraria a ideia de que o aumento das exigências (sem distinção) sempre eleva as perdas.
+
+Relação entre as asserções
+A asserção II não justifica a I, pois a II é falsa. Além disso, a I não depende da II para ser verdadeira, já que o texto I de fato sintetiza a distinção entre feio e estragado, independentemente da relação de proporcionalidade mencionada na II.
+
+Análise das alternativas
+A) Incorreta. A asserção II é falsa, logo não pode ser justificativa correta da I.
+B) Incorreta. A asserção II é falsa, então não é verdadeira.
+C) Correta. A asserção I é verdadeira, e a II é falsa.
+D) Incorreta. A asserção I é verdadeira, não falsa.
+E) Incorreta. A asserção I é verdadeira, então não são ambas falsas.""
+]"
+3,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
+[
+  3,
+  ""SIM"",
+  ""SIM"",
+  ""SIM"",
+  ""SIM"",
+  null,
+  ""QUESTÃO 3 — Alternativa B
+
+Comentário geral
+
+A questão aborda o uso da bicicleta como meio de transporte sustentável e sua contribuição para a mobilidade urbana e a qualidade de vida nas grandes cidades, com base em dois textos: um histórico (Texto I) e uma charge (Texto II).
+
+A afirmativa I está incorreta. Embora as bicicletas ocupem menos espaço na malha viária, isso não significa que investimentos públicos em ciclovias possam ser dispensados. O Texto I destaca a importância de políticas públicas para incentivar o uso da bicicleta, e a charge reforça a necessidade de infraestrutura adequada, como ciclovias e ciclofaixas, para garantir a segurança dos ciclistas. Portanto, a conclusão de que se pode prescindir de investimentos em ciclovias é equivocada.
+
+A afirmativa II está correta. O uso da bicicleta como meio de transporte contribui para a melhoria da qualidade de vida nas metrópoles, pois não emite poluentes durante seu uso e promove atividade física, beneficiando tanto o meio ambiente quanto a saúde dos usuários.
+
+A afirmativa III está incorreta. O Texto I menciona que, na Alemanha nazista, foram criados espaços exclusivos para bicicletas porque os veículos automotivos eram prioridade, não porque a bicicleta tenha passado a prevalecer. Não há fundamento no texto para afirmar que, a partir da Segunda Guerra Mundial, a bicicleta se tornou predominante nas cidades europeias.
+
+Portanto, apenas a afirmativa II está correta.
+
+Análise das alternativas
+
+A) Incorreta. A afirmativa I está errada, pois a necessidade de infraestrutura cicloviária é reforçada pelos textos, e não dispensada.
+
+B) Correta. Apenas a afirmativa II está correta, pois o uso da bicicleta de fato contribui para a melhoria da qualidade de vida, como explicado.
+
+C) Incorreta. A afirmativa I está errada, e a III não é sustentada pelo Texto I, que não afirma que a bicicleta passou a prevalecer nas cidades europeias.
+
+D) Incorreta. A afirmativa III está incorreta, pois não há evidência no texto de que a bicicleta tenha se tornado predominante nas cidades europeias a partir da Segunda Guerra Mundial.
+
+E) Incorreta. Apenas a afirmativa II está correta, enquanto I e III estão incorretas.""
+]"
+4,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
+[
+  4,
+  ""SIM"",
+  ""SIM"",
+  ""SIM"",
+  ""SIM"",
+  null,
+  ""QUESTÃO 4 — Alternativa B
+
+Comentário geral
+
+A questão aborda o fenômeno da Gig Economy, ou economia dos bicos, que se caracteriza pela contratação de trabalhadores autônomos por meio de plataformas digitais, sem vínculo empregatício formal. O texto destaca que esses profissionais não contam com proteções legais como FGTS, férias ou décimo terceiro salário, além de arcarem com os custos de sua atividade e enfrentarem longas jornadas de trabalho, o que pode gerar problemas de saúde.
+
+A asserção I é verdadeira, pois descreve corretamente a composição da Gig Economy: trabalhadores autônomos informais, sem regulamentação ou proteção legal, atuando em plataformas digitais. A asserção II também é verdadeira, uma vez que o texto menciona explicitamente que os trabalhadores arcam com os custos da atividade, enfrentam longas jornadas e sofrem com desgaste físico e mental.
+
+No entanto, a asserção II não constitui uma justificativa para a asserção I. Enquanto a I define quem são os trabalhadores da Gig Economy, a II descreve as condições e consequências do trabalho nesses moldes. Não há uma relação causal ou explicativa entre as duas: as condições de trabalho (II) não explicam a definição do modelo (I).
+
+Análise das alternativas
+
+A) Incorreta.
+As asserções I e II são verdadeiras, mas a II não é uma justificativa correta da I. A asserção II descreve as condições de trabalho, enquanto a I define o modelo de contratação. Não há uma relação de causa e efeito entre elas.
+
+B) Correta.
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I. A I caracteriza a Gig Economy, e a II descreve as condições de trabalho, sem estabelecer uma relação lógica de justificativa.
+
+C) Incorreta.
+A asserção I é verdadeira, e a II também é verdadeira, conforme o texto. Portanto, não é correto afirmar que a II é falsa.
+
+D) Incorreta.
+A asserção I é verdadeira, pois o texto confirma que os trabalhadores das plataformas digitais são autônomos e desprotegidos legalmente. A asserção II também é verdadeira, conforme descrito no enunciado.
+
+E) Incorreta.
+Ambas as asserções são verdadeiras, conforme o texto. Portanto, não é correto afirmar que ambas são falsas.""
+]"
+5,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
+[
+  5,
+  ""SIM"",
+  ""SIM"",
+  ""SIM"",
+  ""SIM"",
+  null,
+  ""QUESTÃO 5 — Alternativa A
+
+Comentário geral
+
+A questão aborda o tema do suicídio entre crianças e adolescentes indígenas no Brasil, apresentando dados epidemiológicos, distribuição geográfica e discussões sobre direitos fundamentais. Os textos destacam que a taxa de suicídio na população indígena é significativamente maior que a média nacional, com destaque para a faixa etária de 10 a 19 anos. O mapa complementa as informações, mostrando a distribuição dos óbitos por suicídio entre crianças e adolescentes indígenas no país.
+
+A afirmativa I está correta, pois o elevado índice de suicídios entre crianças e adolescentes indígenas evidencia a necessidade de ações voltadas para a garantia dos direitos fundamentais dessa população, como vida, saúde e dignidade.
+
+A afirmativa II está incorreta, uma vez que o mapa não indica que Pará e Tocantins sejam os estados com os maiores índices de suicídio na faixa etária de 10 a 14 anos. A concentração de casos parece estar em outras unidades federativas, como Mato Grosso do Sul e Amazonas.
+
+A afirmativa III está incorreta, pois os povos indígenas têm seus direitos e garantias constitucionais amparados, inclusive no que diz respeito à preservação de sua história e cultura.
+
+A afirmativa IV está incorreta, pois o estabelecimento de ações preventivas ao suicídio nas comunidades indígenas deve considerar as particularidades dessa população, e não apenas elementos globais que afetam a população em geral na faixa etária entre 15 e 20 anos. Os textos deixam claro que o perfil epidemiológico do suicídio entre indígenas é distinto, com forte presença em faixas etárias mais jovens.
+
+Análise das alternativas
+
+A) Correta.
+Apenas a afirmativa I está correta. Os dados apresentados mostram uma incidência de suicídio indígena muito superior à média nacional, com participação expressiva de crianças e adolescentes, o que evidencia a necessidade de políticas e ações voltadas à proteção dos direitos fundamentais dessa população.
+
+B) Incorreta.
+A afirmativa II não está correta, pois o mapa não sustenta que Pará e Tocantins sejam os estados com os maiores índices de suicídio indígena na faixa de 10 a 14 anos.
+
+C) Incorreta.
+A afirmativa I está correta, mas a III está incorreta, pois os povos indígenas têm seus direitos e garantias constitucionais amparados.
+
+D) Incorreta.
+As afirmativas II e IV estão incorretas. A II não corresponde aos dados do mapa, e a IV desconsidera as particularidades do perfil epidemiológico do suicídio entre indígenas.
+
+E) Incorreta.
+As afirmativas III e IV estão incorretas. A III nega a existência de direitos constitucionais para os povos indígenas, e a IV desconsidera as diferenças epidemiológicas entre a população indígena e a população geral.""
+]"
+6,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+7,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+8,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+9,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+10,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+11,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+12,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+13,NAO,NAO,SIM,NAO,,"QUESTÃO 13 — Alternativa D
+
+Comentário geral
+A questão aborda o desenvolvimento iterativo e evolutivo, uma metodologia de engenharia de software que divide o projeto em ciclos (iterações) com duração fixa, produzindo, ao final de cada um, um subsistema executável, testável e integrável. O texto baseia-se em conceitos de refinamento progressivo e feedback contínuo, característicos de abordagens ágeis ou incrementais.
+
+O enunciado destaca que cada iteração inclui atividades completas (análise de requisitos, projeto, implementação e teste), e que o produto de cada iteração é um sistema parcial, mas funcional. Isso permite que o cliente interaja com protótipos ou versões parciais ao longo do desenvolvimento, não apenas no final.
+
+Análise das alternativas
+
+A) A alternativa está incorreta. No desenvolvimento iterativo, a mudança nos requisitos não é evitada, mas sim gerenciada. A abordagem iterativa é flexível e permite ajustes com base em feedbacks, sendo a adaptação cíclica um de seus pilares. Evitar mudanças pode ser contraproducente em contextos dinâmicos.
+
+B) A alternativa está incorreta. O texto do enunciado deixa claro que o ciclo de desenvolvimento (iteração) possui duração fixa. A menção a sistemas críticos não justifica a alteração da duração, pois a fixação do tempo é uma característica central do método iterativo.
+
+C) A alternativa está incorreta. O teste de usabilidade não precisa esperar até o último ciclo. No desenvolvimento iterativo, testes podem (e devem) ser realizados em cada iteração, à medida que funcionalidades são implementadas. Adiar para o final contraria a ideia de feedback contínuo.
+
+D) A alternativa está correta. O subsistema gerado ao final de uma iteração é executável e testável, podendo ser utilizado como protótipo pelo cliente. Isso permite validação precoce, ajuste de requisitos e maior alinhamento com as necessidades do usuário.
+
+E) A alternativa está incorreta. Embora a acessibilidade seja importante, o texto do enunciado não aborda especificamente o documento de teste de usabilidade nem critérios de acessibilidade. Além disso, a alternativa não está alinhada com o foco da questão, que é o desenvolvimento iterativo e a geração de protótipos funcionais em cada iteração."
+14,,,,,,"ERRO: Resposta do Mistral não está em um JSON válido:
+[
+  14,
+  ""NAO"",
+  ""NAO"",
+  ""SIM"",
+  ""NAO"",
+  null,
+  ""QUESTÃO 14 — Alternativa C
+
+Comentário geral
+
+A questão aborda a arquitetura de Von Neumann e exige distinguir seus princípios fundamentais de técnicas de otimização empregadas em processadores modernos.
+
+A asserção I é verdadeira. A arquitetura de Von Neumann consolidou o conceito de programa armazenado, no qual instruções e dados são armazenados na memória e processados pela CPU. Apesar das inúmeras evoluções ocorridas desde os primeiros computadores — como memória cache, múltiplos núcleos, pipelines e diferentes níveis de paralelismo —, seus princípios continuam servindo de base conceitual para grande parte dos computadores de uso geral atuais.
+
+A asserção II é falsa. Ela mistura uma técnica real de otimização dos processadores, a busca antecipada de instruções (prefetching), com características fundamentais da arquitetura de Von Neumann. A pré-busca permite antecipar instruções que provavelmente serão necessárias, mas é uma técnica de microarquitetura, e não um princípio definidor do modelo de Von Neumann.
+
+Além disso, há um erro importante na afirmação de que a próxima instrução a ser executada está “normalmente armazenada nos registradores da CPU e não precisa ser buscada da memória principal”. Os registradores possuem funções específicas e capacidade muito limitada; as instruções de um programa permanecem no sistema de memória e são trazidas para a CPU por meio da hierarquia de memória, podendo estar previamente disponíveis em cache. Uma instrução efetivamente em processamento pode ocupar registradores internos, como o registrador de instrução, mas isso não significa que as próximas instruções do programa permaneçam normalmente armazenadas nos registradores.
+
+Portanto:
+
+I = verdadeira
+II = falsa
+
+Logo, a alternativa correta é C.
+
+Análise das alternativas
+
+A) Incorreta.
+Para que essa alternativa fosse correta, I e II deveriam ser verdadeiras e II ainda teria de justificar I. Embora I seja verdadeira, II apresenta uma caracterização inadequada da arquitetura de Von Neumann. A pré-busca de instruções é uma técnica posterior de otimização e não uma propriedade fundamental que explique a permanência desse modelo arquitetural.
+
+B) Incorreta.
+Esta é uma alternativa plausível porque a asserção II menciona uma técnica real de otimização — a antecipação da busca de instruções. Entretanto, ela apresenta essa técnica de maneira inadequada ao associá-la diretamente à arquitetura de Von Neumann e ao afirmar que a próxima instrução normalmente se encontra nos registradores da CPU. A pré-busca de instruções é uma técnica de microarquitetura e não constitui um princípio fundamental do modelo de Von Neumann.
+
+C) Correta.
+A asserção I está correta porque os princípios fundamentais da arquitetura de Von Neumann continuam presentes como base conceitual de computadores modernos. A asserção II é falsa porque confunde técnicas modernas de antecipação e processamento de instruções com características constitutivas da arquitetura e, principalmente, apresenta de forma inadequada o papel dos registradores no armazenamento das próximas instruções.
+
+D) Incorreta.
+A alternativa inverte os valores lógicos corretos das proposições. A asserção I não é falsa: apesar das várias modificações introduzidas ao longo das décadas, o modelo de programa armazenado associado à arquitetura de Von Neumann permanece fundamental em sistemas computacionais modernos. A II, por sua vez, é que contém o erro conceitual.
+
+E) Incorreta.
+Não é correto considerar as duas asserções falsas. A primeira descreve adequadamente a permanência histórica e conceitual da arquitetura de Von Neumann. Portanto, mesmo que II seja falsa, a alternativa E não pode ser aceita.""
+]"
+15,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+16,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+17,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+18,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+19,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+20,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+21,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+22,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+23,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+24,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+25,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+26,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+27,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+28,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+29,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+30,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+31,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+32,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+33,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+34,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
+35,,,,,,"ERRO: API error occurred: Status 429. Body: {""object"":""error"",""message"":""Rate limit exceeded"",""type"":""rate_limited"",""param"":null,""code"":""1300"",""raw_status_code"":429}"
