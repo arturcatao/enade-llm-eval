@@ -6,20 +6,14 @@ VALORES_ANULADA = {"SIM", "NAO", None}
 
 
 def limpar_resposta(resposta: str) -> str:
-    """
-    Remove possíveis blocos de código que o modelo tenha colocado
-    ao redor da resposta.
-    """
-
     resposta = resposta.strip()
 
     if resposta.startswith("```"):
         linhas = resposta.splitlines()
 
-        # Remove ``` ou ```json
-        linhas = linhas[1:]
+        if linhas and linhas[0].strip().startswith("```"):
+            linhas = linhas[1:]
 
-        # Remove ``` final
         if linhas and linhas[-1].strip() == "```":
             linhas = linhas[:-1]
 
@@ -29,22 +23,20 @@ def limpar_resposta(resposta: str) -> str:
 
 
 def parsear_resposta(resposta: str) -> list:
-    """
-    Converte a resposta JSON do Mistral em uma lista Python.
-    """
-
     resposta = limpar_resposta(resposta)
 
     try:
         resultado = json.loads(resposta)
     except json.JSONDecodeError as erro:
         raise ValueError(
-            f"Resposta do Mistral não está em um JSON válido:\n{resposta}"
+            f"Resposta do Mistral não está em um JSON válido:\n"
+            f"{resposta}"
         ) from erro
 
     if not isinstance(resultado, list):
         raise ValueError(
-            "A resposta do Mistral não é uma lista."
+            f"A resposta do Mistral deveria ser uma lista, "
+            f"mas recebeu {type(resultado).__name__}."
         )
 
     if len(resultado) != 7:
@@ -57,9 +49,6 @@ def parsear_resposta(resposta: str) -> list:
 
 
 def validar_resultado(resultado: list) -> list:
-    """
-    Valida os 7 campos retornados pelo Mistral.
-    """
 
     numero = resultado[0]
     se_acertou = resultado[1]
@@ -69,13 +58,11 @@ def validar_resultado(resultado: list) -> list:
     anulada_tem_explicacao = resultado[5]
     explicacao_final = resultado[6]
 
-    # Número da questão
     if not isinstance(numero, int) or isinstance(numero, bool):
         raise ValueError(
             "numero_da_questao deve ser um inteiro."
         )
 
-    # Campos SIM/NAO
     campos_sim_nao = {
         "se_acertou": se_acertou,
         "explicacao_ta_boa": explicacao_ta_boa,
@@ -84,19 +71,19 @@ def validar_resultado(resultado: list) -> list:
     }
 
     for nome, valor in campos_sim_nao.items():
+
         if valor not in VALORES_SIM_NAO:
             raise ValueError(
                 f"{nome} deve ser 'SIM' ou 'NAO', "
                 f"mas recebeu: {valor}"
             )
 
-    # Questão anulada
     if anulada_tem_explicacao not in VALORES_ANULADA:
         raise ValueError(
-            "anulada_tem_explicacao deve ser 'SIM', 'NAO' ou null."
+            "anulada_tem_explicacao deve ser "
+            "'SIM', 'NAO' ou null."
         )
 
-    # Explicação final
     if not isinstance(explicacao_final, str):
         raise ValueError(
             "explicacao_final deve ser uma string."
@@ -111,11 +98,5 @@ def validar_resultado(resultado: list) -> list:
 
 
 def processar_resposta(resposta: str) -> list:
-    """
-    Faz o processo completo:
-    texto do Mistral -> JSON -> lista -> validação.
-    """
-
     resultado = parsear_resposta(resposta)
-
     return validar_resultado(resultado)

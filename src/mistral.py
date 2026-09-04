@@ -9,10 +9,50 @@ load_dotenv()
 
 API_KEY = os.getenv("MISTRAL_API_KEY")
 
-
 client = Mistral(api_key=API_KEY)
 
-MODEL = "pixtral-large-latest"
+MODEL = "mistral-medium-latest"
+
+
+SCHEMA_RESULTADO = {
+    "type": "json_schema",
+    "json_schema": {
+        "name": "resultado_questao",
+        "schema": {
+            "type": "array",
+            "prefixItems": [
+                {
+                    "type": "integer"
+                },
+                {
+                    "type": "string",
+                    "enum": ["SIM", "NAO"]
+                },
+                {
+                    "type": "string",
+                    "enum": ["SIM", "NAO"]
+                },
+                {
+                    "type": "string",
+                    "enum": ["SIM", "NAO"]
+                },
+                {
+                    "type": "string",
+                    "enum": ["SIM", "NAO"]
+                },
+                {
+                    "type": ["string", "null"],
+                    "enum": ["SIM", "NAO", None]
+                },
+                {
+                    "type": "string"
+                }
+            ],
+            "minItems": 7,
+            "maxItems": 7
+        }
+    }
+}
 
 
 def imagem_para_base64(caminho_imagem: str) -> str:
@@ -29,11 +69,6 @@ def imagem_para_base64(caminho_imagem: str) -> str:
 
 
 def avaliar(prompt: str, caminho_imagem: str | None = None) -> str:
-    """
-    Envia o prompt e, opcionalmente, uma imagem para o Mistral.
-
-    Retorna apenas o conteúdo textual da resposta.
-    """
 
     content = [
         {
@@ -42,8 +77,8 @@ def avaliar(prompt: str, caminho_imagem: str | None = None) -> str:
         }
     ]
 
-    # Se a questão tiver imagem, adiciona a imagem à requisição
     if caminho_imagem:
+
         imagem_base64 = imagem_para_base64(caminho_imagem)
 
         content.append(
@@ -53,15 +88,23 @@ def avaliar(prompt: str, caminho_imagem: str | None = None) -> str:
             }
         )
 
-    response = client.chat.complete(
-        model=MODEL,
-        messages=[
-            {
-                "role": "user",
-                "content": content,
-            }
-        ],
-        temperature=0.0,
-    )
+    try:
+        response = client.chat.complete(
+            model=MODEL,
+            messages=[
+                {
+                    "role": "user",
+                    "content": content
+                }
+            ],
+            temperature=0.0,
+            response_format=SCHEMA_RESULTADO,
+        )
 
-    return response.choices[0].message.content
+        print("  Resposta recebida do Mistral!")
+
+        return response.choices[0].message.content
+
+    except Exception as erro:
+        print(f"  Erro na API do Mistral: {erro}")
+        raise

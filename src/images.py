@@ -1,7 +1,7 @@
 from pathlib import Path
 
 
-PASTA_IMAGENS = Path("static/2021")
+PASTA_IMAGENS = Path("../static/2021")
 
 
 def buscar_imagem(numero_questao: int) -> str | None:
