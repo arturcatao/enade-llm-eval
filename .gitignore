@@ -1,2 +1,61 @@
+# ==================================================
+# Segredos
+# ==================================================
 .env
-.venv
+.env.*
+!.env.example
+
+# ==================================================
+# Python
+# ==================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Empacotamento / instalação
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ==================================================
+# Dados e resultados do projeto
+# ==================================================
+# CSVs de entrada (questões, gabaritos) e imagens costumam ser grandes
+# e/ou não devem ir para o repositório.
+data/
+static/
+
+# Resultado gerado pelo pipeline (contém o estado do resume)
+resultados.csv
+*.csv
+
+# Caso queira versionar algum CSV específico (ex.: um exemplo pequeno),
+# reative explicitamente com "!" abaixo, ex.:
+# !data/exemplo.csv
+
+# ==================================================
+# Logs
+# ==================================================
+*.log
+
+# ==================================================
+# Editores / IDEs
+# ==================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==================================================
+# Sistema operacional
+# ==================================================
+.DS_Store
+Thumbs.db
