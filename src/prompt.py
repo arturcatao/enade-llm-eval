@@ -16,6 +16,10 @@ def montar_prompt(dados: dict) -> str:
     Não existe, separadamente, um "gabarito comentado oficial" para
     comparação: a única referência autorizada para a alternativa
     correta é `gabarito_inep`.
+
+    Quando a Situação oficial for "Anulada", a explicacao_final deve ser
+    exatamente "QUESTÃO ANULADA" — o bloco de regra correspondente só é
+    injetado no prompt nesse caso.
     """
 
     numero_questao = dados["numero"]
@@ -36,6 +40,10 @@ def montar_prompt(dados: dict) -> str:
     else:
         texto_situacao = str(situacao_oficial).strip()
 
+    # Decisão determinística feita em Python: o modelo não precisa
+    # descobrir nem inferir se a questão está anulada.
+    anulada = texto_situacao.strip().lower() == "anulada"
+
     resposta_avaliada = dados.get("resposta_avaliada")
     if resposta_avaliada is None or str(resposta_avaliada).strip() == "":
         texto_resposta_avaliada = (
@@ -50,6 +58,44 @@ def montar_prompt(dados: dict) -> str:
         texto_modelo_base = "Não informado"
     else:
         texto_modelo_base = str(modelo_base).strip()
+
+    if anulada:
+        bloco_anulada = """
+==================================================
+REGRA CRÍTICA: QUESTÃO ANULADA (PRECEDÊNCIA MÁXIMA)
+==================================================
+
+A Situação oficial desta questão é "Anulada".
+
+Esta regra tem precedência sobre TODAS as demais regras relativas ao
+campo explicacao_final, inclusive sobre a regra que manda manter a
+resposta avaliada quando todos os critérios forem "SIM" e sobre a
+regra que manda produzir uma nova resolução quando algum critério for
+"NAO".
+
+O campo explicacao_final DEVE ser exatamente esta string, e nada além
+dela:
+
+QUESTÃO ANULADA
+
+Nesse caso você NÃO deve:
+
+- apontar qualquer alternativa como correta;
+- escrever o cabeçalho "QUESTÃO [número] — Alternativa [...]";
+- fazer comentário geral ou análise das alternativas A) a E);
+- reproduzir, resumir ou corrigir a resposta avaliada;
+- justificar o motivo da anulação;
+- acrescentar qualquer texto antes ou depois de "QUESTÃO ANULADA".
+
+Ignore integralmente a seção "REGRA PARA EXPLICACAO_FINAL" e a
+estrutura de resolução descrita nela.
+
+Os demais campos do array (se_acertou, explicacao_ta_boa,
+sem_rastro_llm, acordo_com_inep e anulada_tem_explicacao) continuam
+sendo avaliados normalmente, segundo os critérios descritos acima.
+"""
+    else:
+        bloco_anulada = ""
 
     prompt = f"""
 Você atuará como professor e avaliador especialista na correção de
@@ -121,7 +167,7 @@ comentado — use exclusivamente o valor fornecido nesse campo.
 - Se a Situação oficial FOR "Anulada", avalie se a resposta avaliada
   identifica isso e explica o motivo adequadamente, retornando "SIM" ou
   "NAO".
-
+{bloco_anulada}
 ==================================================
 CRITÉRIOS DE AVALIAÇÃO
 ==================================================
@@ -196,6 +242,10 @@ null significa que o critério não se aplica. Não considere null como
 ==================================================
 REGRA PARA EXPLICACAO_FINAL
 ==================================================
+
+Esta seção só se aplica quando a questão NÃO estiver anulada. Se houver
+acima uma REGRA CRÍTICA: QUESTÃO ANULADA, ela tem precedência e esta
+seção deve ser ignorada por completo.
 
 Se TODOS os critérios aplicáveis (se_acertou, explicacao_ta_boa,
 sem_rastro_llm, acordo_com_inep e, quando aplicável,
@@ -355,3 +405,19 @@ FIM DOS DADOS
 """
 
     return prompt
+
+
+def questao_esta_anulada(dados: dict) -> bool:
+    """
+    Mesma checagem usada dentro de montar_prompt, exposta para que o
+    main.py possa forçar explicacao_final = "QUESTÃO ANULADA" depois do
+    parse do JSON, sem depender da obediência do modelo.
+
+    Uso no main.py:
+
+        resultado = json.loads(resposta_do_modelo)
+        if questao_esta_anulada(dados):
+            resultado[6] = "QUESTÃO ANULADA"
+    """
+    situacao = dados.get("situacao_oficial")
+    return str(situacao or "").strip().lower() == "anulada"
