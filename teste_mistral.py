@@ -17,7 +17,7 @@ client = Mistral(
 print("Enviando teste...")
 
 response = client.chat.complete(
-    model="mistral-medium-latest",
+    model="mistral-small-latest",
     messages=[
         {
             "role": "user",
