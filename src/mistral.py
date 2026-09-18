@@ -17,7 +17,8 @@ MODEL = "mistral-medium-latest"
 # ------------------------------------------
 # Configuração do retry com backoff exponencial
 # ------------------------------------------
-MAX_TENTATIVAS = 6
+#MAX_TENTATIVAS = 6
+MAX_TENTATIVAS = float("inf")
 ESPERA_INICIAL_SEGUNDOS = 15
 
 # Pequena pausa fixa antes de cada chamada, para reduzir a chance de
@@ -123,7 +124,9 @@ def avaliar(prompt: str, caminho_imagem: str | None = None) -> str:
 
     ultimo_erro: Exception | None = None
 
-    for tentativa in range(1, MAX_TENTATIVAS + 1):
+    tentativa = 1 #teste
+    while True: # teste
+    #for tentativa in range(1, MAX_TENTATIVAS + 1):
 
         try:
             response = client.chat.complete(
@@ -146,7 +149,7 @@ def avaliar(prompt: str, caminho_imagem: str | None = None) -> str:
 
             if _erro_e_rate_limit(erro) and tentativa < MAX_TENTATIVAS:
 
-                espera = ESPERA_INICIAL_SEGUNDOS * (2 ** (tentativa - 1))
+                espera =  15 #ESPERA_INICIAL_SEGUNDOS * (2 ** (tentativa - 1))
 
                 print(
                     f"  Rate limit atingido (tentativa "
@@ -155,10 +158,12 @@ def avaliar(prompt: str, caminho_imagem: str | None = None) -> str:
                 )
 
                 time.sleep(espera)
+                tentativa += 1 # teste
                 continue
 
             print(f"  Erro na API do Mistral: {erro}")
             raise
+        
 
     # Não deveria chegar aqui, mas por segurança:
     raise ultimo_erro
