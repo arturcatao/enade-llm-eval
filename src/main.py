@@ -3,8 +3,9 @@ import pandas as pd
 
 from prompt import montar_prompt
 from images import buscar_imagem
-from mistral import avaliar
+#from mistral import avaliar
 from parser import processar_resposta
+from gemini import avaliar
 
 
 ARQUIVO_QUESTOES = "../data/2021/Enade2021-Questões.csv"
@@ -352,14 +353,14 @@ def main():
             # Mistral
             # ------------------------------------------
 
-            print("  Enviando para Mistral...")
+            print("  Enviando para Gemini...")
 
             resposta = avaliar(
                 prompt=prompt,
                 caminho_imagem=imagem
             )
 
-            print("  Resposta recebida do Mistral.")
+            print("  Resposta recebida do Gemini.")
 
             # ------------------------------------------
             # Parser
