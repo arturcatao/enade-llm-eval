@@ -1,0 +1,4 @@
+groq
+pandas
+openpyxl
+python-dotenv

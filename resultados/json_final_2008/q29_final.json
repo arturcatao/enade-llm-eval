@@ -1,0 +1,18 @@
+{
+  "ano": 2008,
+  "questao": 29,
+  "alternativa_correta": "D",
+  "origem_base": "Síntese",
+  "respostas_anonimas_utilizadas": "A+C",
+  "modelos_origem": "Gemini, Claude",
+  "imagens": [
+    "q29.png"
+  ],
+  "descricao_visual": "A figura apresenta um quadro com quatro regras de produção da gramática G, listadas verticalmente:\n\n- S → AB\n- AB → AAB\n- A → a\n- B → b\n\nSímbolos não-terminais: S, A, B. Símbolos terminais: a, b. Não há outras anotações, setas alternativas (múltiplas regras por símbolo) nem símbolos adicionais (como ε) visíveis no quadro.",
+  "validacao": [
+    "Termo proibido encontrado: ambiguidade"
+  ],
+  "gabarito_comentado_final": "QUESTÃO 29 — Alternativa D  \n\n**Comentário geral**  \n\nA gramática G apresentada possui as seguintes produções:  \n\n1. S → AB  \n2. AB → AAB  \n3. A → a  \n4. B → b  \n\nO símbolo inicial é S. Observemos o efeito da produção 2, que tem dois não‑terminais no lado esquerdo (AB). Essa característica já indica que G não é uma gramática livre de contexto (Tipo 2), pois nas gramáticas livres de contexto o lado esquerdo de toda produção deve ser um único não‑terminal.  \n\nPara compreender a linguagem gerada, iniciamos a derivação a partir de S:  \n\n- S ⇒ AB (pela produção 1)  \n- Aplicando a produção 2, substituímos o par “AB” por “AAB”. Cada aplicação acrescenta um símbolo A à esquerda, mantendo exatamente um B ao final.  \n\nAssim, após n – 1 aplicações da produção 2 (n ≥ 1) obtemos a forma sentencial  \n\n  Aⁿ B  \n\nEm seguida, as produções 3 e 4 convertem cada A em a e o único B em b, resultando na cadeia terminal  \n\n  aⁿ b , n ≥ 1  \n\nPortanto  \n\n  L(G) = { aⁿ b | n ≥ 1 } = a⁺b  \n\nEssa linguagem é regular, pois pode ser descrita pela expressão regular a⁺b (ou a a* b). Como toda linguagem regular pode ser gerada por uma gramática regular (Tipo 3), existe ao menos uma gramática regular equivalente a G. Um exemplo simples é:  \n\n- S → aS | aB  \n- B → b  \n\nEssa gramática gera exatamente a⁺b, logo é equivalente a G.  \n\n**Análise das alternativas**  \n\n**A) “A gramática G é ambígua.”**  \nA ambiguidade ocorre quando uma mesma cadeia possui duas árvores de derivação distintas. Para cada n ≥ 1, a única forma de obter aⁿb é: aplicar a produção 2 exatamente n – 1 vezes e, em seguida, substituir A → a e B → b. Não há outra sequência de produções que conduza à mesma cadeia, portanto G não é ambígua. *Alternativa incorreta.*\n\n**B) “A gramática G é uma gramática livre de contexto.”**  \nEm gramáticas livres de contexto o lado esquerdo de cada produção deve ser um único não‑terminal. A produção 2 (AB → AAB) tem dois não‑terminais à esquerda, violando essa condição. Assim, G não é livre de contexto; ela pertence à classe das gramáticas sensíveis ao contexto (Tipo 1). *Alternativa incorreta.*\n\n**C) “A cadeia aabbb é gerada por essa gramática.”**  \nComo demonstrado, toda cadeia gerada tem exatamente um símbolo b (proveniente do único B). A cadeia aabbb contém três b’s, logo não pertence a L(G). *Alternativa incorreta.*\n\n**D) “É possível encontrar uma gramática regular equivalente a G.”**  \nA linguagem L(G) = a⁺b é regular. Qualquer linguagem regular admite uma gramática regular que a gera. O exemplo apresentado acima (S → aS | aB, B → b) demonstra essa equivalência. Portanto, a afirmação é verdadeira. *Alternativa correta.*\n\n**E) “A gramática G gera a cadeia nula.”**  \nNenhuma produção de G gera ε (cadeia vazia). A menor cadeia produzida é obtida com n = 1, resultando em “ab”. Assim, a cadeia nula não está em L(G). *Alternativa incorreta.*",
+  "modelo_finalizador": "openai/gpt-oss-120b",
+  "data": "2026-09-28 21:23:18"
+}

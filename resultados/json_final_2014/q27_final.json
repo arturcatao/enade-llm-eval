@@ -1,0 +1,14 @@
+{
+  "ano": 2014,
+  "questao": 27,
+  "alternativa_correta": "B",
+  "origem_base": "Síntese",
+  "respostas_anonimas_utilizadas": "A+B+C",
+  "modelos_origem": "ChatGPT, Claude, Gemini",
+  "imagens": [],
+  "descricao_visual": "",
+  "validacao": [],
+  "gabarito_comentado_final": "QUESTÃO 27 — Alternativa B  \n\n**Comentário geral**  \n\nO enunciado apresenta um argumento em linguagem natural que deve ser formalizado para identificar a regra de inferência que garante sua validade.  \n\n- Seja **P**: “existe fogo”.  \n- Seja **Q**: “existe oxigênio”.  \n\nCom essas definições, as premissas e a conclusão do argumento são:\n\n1. “Se existe fogo, então existe oxigênio.” → **P → Q**  \n2. “Não há oxigênio.” → **¬Q**  \n3. “Então não há fogo.” → **¬P**  \n\nA estrutura obtida corresponde exatamente à forma conhecida como **Modus Tollens** (negação do consequente): a partir de uma condicional **P → Q** e da negação de seu consequente **¬Q**, conclui‑se a negação do antecedente **¬P**.  \n\nPara validar a inferência, basta observar que, se **P** fosse verdadeira, a premissa **P → Q** exigiria que **Q** fosse verdadeira. Contudo, a segunda premissa afirma **¬Q**, gerando contradição. Portanto, **P** não pode ser verdadeira, ou seja, **¬P** deve ser verdadeira.  \n\nAssim, a regra que justifica o argumento é a representada na alternativa B.\n\n---\n\n### Análise das alternativas  \n\n**A)  P → Q, ¬P ⟹ ¬Q**  \nEsta forma tenta inferir a negação do consequente a partir da negação do antecedente. Trata‑se da falácia da **negação do antecedente**, que não é válida: o fato de não haver fogo (**¬P**) não impede a existência de oxigênio, pois o oxigênio pode estar presente por outras razões. Logo, a alternativa está incorreta.\n\n**B)  P → Q, ¬Q ⟹ ¬P**  \nCorreta. Representa o **Modus Tollens**: da condicional e da negação do seu consequente deduz‑se a negação do antecedente. É exatamente a estrutura do argumento proposto.\n\n**C)  P → Q, Q ⟹ P**  \nEsta é a falácia da **afirmação do consequente**. A presença de oxigênio (**Q**) não garante que exista fogo (**P**), pois o oxigênio pode estar presente independentemente do fogo. Portanto, a alternativa está errada.\n\n**D)  P → Q, ¬Q ⟹ ¬¬P**  \nEmbora as premissas coincidam com as do argumento, a conclusão **¬¬P** equivale a **P** (dupla negação). Isso contradiz a inferência correta (**¬P**) e, portanto, a forma é inválida.\n\n**E)  P → Q, P ⟹ Q**  \nEsta é a regra do **Modus Ponens**, válida em geral, mas não corresponde ao argumento em questão, pois a segunda premissa do enunciado é **¬Q**, e não **P**. Assim, a alternativa está incorreta.",
+  "modelo_finalizador": "openai/gpt-oss-120b",
+  "data": "2026-09-24 00:00:55"
+}

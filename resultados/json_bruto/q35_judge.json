@@ -1,0 +1,34 @@
+{
+  "empate_tecnico": true,
+  "resposta_a": {
+    "aderencia_enunciado": 5,
+    "alternativa": "E",
+    "analise_distratores": 5,
+    "clareza_pedagogica": 5,
+    "coerencia_logica": 5,
+    "correcao_conceitual": 5,
+    "fundamentacao": 5
+  },
+  "resposta_b": {
+    "aderencia_enunciado": 2,
+    "alternativa": "C",
+    "analise_distratores": 2,
+    "clareza_pedagogica": 3,
+    "coerencia_logica": 3,
+    "correcao_conceitual": 0,
+    "fundamentacao": 1
+  },
+  "resposta_c": {
+    "aderencia_enunciado": 5,
+    "alternativa": "E",
+    "analise_distratores": 5,
+    "clareza_pedagogica": 5,
+    "coerencia_logica": 5,
+    "correcao_conceitual": 5,
+    "fundamentacao": 5
+  },
+  "respostas_em_empate": [
+    "A",
+    "C"
+  ]
+}
