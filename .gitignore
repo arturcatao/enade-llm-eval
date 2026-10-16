@@ -17,13 +17,6 @@ dist/
 *.egg-info/
 .eggs/
 
-data/
-static/
-
-resultados.csv
-*.csv
-
-
 *.log
 
 

@@ -18,11 +18,11 @@ client = genai.Client(api_key=API_KEY)
 MODEL = "gemini-3.6-flash"  # Ou o modelo exato que estiver configurado no seu gemini.py
 
 # Arquivos de entrada e saída
-ARQUIVO_RESPOSTAS_LLM = "../data/teste/Enade2021-RespostasLLMs.csv"
-ARQUIVO_GABARITO_BRUTO = "../data/teste/Enade2021-GabaritoINEP.csv" 
-ARQUIVO_QUESTOES = "../data/teste/Enade2021-Questões.csv"
+ARQUIVO_RESPOSTAS_LLM = "../data/2017/Enade_2017-RespostasLLM.csv"
+ARQUIVO_GABARITO_BRUTO = "../data/2017/Enade_2017-Gabarito_INEP.csv" 
+ARQUIVO_QUESTOES = "../data/2017/Enade_2017-Questões.csv"
 
-ARQUIVO_SAIDA = "../data/teste/Enade2021-GabaritoFinal.csv" # Gerado e atualizado incrementalmente
+ARQUIVO_SAIDA = "../data/2017/Enade2017-GabaritoFinal.csv" # Gerado e atualizado incrementalmente
 
 MAX_TENTATIVAS = 5
 
@@ -49,7 +49,8 @@ def chamar_gemini_texto(prompt: str, caminho_imagem: str | None = None) -> str:
             )
         )
     
-    for tentativa in range(1, MAX_TENTATIVAS + 1):
+    #for tentativa in range(1, MAX_TENTATIVAS + 1):
+    while True:
         try:
             time.sleep(3)
             response = client.models.generate_content(
@@ -62,12 +63,12 @@ def chamar_gemini_texto(prompt: str, caminho_imagem: str | None = None) -> str:
             erro_str = str(e).lower()
             # ---> ADICIONADA A MODIFICAÇÃO DO ERRO 503 <---
             if "429" in erro_str or "quota" in erro_str or "503" in erro_str or "unavailable" in erro_str:
-                espera = 15 * (2 ** (tentativa - 1))
+                espera = 15 # * (2 ** (tentativa - 1))
                 print(f"  Servidor ocupado ou Rate limit. Aguardando {espera}s...")
                 time.sleep(espera)
             else:
                 raise e
-    raise Exception("Falha após múltiplas tentativas no Gemini.")
+    #raise Exception("Falha após múltiplas tentativas no Gemini.")
 
 def extrair_campo(texto: str, regex_pattern: str) -> str:
     match = re.search(regex_pattern, texto, re.IGNORECASE | re.DOTALL)

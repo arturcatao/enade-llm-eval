@@ -1,0 +1,1273 @@
+Questão,LLM,Modelo,Data,Alternativa,Confiança,Dificuldade,Ambiguidade,Força dos distratores,Tema,Subtema,Justificativa da resposta,Análise das alternativas,Justificativa da ambiguidade,Justificativa dos distratores
+1,ChatGPT,GPT-5.6 Luna,20/09/2026,C,98,3,0,2,União Europeia e análise de dados estatísticos,Interpretação de gráficos e cálculo de porcentagens,"JUSTIFICATIVA DA RESPOSTA:
+A contribuição do Reino Unido para a União Europeia em 2014 foi de € 11,3 bilhões, enquanto os gastos da UE com o Reino Unido foram de € 6,9 bilhões.
+
+A diferença entre esses valores é:
+
+11,3 − 6,9 = 4,4 bilhões
+
+Para determinar essa diferença em relação à contribuição do Reino Unido:
+
+(4,4 ÷ 11,3) × 100 ≈ 38,94%
+
+Portanto, a diferença da contribuição do Reino Unido em relação ao valor recebido do bloco foi de aproximadamente 38,94%, tornando a alternativa C correta.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Os quatro maiores contribuintes são Alemanha (€ 25,8 bilhões), França (€ 19,5 bilhões), Itália (€ 14,3 bilhões) e Reino Unido (€ 11,3 bilhões). A soma é:
+
+25,8 + 19,5 + 14,3 + 11,3 = 70,9 bilhões
+
+Sua participação no total de € 144,9 bilhões é:
+
+(70,9 ÷ 144,9) × 100 ≈ 48,93%
+
+Portanto, não corresponde a 41,13%.
+
+B:
+Incorreta. O valor de € 42,1 bilhões corresponde à contribuição do grupo “Outros países”, e não a 42,1% do total. Sua participação percentual seria aproximadamente:
+
+(42,1 ÷ 144,9) × 100 ≈ 29,05%
+
+C:
+Correta. A diferença entre a contribuição do Reino Unido (€ 11,3 bilhões) e os gastos da UE com o Reino Unido (€ 6,9 bilhões) é de € 4,4 bilhões. Em relação à contribuição britânica:
+
+(4,4 ÷ 11,3) × 100 ≈ 38,94%
+
+D:
+Incorreta. Os três maiores contribuintes são Alemanha, França e Itália:
+
+25,8 + 19,5 + 14,3 = 59,6 bilhões
+
+Sua participação no total é:
+
+(59,6 ÷ 144,9) × 100 ≈ 41,13%
+
+Logo, não supera 50%.
+
+E:
+Incorreta. A participação do Reino Unido no total das contribuições é:
+
+(11,3 ÷ 144,9) × 100 ≈ 7,80%
+
+Portanto, não é 17,8%. Além disso, embora esteja entre os quatro maiores contribuintes, o percentual apresentado na alternativa está errado.","JUSTIFICATIVA DA AMBIGUIDADE:
+0. O enunciado fornece todos os valores necessários para os cálculos, e a alternativa C apresenta um resultado que pode ser obtido diretamente dos dados do gráfico. Não há duas interpretações plausíveis que conduzam a respostas diferentes.","JUSTIFICATIVA DOS DISTRATORES:
+2. Os distratores são fortes porque utilizam valores reais apresentados no gráfico, mas confundem valores absolutos com percentuais ou aplicam cálculos incorretos. A alternativa A, por exemplo, apresenta 41,13%, que corresponde aproximadamente à participação dos três maiores contribuintes, enquanto a D afirma que essa mesma soma supera 50%. A alternativa B confunde € 42,1 bilhões com 42,1%, e a E apresenta um percentual incorreto para o Reino Unido. Essas construções exigem atenção aos cálculos e às bases utilizadas."
+1,Gemini,Gemini 3.6 Flash,20/09/2026,C,100,3,0,2,Interpretação de Gráficos e Tabelas,Cálculo e Análise Percentual de Dados Econômicos,"JUSTIFICATIVA DA RESPOSTA:Com base no total das contribuições de € 144,9 bilhões em 2014 e nos dados fornecidos pelos gráficos, analisa-se a relação entre a contribuição e o retorno do Reino Unido:Contribuição do Reino Unido para a UE: € 11,3 bilhões.Gastos da UE com o Reino Unido (contrapartida/recebido): € 6,9 bilhões.Diferença bruta entre contribuição e retorno: € 11,3 - € 6,9 = € 4,4 bilhões.Razão percentual dessa diferença em relação ao valor total investido/contribuído pelo Reino Unido: $(4,4 / 11,3) \times 100\% \approx 38,9381\%$, valor que, arredondado para duas casas decimais, resulta precisamente em 38,94%.Portanto, a alternativa C é a única matematicamente correta.","ANÁLISE DAS ALTERNATIVAS:A: Incorreta. A soma das contribuições dos quatro maiores países (Alemanha: 25,8 + França: 19,5 + Itália: 14,3 + Reino Unido: 11,3) é de € 70,9 bilhões, o que equivale a $(70,9 / 144,9) \times 100\% \approx 48,93\%$ do total. O percentual de 41,13% refere-se, na realidade, à soma apenas dos três maiores contribuintes.B: Incorreta. O gráfico indica que o grupo “Outros países” contribuiu com € 42,1 bilhões (valor absoluto em moeda), e não 42,1%. Em termos percentuais em relação ao total de € 144,9 bilhões, a contribuição desse grupo é de $(42,1 / 144,9) \times 100\% \approx 29,05\%$.C: Correta. A diferença entre o contribuído pelo Reino Unido (€ 11,3 bilhões) e o recebido do bloco (€ 6,9 bilhões) é de € 4,4 bilhões. A proporção dessa diferença em relação à contribuição total do Reino Unido é de $(4,4 / 11,3) \times 100\% \approx 38,94\%$.D: Incorreta. Os três maiores contribuintes são Alemanha (€ 25,8 bilhões), França (€ 19,5 bilhões) e Itália (€ 14,3 bilhões), totalizando € 59,6 bilhões. Em relação ao total de € 144,9 bilhões, esse valor representa 41,13%, o que não supera 50%.E: Incorreta. O percentual de participação do Reino Unido (€ 11,3 bilhões) no orçamento total do bloco (€ 144,9 bilhões) foi de $(11,3 / 144,9) \times 100\% \approx 7,8\%$, e não 17,8%.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se nível 0 (Sem ambiguidade), pois os gráficos e o texto apresentam todos os dados necessários de forma objetiva e transparente, permitindo identificar a alternativa C como a única correta sem divergências de interpretação.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se nível 2 (Distratores fortes), visto que as alternativas incorretas utilizam armadilhas numéricas inteligentes: a alternativa A usa o resultado percentual real dos três primeiros países (41,13%) atribuindo-o aos quatro primeiros; a alternativa B induz o candidato ao erro ao trocar a unidade de valor (bilhões de euros por porcentagem); e a alternativa D testa a verificação precisa da soma acumulada dos três maiores do bloco."
+1,Claude,Sonnet 5,20/09/2026,C,95,2,1,2,Matemática Básica / Interpretação de Gráficos,"Porcentagem, razão e variação percentual aplicadas a dados estatísticos","JUSTIFICATIVA DA RESPOSTA:
+O segundo gráfico informa que o Reino Unido contribuiu com € 11,3 bilhões e recebeu € 6,9 bilhões em gastos da UE. A diferença absoluta é 11,3 − 6,9 = € 4,4 bilhões. Tomando a contribuição do Reino Unido como base de comparação (a expressão ""diferença da contribuição do Reino Unido em relação ao recebido"" indica variação percentual sobre o valor contribuído), obtém-se:
+
+4,4 / 11,3 = 0,38938... ≈ 38,94%
+
+O valor coincide exatamente com o apresentado na alternativa, confirmando a base de cálculo adotada. Interpretações alternativas não geram esse número (4,4/6,9 ≈ 63,77%; 4,4/144,9 ≈ 3,04%), o que torna a alternativa C a única compatível com os dados.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Os quatro maiores contribuintes individuais são Alemanha (25,8), França (19,5), Itália (14,3) e Reino Unido (11,3), somando € 70,9 bilhões, o que corresponde a 70,9/144,9 ≈ 48,93%. O valor 41,13% corresponde à soma dos três maiores (25,8 + 19,5 + 14,3 = 59,6 → 59,6/144,9 ≈ 41,13%), configurando deslocamento proposital do número correto para outra quantidade de países.
+
+B:
+Incorreta. O valor 42,1 no gráfico está expresso em bilhões de euros, não em porcentagem. A participação percentual do grupo ""Outros países"" é 42,1/144,9 ≈ 29,05%. A alternativa confunde a unidade do eixo (€ bilhões) com percentual.
+
+C:
+Correta. 11,3 − 6,9 = 4,4; e 4,4/11,3 ≈ 38,94%, exatamente o valor indicado.
+
+D:
+Incorreta. Os três maiores contribuintes somam € 59,6 bilhões, equivalentes a ≈ 41,13% do total de € 144,9 bilhões, valor inferior a 50%. Mesmo considerando ""Outros países"" como agregado, ele não é um país e, ainda assim, 42,1 + 25,8 + 19,5 = 87,4 → 60,3%, hipótese descartada pelo enunciado, que fala em ""países"".
+
+E:
+Incorreta. A participação do Reino Unido é 11,3/144,9 ≈ 7,8%, e não 17,8%. A segunda parte da afirmação é verdadeira (o Reino Unido é o 4º maior contribuinte individual), mas o percentual apresentado está errado, o que invalida a alternativa. Trata-se do distrator mais forte, por conter um erro numérico de um único dígito acompanhado de informação verdadeira.","JUSTIFICATIVA DA AMBIGUIDADE:
+Nível 1. A redação ""diferença da contribuição do Reino Unido em relação ao recebido do bloco econômico"" não explicita a base do cálculo percentual (contribuição, recebimento ou total do bloco). Contudo, apenas a base ""contribuição"" reproduz o valor 38,94%, o que elimina a dúvida na prática. Há também imprecisão conceitual leve nas alternativas A, D e E ao tratar ""Outros países"" como possível integrante da comparação entre países.","JUSTIFICATIVA DOS DISTRATORES:
+Nível 2. A alternativa E é o distrator mais forte: contém informação verdadeira (Reino Unido entre os quatro maiores) associada a um percentual errado por alteração de um dígito (17,8% no lugar de 7,8%), exigindo cálculo efetivo para ser descartada. A alternativa A é igualmente forte, pois apresenta um percentual correto (41,13%), mas atribuído ao número errado de países. A alternativa B explora a confusão entre unidade absoluta (€ bilhões) e percentual, erro frequente em leitura de gráficos."
+3,ChatGPT,GPT-5.6 Luna,20/09/2026,B,99,3,0,2,Consumo e tarifação de energia elétrica,Cálculo de consumo mensal e impacto das bandeiras tarifárias,"JUSTIFICATIVA DA RESPOSTA:
+A afirmação III é a única correta.
+
+Para os cálculos, utiliza-se:
+
+Custo = consumo em kWh × tarifa
+
+A tarifa em bandeira verde é de R$ 0,50/kWh. Na bandeira amarela, há um acréscimo de R$ 0,020/kWh, portanto a tarifa passa a ser R$ 0,52/kWh.
+
+Afirmação I
+
+Para o chuveiro de 3 500 W:
+
+Consumo diário: 1,750 kWh
+Consumo mensal:
+\(1,750 \times 30 = 52,5\) kWh
+Acréscimo da bandeira amarela:
+\(52,5 \times 0,020 = R\$ 1,05\)
+
+Para o chuveiro de 5 500 W:
+
+Consumo diário: 2,250 kWh
+Consumo mensal:
+\(2,250 \times 30 = 67,5\) kWh
+Acréscimo da bandeira amarela:
+\(67,5 \times 0,020 = R\$ 1,35\)
+
+A afirmação diz R$ 1,65 para o chuveiro de 5 500 W, mas o valor correto é R$ 1,35.
+
+Logo, I é falsa.
+
+Afirmação II
+
+Carregador de celular:
+
+0,240 kWh/dia
+
+Modem em stand-by:
+
+0,120 kWh/dia
+
+Total diário:
+
+\(0,240 + 0,120 = 0,360\) kWh
+
+Total mensal:
+
+\(0,360 \times 30 = 10,8\) kWh
+
+Em bandeira verde:
+
+\(10,8 \times 0,50 = R\$ 5,40\)
+
+Esse primeiro valor está correto.
+
+Em bandeira amarela:
+
+\(10,8 \times 0,52 = R\$ 5,616\)
+
+Ou seja, aproximadamente R$ 5,62, e não R$ 5,78.
+
+Logo, II é falsa.
+
+Afirmação III
+
+Lâmpada LED:
+
+0,040 kWh/dia
+
+Lâmpada incandescente:
+
+0,300 kWh/dia
+
+Diferença diária:
+
+\(0,300 - 0,040 = 0,260\) kWh
+
+Diferença mensal:
+
+\(0,260 \times 30 = 7,8\) kWh
+
+Em bandeira verde:
+
+\(7,8 \times 0,50 = R\$ 3,90\)
+
+Portanto, uma lâmpada incandescente gera R$ 3,90 a mais por mês que uma lâmpada LED.
+
+Logo, III é verdadeira.
+
+Assim, somente a afirmação III está correta:
+
+B) III, apenas.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Afirma que apenas II está correta, mas II é falsa porque o custo mensal em bandeira amarela seria R$ 5,616 (aproximadamente R$ 5,62), e não R$ 5,78.
+
+B:
+Correta. A afirmação III é verdadeira, enquanto I e II apresentam erros nos valores calculados.
+
+C:
+Incorreta. I e II não são verdadeiras. Embora o R$ 1,05 do primeiro chuveiro esteja correto como acréscimo da bandeira amarela, o valor indicado para o segundo chuveiro está errado, e II também está errada.
+
+D:
+Incorreta. III é verdadeira, mas I é falsa devido ao valor incorreto de R$ 1,65 para o chuveiro de 5 500 W.
+
+E:
+Incorreta. As três afirmações não podem ser verdadeiras, pois I e II apresentam valores incompatíveis com os dados da tabela e as tarifas fornecidas.","JUSTIFICATIVA DA AMBIGUIDADE:
+0 — Sem ambiguidade. Os dados necessários estão disponíveis na tabela e no enunciado. Os cálculos permitem determinar claramente que apenas III é verdadeira.","JUSTIFICATIVA DOS DISTRATORES:
+2 — Distratores fortes. As alternativas C, D e E são particularmente plausíveis porque a afirmação I contém um cálculo parcialmente correto: o valor de R$ 1,05 para o chuveiro de 3 500 W realmente corresponde ao acréscimo da bandeira amarela. Além disso, II apresenta um valor correto para a bandeira verde (R$ 5,40), o que pode levar a uma aceitação indevida da afirmação completa. É necessário verificar os cálculos integralmente para eliminar esses distratores."
+3,Gemini,Gemini 3.6 Flash,20/09/2026,B,100,3,0,1,Física / Eletrodinâmica,Cálculo de Consumo de Energia Elétrica (kWh) e Tarifação por Bandeiras Tarifárias,"JUSTIFICATIVA DA RESPOSTA:Para determinar a alternativa correta, calcula-se o consumo mensal de energia e o custo correspondente para cada afirmação:Afirmação I (Incorreta):Chuveiro 3 500 W (3,5 kW): consumo diário de $3{,}5 \text{ kW} \times 0{,}5 \text{ h} = 1{,}75 \text{ kWh}$. Em 30 dias: $1{,}75 \times 30 = 52{,}5 \text{ kWh}$.Chuveiro 5 500 W (5,5 kW): consumo diário de $5{,}5 \text{ kW} \times 0{,}5 \text{ h} = 2{,}75 \text{ kWh}$. Em 30 dias: $2{,}75 \times 30 = 82{,}5 \text{ kWh}$.Na bandeira amarela, a tarifa total por kWh é R$ 0,50 + R$ 0,020 = R$ 0,520.O valor mensal total do consumo do chuveiro de 3 500 W é $52{,}5 \times 0{,}52 = \text{R\$ } 27{,}30$, e do chuveiro de 5 500 W é $82{,}5 \times 0{,}52 = \text{R\$ } 42{,}90$.Os valores de R$ 1,05 e R$ 1,65 indicados na afirmação I representam tão somente o acréscimo devido à bandeira amarela ($52{,}5 \times 0{,}020 = 1{,}05$ e $82{,}5 \times 0{,}020 = 1{,}65$), e não o valor mensal total da tarifa de energia para o uso do aparelho.Afirmação II (Incorreta):Consumo diário do carregador de celular: $0{,}010 \text{ kW} \times 24 \text{ h} = 0{,}240 \text{ kWh}$.Consumo diário do modem em stand-by: $0{,}005 \text{ kW} \times 24 \text{ h} = 0{,}120 \text{ kWh}$.Consumo diário total: $0{,}240 + 0{,}120 = 0{,}360 \text{ kWh}$. Em 30 dias: $0{,}360 \times 30 = 10{,}8 \text{ kWh}$.Em bandeira verde (R$ 0,50/kWh): $10{,}8 \times 0{,}50 = \text{R\$ } 5{,}40$ (correto).Em bandeira amarela (R$ 0,52/kWh): $10{,}8 \times 0{,}52 = \text{R\$ } 5{,}616 \approx \text{R\$ } 5{,}62$. O valor de R$ 5,78 citado na afirmação corresponde à bandeira vermelha ($10{,}8 \times 0{,}535 = \text{R\$ } 5{,}778 \approx \text{R\$ } 5{,}78$).Afirmação III (Correta):Lâmpada incandescente: consumo diário de $0{,}060 \text{ kW} \times 5 \text{ h} = 0{,}300 \text{ kWh}$.Lâmpada LED: consumo diário de $0{,}008 \text{ kW} \times 5 \text{ h} = 0{,}040 \text{ kWh}$.Diferença diária: $0{,}300 - 0{,}040 = 0{,}260 \text{ kWh}$. Em 30 dias: $0{,}260 \times 30 = 7{,}8 \text{ kWh}$.Custo adicional mensal em bandeira verde (R$ 0,50/kWh): $7{,}8 \times 0{,}50 = \text{R\$ } 3{,}90$.Assim, conclui-se que apenas a afirmação III está correta.","ANÁLISE DAS ALTERNATIVAS:
+
+A: Incorreta. A afirmação II é falsa porque o valor em bandeira amarela é de R$ 5,62 (R$ 5,78 seria o valor referente à bandeira vermelha).
+B: Correta. Somente a afirmação III é verdadeira, pois a economia gerada ao substituir uma lâmpada incandescente por LED em bandeira verde é exatamente R$ 3,90 por mês.
+C: Incorreta. Ambas as afirmações I e II são falsas.
+D: Incorreta. A afirmação I é falsa pois confunde o valor do acréscimo tarifário (R$ 1,05 e R$ 1,65) com o valor total gasto mensalmente na fatura pelos chuveiros (R$ 27,30 e R$ 42,90).
+E: Incorreta. As afirmações I e II são incorretas.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se nível 0 pois o enunciado apresenta de forma clara e completa todos os dados tarifários, os consumos dos equipamentos e os períodos necessários para a realização dos cálculos, existindo apenas uma alternativa logicamente correta.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se nível 1 pois os distratores exploram equívocos conceituais comuns, como confundir o acréscimo da bandeira tarifária com a tarifa total (item I) ou confundir o valor do acréscimo da bandeira amarela com o da bandeira vermelha (item II). Contudo, com a execução criteriosa dos cálculos de multiplicação, esses distratores são facilmente descartados."
+3,Claude,Sonnet 5,20/09/2026,D,88,3,1,2,Matemática Básica / Física Aplicada,Consumo de energia elétrica (potência × tempo) e cálculo de tarifas proporcionais,"JUSTIFICATIVA DA RESPOSTA:
+O consumo diário em kWh é obtido por E = P(kW) × t(h); o consumo mensal é o diário multiplicado por 30 dias.
+
+Afirmação I: o acréscimo da bandeira amarela é R$ 0,020/kWh.
+
+Chuveiro 3 500 W: 3,5 × 0,5 = 1,75 kWh/dia → 52,5 kWh/mês → 52,5 × 0,020 = R$ 1,05. ✔
+Chuveiro 5 500 W: 5,5 × 0,5 = 2,75 kWh/dia → 82,5 kWh/mês → 82,5 × 0,020 = R$ 1,65. ✔
+(Observação: a coluna ""kWh"" da tabela traz 2,250 para o chuveiro de 5 500 W, valor incompatível com P × t = 2,75; adotou-se o valor fisicamente correto, coerente com o enunciado da afirmação.)
+
+Afirmação II: carregador (0,240 kWh/dia) + modem em stand-by (0,120 kWh/dia) = 0,360 kWh/dia → 10,8 kWh/mês.
+
+Bandeira verde: 10,8 × 0,50 = R$ 5,40. ✔
+Bandeira amarela: 10,8 × (0,50 + 0,020) = 10,8 × 0,52 = R$ 5,616 ≈ R$ 5,62 ≠ R$ 5,78. ✘
+
+Afirmação III: incandescente 0,300 kWh/dia e LED 0,040 kWh/dia → diferença 0,260 kWh/dia → 7,8 kWh/mês → 7,8 × 0,50 = R$ 3,90. ✔
+
+Logo, são corretas apenas I e III.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A afirmação II apresenta valor errado para a bandeira amarela (R$ 5,78 em vez de R$ 5,616), e ainda ignora que I e III estão corretas.
+
+B:
+Incorreta. Embora III esteja correta, I também está, pois 52,5 × 0,020 = 1,05 e 82,5 × 0,020 = 1,65. Esta alternativa só seria defensável se fosse adotado literalmente o valor tabelado (2,250 kWh) para o chuveiro de 5 500 W, que é inconsistente com P × t.
+
+C:
+Incorreta. I está correta, mas II não: o valor mensal em bandeira amarela é R$ 5,62 (aproximadamente), não R$ 5,78.
+
+D:
+Correta. I e III resultam exatamente dos cálculos de consumo mensal aplicados ao acréscimo de bandeira (R$ 1,05 e R$ 1,65) e à diferença entre lâmpadas (R$ 3,90), enquanto II falha no valor da bandeira amarela.
+
+E:
+Incorreta. Inclui a afirmação II, cujo valor em bandeira amarela está errado.","JUSTIFICATIVA DA AMBIGUIDADE:
+Nível 1. O enunciado e as afirmações são claros, mas há inconsistência interna nos dados: a tabela registra 2,250 kWh para o chuveiro de 5 500 W, quando P × t = 5,5 × 0,5 = 2,750 kWh. Se o resolvedor usar estritamente o valor tabelado, obtém R$ 1,35 e julgaria I falsa, o que levaria à alternativa B. A coerência física e a compatibilidade com o valor de R$ 1,65 indicam erro de digitação na tabela, permitindo identificar D como resposta adequada. Há ainda leve imprecisão na expressão ""valor mensal da tarifa"", que em I designa apenas o acréscimo da bandeira, e em II o valor total.","JUSTIFICATIVA DOS DISTRATORES:
+Nível 2. O principal distrator é B, que se torna plausível justamente pelo valor tabelado inconsistente (2,250 kWh) e pelo fato de III ser verificável de forma direta. C e E também são fortes, pois II começa correta (R$ 5,40 em bandeira verde), induzindo o candidato a validá-la sem conferir o segundo valor, cujo erro (R$ 5,78 em vez de R$ 5,616) só aparece após o cálculo completo do acréscimo."
+7,ChatGPT,GPT-5.6 Luna,21/09/2026,A,98,3,0,2,Patrimônio cultural e identidade cultural,"Produção artesanal tradicional, relação com a natureza e mercado cultural","JUSTIFICATIVA DA RESPOSTA:
+A alternativa A é correta porque o texto evidencia diretamente a relação entre o ofício das paneleiras e os recursos naturais da região. A produção das panelas depende da extração da argila do Vale do Mulembá e do manguezal e da coleta da casca do mangue vermelho (Rhysophora mangle), utilizada na obtenção da tintura aplicada às panelas.
+
+Portanto, a produção artesanal não ocorre de forma isolada da natureza: ela envolve uma interação entre saberes tradicionais, recursos naturais locais e técnicas de produção transmitidas historicamente.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Correta. O próprio texto informa que as artesãs retiram a argila de áreas específicas e utilizam a casca do mangue vermelho para produzir a tintura aplicada às panelas. Isso demonstra claramente as inter-relações entre a produção artesanal e a natureza local.
+
+B:
+Incorreta. O texto não afirma que a relação entre as tradições permanece inalterada. Pelo contrário, afirma que a técnica pouco mudou, mas também apresenta adaptações às necessidades funcionais e mudanças decorrentes da profissionalização e da inserção no mercado. Além disso, a afirmação de que essa permanência ""viabiliza"" a manutenção da identidade cultural é uma generalização não sustentada pelo texto.
+
+C:
+Incorreta. Embora o texto mostre que a produção entrou em uma dinâmica mais comercial, ele afirma que as paneleiras de fundo de quintal se queixam de ficar comercialmente ofuscadas após a notoriedade do galpão. Portanto, não houve retorno positivo para toda a comunidade.
+
+D:
+Incorreta. O texto mostra justamente a coexistência das dimensões histórica, cultural, estética e econômica. A comercialização e o turismo aumentaram a visibilidade do trabalho, mas não há indicação de que tenham reduzido o ofício exclusivamente à dimensão econômica.
+
+E:
+Incorreta. A alternativa afirma que o Estado do Espírito Santo permanece alheio aos modos de produção, divulgação e comercialização. Isso não corresponde ao texto, que menciona o reconhecimento institucional do patrimônio cultural pelo Iphan e a proteção do bem como patrimônio cultural brasileiro.","JUSTIFICATIVA DA AMBIGUIDADE:
+0 — Sem ambiguidade. O texto fornece informações explícitas sobre a origem da matéria-prima e sobre a utilização de recursos naturais na fabricação das panelas. A alternativa A é diretamente sustentada pelo enunciado, enquanto as demais apresentam afirmações que contradizem ou extrapolam as informações fornecidas.","JUSTIFICATIVA DOS DISTRATORES:
+2 — Distratores fortes. As alternativas B, C e D utilizam elementos verdadeiros do texto, como tradição, identidade cultural, inserção no mercado e comercialização, mas fazem generalizações ou apresentam conclusões que não são sustentadas pelo enunciado. Em especial, C e D podem parecer plausíveis para quem considera apenas a dimensão econômica da profissionalização, mas entram em conflito com as consequências sociais descritas no texto."
+7,Gemini,Gemini 3.6 Flash,21/09/2026,A,100,2,0,1,Patrimônio Cultural,Saberes Tradicionais e Relações Socioambientais,"JUSTIFICATIVA DA RESPOSTA:
+A alternativa A é a única estritamente correta e totalmente respaldada pelas informações dos textos apresentados. O primeiro texto detalha expressamente a relação direta da confecção das peças ceramistas com o ecossistema local ao relatar que as artesãs retiram a argila do Vale do Mulembá e do manguezal, além de coletar a casca do mangue-vermelho (Rhizophora mangle) para a produção da tintura impermeabilizante aplicada às panelas quentes. Assim, demonstra-se a indispensável interrelação entre o saber tradicional e a extração de matérias-primas da natureza local.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Correta. A alternativa reflete diretamente o trecho do Texto 1, que comprova a extração de recursos naturais locais (argila do Vale do Mulembá/manguezal e casca da Rhizophora mangle) como matérias-primas essenciais para o processo de fabricação e impermeabilização das peças de barro.
+
+B:
+Incorreta. O texto não afirma que a relação permanece inalterada; ao contrário, aponta que a atividade se adaptou (""apresenta-se com modelagem própria e original, adaptada às necessidades funcionais"") e sofreu transformações organizacionais e comerciais (""o trabalho foi profissionalizado"", ""ganhou um ritmo mais empresarial"").
+
+C:
+Incorreta. A afirmação de que há ""retornos positivos para toda a comunidade"" é contradita pelo Texto 3, que menciona que ""as paneleiras de fundo de quintal se queixam de ficarem ofuscadas comercialmente"", demonstrando assimetria e conflitos de interesse na comunidade.
+
+D:
+Incorreta. O texto 2 destaca justamente a preservação e a valorização das dimensões histórica, cultural e imaterial do ofício (registro no Iphan no Livro de Registro dos Saberes). O fato de haver inserção de mercado não anula ou reduz tais dimensões, como generaliza a alternativa.
+
+E:
+Incorreta. O texto demonstra a atuação de instituições de preservação e fontes oficiais (como o Iphan e portais governamentais locais), o que invalida a premissa de que o estado do Espírito Santo ""mantém-se alheio"" aos modos de produção, divulgação e comercialização.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se nível 0 (Sem ambiguidade) porque os textos fornecem dados suficientes, coerentes e claros para fundamentar a escolha da alternativa A, sem ambiguidades conceituais ou contradições no enunciado.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se nível 1 (Distratores moderados) porque alternativas como C e D dialogam com debates sociológicos plausíveis sobre patrimônio e mercado, podendo atrair candidatos que extrapolem o texto. Contudo, a leitura atenta das informações disponibilizadas permite descartá-las objetivamente."
+7,Claude,Sonnet 5,21/09/2026,A,90,2,0,1,Patrimônio cultural imaterial brasileiro,Cultura popular capixaba – panela de barro de Goiabeiras,"JUSTIFICATIVA DA RESPOSTA:
+O texto descreve explicitamente que a produção da panela de barro depende de recursos extraídos diretamente da natureza local: a argila retirada do Vale do Mulembá e do manguezal, e a casca da Rhysophora mangle (mangue vermelho), usada para produzir a tintura impermeabilizante. Essa descrição evidencia uma relação direta e indispensável entre o ofício artesanal e o ambiente natural da região, o que é justamente o que a alternativa A afirma, sem incorrer em generalizações ou juízos de valor não sustentados pelo texto.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Correta. É diretamente sustentada pelo enunciado, que detalha a extração da argila e da casca do mangue vermelho como etapas essenciais e indissociáveis da produção das panelas, evidenciando a interrelação entre o ofício e a natureza local.
+
+B:
+Incorreta. O texto indica que houve profissionalização, maior competitividade e mudanças no modo de produção (galpão, cabines individuais, ritmo empresarial), contradizendo a ideia de que a relação entre a tradição das panelas e o prato típico permanece ""inalterada"".
+
+C:
+Incorreta. O segundo trecho mostra que a inserção no mercado gerou desigualdade dentro da própria comunidade: as paneleiras de ""fundo de quintal"" se sentem ofuscadas comercialmente, o que contradiz a afirmação de que há ""retornos positivos para toda a comunidade"".
+
+D:
+Incorreta. É uma afirmação exagerada e não sustentada pelo texto; o enunciado não afirma que a dimensão cultural, histórica e estética tenha sido ""reduzida"" à dimensão puramente econômica, apenas que a produção ganhou caráter mais empresarial e visibilidade publicitária.
+
+E:
+Incorreta. O próprio texto contradiz essa alternativa, pois menciona que a panela de barro foi tombada e registrada pelo Iphan, órgão estatal, evidenciando que o Estado não se mantém ""alheio"" aos modos de produção e reconhecimento cultural do ofício.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se nível 0 porque o enunciado fornece informações claras e suficientes para identificar uma alternativa correta sem margem para interpretações divergentes razoáveis. Os textos de apoio são coerentes entre si e permitem eliminar as demais alternativas com base em dados explícitos.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se nível 1 porque a alternativa C representa um distrator moderadamente plausível, já que aborda corretamente a inserção do ofício no mercado comercial, mas erra ao generalizar os ""retornos positivos"" para toda a comunidade, ignorando o conflito mencionado entre paneleiras do galpão e as de fundo de quintal. As demais alternativas (B, D, E) são mais facilmente descartáveis por contradição direta com o texto."
+9,ChatGPT,GPT-5.6 Luna,21/09/2026,A,100,3,0,2,Árvores AVL,Inserção em árvore AVL e rotação simples à direita,"JUSTIFICATIVA DA RESPOSTA:
+A inserção do valor 3 segue as regras de uma árvore binária de busca:
+
+3 < 13 → vai para a esquerda.
+3 < 10 → vai para a esquerda.
+3 < 5 → vai para a esquerda.
+3 < 4 → vai para a esquerda.
+
+Assim, o 3 é inserido como filho esquerdo do nó 4.
+
+Após a inserção, analisamos o balanceamento de baixo para cima:
+
+Nó 4: balanceado.
+Nó 5: continua balanceado.
+Nó 10: sua subárvore esquerda fica com altura 3, enquanto a direita possui altura 1. Portanto, o fator de balanceamento de 10 é 2, caracterizando um desequilíbrio.
+
+A configuração é do tipo LL (Left-Left), pois a inserção ocorreu na subárvore esquerda da esquerda de 10. Portanto, é necessária uma rotação simples à direita em 10.
+
+A rotação transforma:
+
+5 em filho esquerdo de 13 e novo pai da subárvore;
+10 passa a ser filho direito de 5;
+8 permanece como filho esquerdo de 10;
+11 permanece como filho direito de 10;
+4 continua como filho esquerdo de 5, com 3 como seu filho esquerdo.
+
+A árvore resultante é exatamente a apresentada na alternativa A.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Correta. Apresenta a árvore após a inserção de 3 e a rotação simples à direita no nó 10. A estrutura final é:
+
+13 como raiz;
+5 à esquerda de 13;
+15 à direita de 13;
+4 e 10 como filhos de 5;
+3 como filho esquerdo de 4;
+8 e 11 como filhos de 10;
+16 como filho direito de 15.
+
+B:
+Incorreta. Mantém 10 como filho esquerdo de 13 e 5 como filho esquerdo de 10. Embora o 3 tenha sido inserido corretamente, o desequilíbrio no nó 10 não foi corrigido com a rotação necessária.
+
+C:
+Incorreta. Apresenta 10 como raiz, o que não ocorre após a inserção de 3. A inserção provoca desequilíbrio apenas na subárvore enraizada em 10, sendo necessária uma rotação à direita nessa subárvore, não uma alteração da raiz 13.
+
+D:
+Incorreta. Coloca 10 como raiz e 13 como seu filho direito. Essa configuração não corresponde à rotação necessária. O desequilíbrio ocorre no nó 10, que deve ser rotacionado para que 5 assuma sua posição.
+
+E:
+Incorreta. Apresenta uma estrutura incompatível com a propriedade de árvore binária de busca. Por exemplo, o nó 5 aparece na subárvore de 8, apesar de 5 < 8, além de a organização não resultar da rotação necessária após a inserção de 3.","JUSTIFICATIVA DA AMBIGUIDADE:
+0 = Sem ambiguidade. O enunciado fornece a árvore inicial, o valor a ser inserido e a regra de balanceamento da AVL. A inserção de 3 produz claramente um caso LL no nó 10, exigindo uma rotação simples à direita. Apenas a alternativa A corresponde à configuração resultante.","JUSTIFICATIVA DOS DISTRATORES:
+2 = Distratores fortes. As alternativas B e C, principalmente, são plausíveis porque preservam grande parte da estrutura original e apresentam o novo nó 3 em uma posição relacionada à inserção correta. Porém, exigem identificar precisamente em qual nó ocorre o desequilíbrio e onde a rotação deve ser aplicada. As alternativas D e E também exploram configurações que podem confundir quem não acompanha corretamente a rotação e as propriedades da árvore AVL."
+9,Gemini,Gemini 3.6 Flash,21/09/2026,A,100,3,0,1,Estruturas de Dados,Árvores Binárias de Busca Balanceadas (Árvore AVL) e Rotações,"JUSTIFICATIVA DA RESPOSTA:Ao inserir o valor 3 na árvore AVL apresentada, percorre-se a árvore a partir da raiz respeitando a propriedade de árvore binária de busca ($3 < 13$, $3 < 10$, $3 < 5$ e $3 < 4$), de forma que o novo nó é inserido como filho à esquerda do nó 4.Após a inserção, verifica-se o fator de balanceamento (FB = altura_esquerda - altura_direita) subindo a partir do novo nó:Nó 4: FB = $1 - 0 = +1$Nó 5: FB = $2 - 1 = +1$Nó 10: FB = $3 - 1 = +2$ (desbalanceado)O nó ancestral de menor nível (mais profundo) que viola a propriedade AVL é o nó 10, com FB igual a $+2$. Como o seu filho à esquerda (nó 5) possui FB igual a $+1$, trata-se de um caso de desbalanceamento do tipo Esquerda-Esquerda (LL).A correção exige uma rotação simples à direita no nó 10:O nó 5 sobe para ocupar a posição do nó 10 (tornando-se o novo filho à esquerda do nó 13).O nó 10 torna-se o filho à direita do nó 5.A subárvore à direita de 5 (constituída pelo nó 8) passa a ser a subárvore à esquerda de 10.O nó 4 (com o nó 3 à sua esquerda) permanece como filho à esquerda do nó 5.O nó 11 permanece como filho à direita do nó 10.A verificação do nó raiz (13) indica FB = $3 - 2 = +1$, garantindo que toda a árvore está devidamente balanceada. Essa estrutura corresponde rigorosamente à Alternativa A.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Correta. Representa com precisão a árvore AVL rebalanceada após a inserção do nó 3 e a execução da rotação simples à direita sobre o nó 10.
+
+B:
+Incorreta. Apresenta a árvore logo após a inserção do nó 3, mas sem efetuar o devido rebalanceamento AVL (o nó 10 permanece desbalanceado com FB = +2).
+
+C:
+Incorreta. Apresenta uma estrutura incorreta resultante da tentativa equivocada de efetuar rotações na raiz principal (nó 13) em vez de rotacionar o nó desbalanceado mais baixo (nó 10).
+
+D:
+Incorreta. Promove o nó 10 a raiz principal da árvore de forma indevida, violando os passos do algoritmo de rotação AVL para o caso LL identificado.
+
+E:
+Incorreta. Exibe uma reorganização inconsistente da árvore, alterando incorretamente as relações de parentesco entre os nós (como colocar o nó 4 como filho direto do nó 10) e violando as propriedades da árvore binária de busca.","JUSTIFICATIVA DA AMBIGUIDADE:
+Nível 0 (Sem ambiguidade). O enunciado define com clareza o conceito de árvore AVL, e a figura inicial aliada às alternativas gráficas permite a aplicação direta e inequívoca do algoritmo de inserção e rotação.","JUSTIFICATIVA DOS DISTRATORES:
+Nível 1 (Distratores moderados). A alternativa B destaca-se como o distrator principal por apresentar a árvore após a inserção, testando se o candidato lembra de efetuar o rebalanceamento. As alternativas C, D e E funcionam como distratores secundários para quem identifica a necessidade de rotação, mas erra o nó pivô ou a mecânica da rotação."
+9,Claude,Sonnet 5,21/09/2026,A,90,4,0,2,Estruturas de Dados,Árvores AVL — inserção e balanceamento (rotação simples),"JUSTIFICATIVA DA RESPOSTA:
+Na árvore original, o nó 3 é inserido como filho esquerdo do nó 4 (caminho 13→10→5→4→3). Verificando os fatores de balanceamento a partir do nó inserido em direção à raiz: o nó 4 e o nó 5 permanecem balanceados (diferença de altura ≤ 1), mas o nó 10 passa a ter subárvore esquerda (via nó 5) com altura 3 e subárvore direita (nó 11) com altura 1, gerando diferença de 2 — o nó mais baixo desbalanceado é o 10. Como a inserção ocorreu no filho esquerdo do filho esquerdo de 10 (caso Esquerda-Esquerda), aplica-se uma rotação simples à direita tendo 10 como pivô. Essa rotação promove o nó 5 ao lugar de 10, mantendo 4 (com filho 3) como filho esquerdo de 5, e reorganizando 10 como filho direito de 5, com 8 tornando-se filho esquerdo de 10 e 11 permanecendo filho direito de 10. O restante da árvore (13 como raiz, com 15 e seu filho 16 à direita) não é afetado, pois o desbalanceamento foi resolvido localmente no nó 10. O resultado final corresponde exatamente à configuração apresentada na alternativa A, e todos os nós resultantes satisfazem a propriedade AVL (diferença de alturas ≤ 1).","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Correta. Reflete exatamente o resultado da rotação simples à direita no nó 10 após a inserção de 3, mantendo 13 como raiz, com 5 e 15 como filhos, e a subárvore de 5 reorganizada corretamente (4-3 à esquerda, 10 com filhos 8 e 11 à direita), preservando a propriedade AVL em todos os nós.
+
+B:
+Incorreta. Representa a árvore original apenas com o nó 3 inserido como filho de 4, sem qualquer rotação de rebalanceamento. Isso viola a propriedade AVL, pois o nó 10 ficaria com diferença de altura igual a 2 entre suas subárvores.
+
+C:
+Incorreta. Promove o nó 10 diretamente à raiz da árvore inteira (substituindo 13), como se a rotação tivesse sido aplicada na raiz global em vez de localmente no nó desbalanceado (10). Isso não corresponde ao procedimento correto, que rebalanceia apenas a subárvore mais baixa desbalanceada.
+
+D:
+Incorreta, porém é um distrator forte: a árvore resultante é estruturalmente balanceada (satisfaz a propriedade AVL), mas com posicionamento diferente dos nós 8 e 11 (aqui aparecem como filhos de 5 e de 13, respectivamente) e com 10 assumindo o lugar de 13 como raiz global — não reflete a rotação correta aplicada apenas na subárvore de 10.
+
+E:
+Incorreta. Apresenta uma reorganização estrutural muito distinta da esperada (com 4 e 8 assumindo posições centrais e 5 desaparecendo como nó distinto na posição original), não correspondendo a nenhuma rotação AVL válida (simples ou dupla) para este caso de inserção.","JUSTIFICATIVA DA AMBIGUIDADE:
+O enunciado fornece a árvore original de forma clara e a regra de rebalanceamento AVL é bem definida (diferença de altura máxima de 1, com rotação simples ou dupla no nó mais baixo desbalanceado). Não há informações faltantes nem múltiplas interpretações plausíveis quanto ao procedimento a ser aplicado, havendo uma única configuração final tecnicamente correta.","JUSTIFICATIVA DOS DISTRATORES:
+Nível 2 atribuído porque a alternativa D constitui um distrator conceitualmente próximo da resposta correta: apresenta uma árvore que também satisfaz a propriedade AVL (balanceada em todos os nós), mas com uma reorganização estrutural incorreta (10 assumindo a posição de raiz global e reposicionamento diferente de 8 e 11), exigindo análise cuidadosa da rotação especificamente aplicada ao nó 10 para ser descartada. A alternativa B também é um distrator relevante, pois representa o erro comum de esquecer a etapa de rotação após a inserção, sendo estruturalmente igual à árvore original com o novo nó apenas inserido, sem rebalanceamento."
+10,ChatGPT,GPT-5.6 Luna,21/09/2026,C,98,3,0,1,Padrões de projeto,Padrão Observer e comunicação entre objetos,"JUSTIFICATIVA DA RESPOSTA:
+A asserção I é verdadeira. O padrão Observer é adequado quando existe um objeto que mantém determinado estado e vários outros objetos precisam ser informados automaticamente quando esse estado é alterado.
+
+No cenário apresentado, o status do pedido pode ser mantido por um objeto observado (Subject/Observable), enquanto os sistemas do entregador, da linha de produção e da central de atendimento atuam como observadores (Observers). Quando o status muda, os observadores recebem uma notificação. Além disso, novos sistemas podem ser adicionados como observadores sem precisar alterar significativamente o objeto que mantém o pedido.
+
+A asserção II é falsa. Embora o funcionamento descrito — um elemento notificando outros quando ocorre uma mudança — seja semelhante ao mecanismo do Observer, o padrão Observer não é um estilo arquitetural cliente-servidor. Ele é um padrão de projeto comportamental que define uma relação de dependência de um-para-muitos entre objetos.
+
+Portanto, I é verdadeira e II é falsa, correspondendo à alternativa C.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A I é verdadeira, mas a II é falsa. Portanto, não é possível considerar ambas verdadeiras.
+
+B:
+Incorreta. A I é verdadeira, porém a II não é verdadeira. Além disso, a II não descreve corretamente o padrão Observer.
+
+C:
+Correta. A I é verdadeira porque o Observer permite notificar múltiplos objetos interessados quando ocorre uma alteração. A II é falsa porque o Observer não implementa o estilo arquitetural cliente-servidor; trata-se de um padrão comportamental de projeto.
+
+D:
+Incorreta. A I não é falsa. O Observer é justamente aplicável a situações em que vários componentes precisam ser notificados sobre mudanças de estado.
+
+E:
+Incorreta. A I é verdadeira, pois o cenário apresentado é um caso típico de aplicação do Observer.","JUSTIFICATIVA DA AMBIGUIDADE:
+Nível 0 (sem ambiguidade). O enunciado descreve claramente uma situação de notificação de múltiplos componentes após uma alteração de estado, característica diretamente associada ao Observer. A II também apresenta uma afirmação conceitualmente identificável como falsa ao classificar o Observer como estilo arquitetural cliente-servidor.","JUSTIFICATIVA DOS DISTRATORES:
+Nível 1 (distratores moderados). A principal alternativa distratora é a B, pois exige perceber que a II é falsa, apesar de sua descrição do mecanismo de notificação parecer superficialmente compatível com o Observer. A alternativa A também pode atrair quem confunde o mecanismo de notificações do Observer com uma arquitetura cliente-servidor."
+10,Gemini,Gemini 3.6 Flash,21/09/2026,C,100,2,0,1,Engenharia de Software,Padrões de Projeto e Estilos Arquiteturais,"JUSTIFICATIVA DA RESPOSTA:
+A asserção I é verdadeira. O padrão de projeto GoF Observer (Comportamental) é ideal para cenários em que a mudança no estado de um objeto (o estado do pedido) necessita notificar e atualizar automaticamente múltiplos objetos dependentes (sistemas do entregador, da linha de produção, da central de atendimento e novos leitores futuros) sem acoplá-los rigidamente ao elemento emissor.
+
+A asserção II é falsa. O padrão Observer não realiza o estilo arquitetural cliente-servidor. Observer é um padrão de projeto de software no nível de classes/objetos, focado no desacoplamento entre um sujeito (Subject) e seus inscritos (Observers). Por sua vez, Cliente-Servidor é um estilo arquitetural distribuído baseado tipicamente no paradigma de requisição-resposta (request-reply), onde os clientes iniciam a comunicação solicitando serviços a um servidor central. Portanto, a asserção II conceitua erroneamente o padrão Observer e o confunde com estilos arquiteturais.","ANÁLISE DAS ALTERNATIVAS:
+
+A: Incorreta. A asserção I é verdadeira, mas a asserção II é falsa, pois o Observer é um padrão de projeto comportamental voltado ao desacoplamento entre sujeito e observadores, e não uma realização do estilo arquitetural cliente-servidor.
+
+B: Incorreta. A asserção II é falsa, o que invalida a premissa de que ambas as asserções seriam proposições verdadeiras.
+
+C: Correta. A asserção I expressa corretamente a aplicação do padrão Observer para lidar com a notificação do estado de pedidos a múltiplos sistemas dinâmicos, enquanto a asserção II é uma proposição falsa por distorcer o conceito e o nível de abstração do padrão Observer.
+
+D: Incorreta. A asserção I é verdadeira e a asserção II é falsa (o inverso do que afirma esta alternativa).
+
+E: Incorreta. A asserção I é verdadeira, tornando a afirmação de que ambas são falsas incorreta.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuído nível 0. O enunciado contextualiza com clareza o problema técnico e as asserções contêm definições conceituais precisas referentes a Padrões de Projeto (GoF) e Arquitetura de Software, permitindo deduzir sem margem para dúvida a veracidade da primeira e a falsidade da segunda.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuído nível 1. A alternativa A funciona como distrator moderado para leitores que se atentam apenas à ideia genérica de ""notificação"" descrita na asserção II, sem perceber a inadequação conceitual de associar o padrão de projeto Observer diretamente como realizador do estilo arquitetural cliente-servidor."
+10,Claude,Sonnet 5,21/09/2026,C,85,3,0,2,Padrões de projeto de software,Padrão Observer e estilos arquiteturais,"JUSTIFICATIVA DA RESPOSTA:
+O requisito descrito — múltiplos sistemas (entregador, produção, atendimento e, futuramente, outros) precisando ser notificados automaticamente sempre que o status de um pedido muda, sem que o subsistema que gera o evento precise conhecer previamente todos os interessados — é o cenário clássico de aplicação do padrão Observer (também chamado publish-subscribe em variantes distribuídas). O padrão define uma relação um-para-muitos entre um ""sujeito"" (subject/observable) e seus ""observadores"", de modo que, quando o sujeito muda de estado, todos os observadores registrados são notificados automaticamente, permitindo acoplamento fraco e extensibilidade (novos observadores podem se inscrever sem alterar o sujeito). Portanto, a asserção I é verdadeira. Já a asserção II erra ao afirmar que o Observer ""realiza o estilo arquitetural cliente-servidor"". Observer é um padrão de projeto (nível de design orientado a objetos), não um estilo arquitetural de sistemas distribuídos; além disso, sua semântica é a de notificação/publicação (o sujeito empurra atualizações aos observadores interessados, tipicamente numa relação de publicação-assinatura), o que é conceitualmente distinto do estilo cliente-servidor clássico, baseado em requisição-resposta sob demanda, em que o servidor não notifica proativamente os clientes. Logo, a asserção II é falsa, o que caracteriza a alternativa C.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Exigiria que I e II fossem ambas verdadeiras e que II justificasse I, mas II é falsa.
+
+B:
+Incorreta. Também pressupõe que II é verdadeira, o que não procede.
+
+C:
+Correta. I é verdadeira (Observer resolve o requisito de notificação a múltiplos interessados) e II é falsa (Observer não é o estilo cliente-servidor, e sim um padrão de notificação/publicação-assinatura em nível de design).
+
+D:
+Incorreta. I é verdadeira, não falsa: o Observer é de fato uma solução adequada e amplamente reconhecida para esse tipo de requisito de notificação.
+
+E:
+Incorreta. Não são ambas falsas, pois I é verdadeira.","JUSTIFICATIVA DA AMBIGUIDADE:
+O enunciado descreve de forma clara e suficiente um requisito de notificação de múltiplos sistemas interessados e apresenta duas asserções bem delimitadas, permitindo avaliação objetiva de cada uma isoladamente e da relação de causalidade entre elas. Não há informação faltante nem múltiplas interpretações plausíveis que levem a respostas diferentes.","JUSTIFICATIVA DOS DISTRATORES:
+As alternativas A e B são distratores fortes, pois exigem que o candidato saiba distinguir com precisão conceitual a diferença entre um padrão de projeto (Observer, nível de design de software) e um estilo arquitetural (cliente-servidor, nível de arquitetura de sistemas distribuídos), além de reconhecer a semântica de notificação proativa do Observer versus o modelo de requisição-resposta do cliente-servidor — uma distinção sutil que pode escapar a quem conhece o Observer apenas superficialmente como ""algo relacionado a notificações entre componentes""."
+12,ChatGPT,GPT-5.6 Luna,21/09/2026,C,99,3,0,2,Organização e funcionamento da memória de acesso aleatório (RAM),"Registrador de endereços, registrador de dados e largura da memória","JUSTIFICATIVA DA RESPOSTA:
+A alternativa C (I e II, apenas) é correta.
+
+A memória é organizada em células, e cada célula possui um endereço. O registrador de endereços determina qual célula será acessada, enquanto o registrador de dados determina quantos bits podem ser transferidos em uma operação de leitura ou escrita.
+
+I. Verdadeira.
+Com um registrador de endereços de 8 bits, existem:
+
+$$ 2^8 = 256 $$
+
+possíveis combinações de endereço. Portanto, a memória pode possuir, no máximo, 256 células.
+
+II. Verdadeira.
+O valor decimal 2024 necessita de 11 bits para ser representado em binário, pois:
+
+$$ 2^{10}=1024 < 2024 < 2048=2^{11} $$
+
+Se o registrador de dados possui apenas 8 bits, uma operação consegue transferir o conteúdo de uma célula de 8 bits. Assim, não é possível armazenar 2024 inteiro em uma única operação/célula de 8 bits. São necessárias mais de uma operação.
+
+III. Falsa.
+Se o registrador de dados possui 12 bits, a célula de memória acessada possui 12 bits de largura, pois a célula é a unidade mínima de acesso. Portanto, nesse caso, a largura da memória representada na figura não poderia ser de apenas 8 bits.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A afirmação I é verdadeira, mas a II também é verdadeira. Portanto, não é correto afirmar que apenas I está correta.
+
+B:
+Incorreta. A afirmação III é falsa, pois um registrador de dados de 12 bits implica células de 12 bits, e não de 8 bits.
+
+C:
+Correta. As afirmações I e II são verdadeiras, enquanto a III é falsa.
+
+D:
+Incorreta. A afirmação II é verdadeira, mas a III é falsa. Portanto, não podem ser II e III.
+
+E:
+Incorreta. A afirmação III é falsa. Logo, as três afirmações não podem estar corretas.","JUSTIFICATIVA DA AMBIGUIDADE:
+0 = Sem ambiguidade. O enunciado fornece as informações necessárias: o registrador de endereços determina a quantidade de posições endereçáveis e o registrador de dados determina a quantidade de bits transferidos por operação. A relação entre esses componentes e a estrutura da memória permite determinar claramente as três afirmações.","JUSTIFICATIVA DOS DISTRATORES:
+2 = Distratores fortes. As alternativas incorretas exploram confusões conceituais plausíveis. A principal é a III, que pode parecer verdadeira se o aluno confundir a largura do registrador de dados com a possibilidade de a memória ter células de tamanho diferente. A alternativa E também é um distrator forte porque reúne as três afirmações e pode atrair quem não percebe a relação entre o tamanho do registrador de dados e a largura da célula."
+12,Gemini,Gemini 3.6 Flash,21/09/2026,C,100,2,0,1,Arquitetura de Computadores,Organização da Memória Principal (Registradores MAR e MDR),"JUSTIFICATIVA DA RESPOSTA:A análise das três afirmativas com base no modelo de arquitetura de memória apresentado revela:Afirmativa I (Correta): O Registrador de Endereços da Memória (MAR) possui $N$ bits de largura. Com $N$ bits, a memória consegue desempenhar o endereçamento direto de até $2^N$ localizações (células) distintas, cujos endereços variam de $0$ a $2^N - 1$. Para $N = 8$ bits, a quantidade máxima de células desempenhada é $2^8 = 256$ células.Afirmativa II (Correta): O Registrador de Dados da Memória (MDR) armazena a palavra transferida de ou para a memória em uma operação. Se o MDR possui 8 bits, cada célula de memória armazena no máximo 8 bits (1 byte), permitindo representar números inteiros sem sinal na faixa de $0$ a $255$. Como o valor $2024_{10}$ em binário ($11111101000_2$) exige 11 bits para ser representado, ele não cabe em uma única célula de 8 bits, necessitando de pelo menos duas células (2 bytes) e, portanto, de mais de uma operação de escrita na memória.Afirmativa III (Incorreta): Na estrutura de uma memória de acesso aleatório descrita, a largura da memória (o tamanho em bits de uma célula) é idêntica à largura do Registrador de Dados da Memória (MDR), uma vez que a célula é a unidade mínima de acesso e seu conteúdo integral é lido ou escrito por meio do MDR em uma única operação. Logo, se o MDR possui 12 bits, a largura da memória deve ser obrigatoriamente de 12 bits, sendo impossível que seja de 8 bits.Assim, apenas as afirmativas I e II estão corretas.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A afirmativa I está correta, mas a afirmativa II também é verdadeira, o que torna esta alternativa incompleta.
+
+B:
+Incorreta. A afirmativa III é falsa, pois a largura da memória deve ser exatamente igual à largura do registrador de dados da memória (MDR).
+
+C:
+Correta. Identifica com precisão que apenas as afirmativas I e II são verdadeiras.
+
+D:
+Incorreta. A afirmativa II é verdadeira, mas a afirmativa III é falsa e a afirmativa I (que é verdadeira) foi omitida.
+
+E:
+Incorreta. Inclui a afirmativa III, que é conceitualmente incorreta.","JUSTIFICATIVA DA AMBIGUIDADE:
+Nível 0. O texto e o diagrama explicativo fornecem definições claras e suficientes sobre o funcionamento dos registradores de endereço (MAR) e de dados (MDR), não havendo margem para dupla interpretação.","JUSTIFICATIVA DOS DISTRATORES:
+Nível 1. O principal distrator é a alternativa E (e secundariamente D), que pode atrair leitores que considerem, erroneamente, que o registrador de dados da memória (MDR) possa ter um tamanho flexível ou desvinculado da largura física da célula de memória (largura da palavra)."
+12,Claude,Sonnet 5,21/09/2026,C,88,4,1,2,Arquitetura de computadores,Organização e endereçamento de memória de acesso aleatório,"JUSTIFICATIVA DA RESPOSTA:
+A figura mostra que o registrador de endereços, com N bits, referencia endereços de 0 a 2^N−1, definindo o número máximo de células da memória, e que o registrador de dados está associado à largura de cada célula (a ""largura da memória""), pois é ele que efetivamente transporta o conteúdo completo de uma célula em cada acesso. Com base nisso: (I) um registrador de endereços de 8 bits permite endereçar 2^8 = 256 células, o que é verdadeiro. (II) um registrador de dados de 8 bits armazena, no máximo, valores de 0 a 255 (2^8−1); como 2024 requer 11 bits para ser representado em binário (2024 < 2048 = 2^11, e 2024 ≥ 1024 = 2^10), é necessário mais de um acesso/operação para armazená-lo, o que é verdadeiro. (III) como o registrador de dados define a largura de cada célula (a quantidade de bits movimentada e armazenada em cada acesso completo à célula), um registrador de dados de 12 bits implica que a largura da memória também é de 12 bits, não podendo ser de 8 bits, pois isso tornaria impossível armazenar o conteúdo completo da célula em uma única operação, contrariando a premissa de que a célula é a unidade mínima de acesso. Logo, III é falsa. Portanto, apenas I e II estão corretas.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Considera apenas I, mas II também é verdadeira, conforme demonstrado pelo cálculo de que 2024 exige 11 bits, mais que os 8 bits do registrador de dados.
+
+B:
+Incorreta. Considera apenas III, que é falsa, e ignora I, que é verdadeira (o registrador de endereços de 8 bits realmente limita a memória a 256 células).
+
+C:
+Correta. I e II são verdadeiras, e III é falsa, pelos motivos detalhados na justificativa.
+
+D:
+Incorreta. Inclui III, que é falsa, pois a largura da memória (tamanho da célula) deve corresponder à largura do registrador de dados; se este tem 12 bits, a largura da memória não pode ser 8 bits sem violar o princípio de acesso completo à célula em uma única operação.
+
+E:
+Incorreta. Inclui III, que é falsa pelo mesmo motivo apontado acima.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuí nível 1 porque a resolução da afirmação III depende de uma interpretação específica da figura — a associação entre ""largura da memória"" e a largura do registrador de dados não é explicitada em texto, apenas sugerida visualmente pelo posicionamento das setas e da chave na figura. Essa dependência de leitura visual pode gerar pequena dúvida interpretativa, embora ainda permita identificar com segurança a alternativa correta.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuí nível 2 porque a alternativa D (II e III) é um distrator forte: exige que o candidato compreenda corretamente a relação entre o registrador de dados e a largura da célula de memória para descartar III, e um raciocínio apressado ou uma leitura superficial da figura pode levar à conclusão equivocada de que a largura da memória é independente do registrador de dados. Da mesma forma, a alternativa E exige o mesmo cuidado para ser descartada."
+15,ChatGPT,GPT-5.6 Luna,21/09/2026,D,94,4,0,2,Segurança de redes sem fio,"ARP spoofing, ataque Man-in-the-Middle e mecanismos de segurança IEEE 802.11","JUSTIFICATIVA DA RESPOSTA:
+A alternativa D (I, III e IV) é a correta.
+
+No ataque Man-in-the-Middle por ARP spoofing, o atacante manipula a associação entre endereços IP e MAC para se posicionar entre as vítimas e o gateway, podendo interceptar o tráfego.
+
+A afirmação I está correta porque o uso de mecanismos baseados em criptografia de chave pública permite estabelecer chaves individuais entre as partes, evitando problemas associados ao compartilhamento de uma mesma chave entre diversos dispositivos. Protocolos como TLS utilizam mecanismos de criptografia assimétrica para autenticação e estabelecimento seguro de chaves.
+
+A afirmação II está incorreta. Um firewall no AP que apenas filtre o tráfego entre clientes da mesma subrede não impede necessariamente que um atacante se passe pelo gateway utilizando ARP spoofing. O ataque descrito justamente envolve o desvio do tráfego destinado ao AP/gateway, portanto esse mecanismo não resolve diretamente o problema.
+
+A afirmação III está correta. A autenticação do AP pode ser realizada mediante um certificado digital, cuja autenticidade pode ser verificada por meio de uma chave pública e de uma autoridade certificadora confiável. Isso permite que o cliente confirme a identidade do ponto de acesso.
+
+A afirmação IV está correta no contexto apresentado. Chaves de maior tamanho tornam ataques de força bruta significativamente mais difíceis. Assim, utilizar chaves de 128 bits, restringindo o acesso a dispositivos que suportem esse tamanho de chave, reduz a vulnerabilidade associada às chaves menores de 40/64 bits.
+
+Portanto:
+
+I = verdadeira
+II = falsa
+III = verdadeira
+IV = verdadeira
+
+Logo, I, III e IV → alternativa D.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Contém I e II. A afirmação I é correta, mas II é incorreta, pois o simples filtro de tráfego entre clientes da mesma subrede não impede o ataque de ARP spoofing contra o gateway.
+
+B:
+Incorreta. Contém I e III, ambas verdadeiras, mas omite IV, que também é verdadeira.
+
+C:
+Incorreta. Contém II e IV. Embora IV seja correta, II é incorreta e a alternativa também deixa de incluir as afirmações I e III.
+
+D:
+Correta. Contém exatamente as afirmações verdadeiras: I, III e IV.
+
+E:
+Incorreta. Contém II, que é falsa, e portanto não pode ser a resposta, mesmo que III e IV estejam corretas.","JUSTIFICATIVA DA AMBIGUIDADE:
+0 — Sem ambiguidade. As afirmações permitem distinguir claramente os mecanismos de proteção. A II trata de filtragem entre clientes, que não resolve o desvio do tráfego para o gateway causado pelo ARP spoofing, enquanto I, III e IV descrevem mecanismos coerentes de proteção.","JUSTIFICATIVA DOS DISTRATORES:
+2 — Distratores fortes. A alternativa B é o principal distrator, pois reúne I e III, ambas claramente relacionadas a mecanismos de segurança, mas omite IV. A alternativa E também é plausível porque reúne III e IV, que são verdadeiras, mas inclui II. A questão exige analisar individualmente cada afirmação, especialmente II, para eliminar essas alternativas."
+15,Gemini,Gemini 3.6 Flash,21/09/2026,B,95,3,0,1,Segurança de Redes,"Ataques Man-in-the-Middle, ARP Spoofing e Criptografia em Redes Sem Fio (IEEE 802.11)","JUSTIFICATIVA DA RESPOSTA:
+A afirmativa I está correta, pois o uso de criptografia de chave pública (como empregado no TLS/SSL e em arquiteturas WPA-Enterprise / IEEE 802.1X com EAP) possibilita a negociação dinâmica e individualizada de chaves de sessão por dispositivo, superando as vulnerabilidades inerentes ao compartilhamento de uma única chave estática entre múltiplos usuários.
+
+A afirmativa II está incorreta porque o ARP spoofing atua na Camada de Enlace (Camada 2), envenenando a tabela ARP por meio do envio de mensagens ARP não autenticadas. Um firewall tradicional opera em camadas superiores e a simples filtragem de tráfego IP entre clientes (isolamento de AP) não impede o envenenamento de cache ARP nem substitui mecanismos específicos de proteção na Camada 2, como o Dynamic ARP Inspection (DAI).
+
+A afirmativa III está correta, pois a falta de autenticação de APs (vulnerabilidade a ataques de Evil Twin / Rogue AP) é mitigada em redes sem fio corporativas mediante o uso de certificados digitais X.509 emitidos por uma Autoridade Certificadora (terceiro confiável), cuja autenticidade o cliente valida utilizando a chave pública da autoridade.
+
+A afirmativa IV está incorreta porque as fragilidades do protocolo WEP (que utiliza chaves de 64 ou 128 bits) não decorrem de vulnerabilidade de força bruta em virtude do tamanho da chave, mas sim de falhas de projeto no algoritmo RC4 e no pequeno espaço/reuso dos Vetores de Inicialização (IV), permitindo que a chave seja recuperada independentemente de seu tamanho (seja 64 ou 128 bits).
+
+Portanto, estão corretas apenas as afirmativas I e III.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Considera a afirmativa II verdadeira, quando na verdade a filtragem por firewall não previne o ataque de ARP spoofing na Camada 2, e omite a afirmativa III.
+
+B:
+Correta. Identifica com precisão que apenas as afirmativas I e III contêm soluções tecnicamente adequadas e verdadeiras para os problemas descritos.
+
+C:
+Incorreta. Considera corretas as afirmativas II e IV, ambas incorretas, além de omitir I e III.
+
+D:
+Incorreta. Inclui a afirmativa IV, que é falsa, pois chaves de 128 bits no padrão WEP permanecem vulneráveis a ataques criptoanalíticos devido a falhas do RC4/IV.
+
+E:
+Incorreta. Considera como corretas as afirmativas II e IV, que são falsas, e omite a afirmativa I.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se nível 0 (Sem ambiguidade), pois o enunciado e as afirmativas apoiam-se em conceitos consolidados de arquitetura de redes de computadores e segurança da informação, existindo apenas uma combinação correta de afirmações.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se nível 1 (Distratores moderados), visto que as afirmativas incorretas (II e IV) mencionam elementos plausíveis de segurança (firewalls e aumento no tamanho de chaves de criptografia), podendo atrair quem não recorda as fragilidades específicas da camada de enlace (protocolo ARP) ou as falhas estruturais do WEP."
+15,Claude,Sonnet 5,21/09/2026,D,78,4,1,2,Segurança em Redes Sem Fio (IEEE 802.11),Ataques Man-in-the-Middle e ARP Spoofing,"JUSTIFICATIVA DA RESPOSTA:
+As afirmações I, III e IV descrevem soluções tecnicamente coerentes para deficiências estruturais do projeto de segurança do IEEE 802.11 apontadas no ataque descrito. A afirmação II, embora pareça uma medida de segurança razoável, não ataca a causa raiz do problema (a falta de autenticação do ARP na camada de enlace), pois um firewall opera tipicamente na filtragem de tráfego de camada 3/4 e não impede a associação fraudulenta entre endereço MAC e IP que constitui o ARP spoofing; além disso, o filtro entre clientes da mesma subrede não protege da interceptação do tráfego pelo próprio AP comprometido/impersonado, que é o vetor central do ataque descrito no enunciado.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Inclui II, que não resolve o problema de desvio de tráfego pela raiz (associação MAC/IP fraudulenta na camada de enlace), e omite III e IV, que são soluções tecnicamente válidas.
+
+B:
+Incorreta. Embora I e III estejam corretas, a alternativa omite IV, que também apresenta uma solução coerente (aumento do tamanho de chave contra força bruta).
+
+C:
+Incorreta. Inclui II (solução insuficiente/inadequada) e omite I e III, que tratam corretamente dos problemas de compartilhamento de chave e falta de autenticação do AP.
+
+D:
+Correta. I trata corretamente da substituição do esquema de chave compartilhada por negociação baseada em chave pública (modelo TLS/SSL); III trata corretamente da autenticação do AP via certificado digital validado por terceiro confiável; IV trata corretamente do aumento do espaço de chaves (128 bits) como mitigação a ataques de força bruta sobre chaves curtas (40/64 bits).
+
+E:
+Incorreta. Inclui II, que não é uma solução adequada ao problema de desvio de tráfego por ARP spoofing, comprometendo a alternativa mesmo contendo III e IV corretas.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuí nível 1 porque a afirmação II não é categoricamente falsa em todos os contextos — um firewall bem configurado pode mitigar parcialmente certos efeitos do desvio de tráfego —, o que exige do candidato uma interpretação mais criteriosa sobre ""evitar"" versus ""mitigar"" o problema, e sobre em qual camada a filtragem realmente atua. Ainda assim, é possível identificar com segurança as afirmações tecnicamente mais robustas (I, III, IV).","JUSTIFICATIVA DOS DISTRATORES:
+Atribuí nível 2 porque a afirmação II constitui um distrator forte: soa como uma medida de segurança plausível e frequentemente citada em boas práticas de redes, exigindo do candidato conhecimento técnico específico sobre a diferença entre filtragem de tráfego IP e prevenção de ataques na camada de enlace (ARP) para descartá-la corretamente. As alternativas B e C exploram exatamente essa confusão, tornando a discriminação entre elas e a alternativa D não trivial."
+19,ChatGPT,GPT-5.6 Luna,21/09/2026,E,99,3,0,2,SQL,JOINs e relacionamento entre tabelas,"JUSTIFICATIVA DA RESPOSTA:
+A alternativa E é correta porque a consulta precisa relacionar as três tabelas por meio das chaves que representam a participação do deputado em uma seção:
+
+Deputado.idDeputado = Participacao.idDeputado
+Participacao.idSecao = Secao.idSecao
+
+Além disso, o enunciado exige somente deputados que compareceram a pelo menos uma seção. O INNER JOIN atende exatamente a esse requisito: apenas registros que possuem correspondência nas duas tabelas relacionadas são retornados.
+
+Assim, cada resultado contém o nome do deputado e a data da seção em que ele participou.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A consulta relaciona Deputado com Participacao, mas não estabelece nenhuma condição relacionando Participacao com Secao. Portanto, Secao fica sem uma condição de junção, produzindo combinações indevidas entre as seções e as participações. Não garante que a data exibida corresponda à seção da qual o deputado participou.
+
+B:
+Incorreta. O uso de OR entre as condições de junção é inadequado. Basta uma das condições ser verdadeira para que a combinação seja aceita, permitindo associações incorretas entre deputados, participações e seções. O correto é exigir simultaneamente as duas relações, como ocorre na alternativa E.
+
+C:
+Incorreta. O LEFT OUTER JOIN mantém todos os deputados, inclusive aqueles que não participaram de nenhuma seção. O enunciado pede somente deputados que compareceram a pelo menos uma seção. Portanto, essa consulta pode retornar deputados com dataSecao nula.
+
+D:
+Incorreta. O RIGHT OUTER JOIN não expressa corretamente a condição exigida. Ele pode preservar registros de Participacao e/ou Secao mesmo quando não houver a correspondência completa com Deputado, além de poder incluir seções sem uma participação correspondente. O objetivo é retornar apenas relacionamentos efetivamente existentes entre deputado, participação e seção.
+
+E:
+Correta. O primeiro INNER JOIN relaciona cada participação ao deputado correspondente:
+
+Deputado.idDeputado = Participacao.idDeputado
+
+O segundo INNER JOIN relaciona cada participação à seção correspondente:
+
+Participacao.idSecao = Secao.idSecao
+
+Como ambos são INNER JOIN, somente participações que possuem simultaneamente um deputado e uma seção correspondentes são retornadas. Isso corresponde exatamente ao que foi solicitado.","JUSTIFICATIVA DA AMBIGUIDADE:
+0 — Sem ambiguidade. O diagrama apresenta claramente as relações entre Deputado, Participacao e Secao, e o enunciado especifica que devem ser exibidos deputados que participaram de pelo menos uma seção e as respectivas datas. A alternativa E atende diretamente a esses requisitos.","JUSTIFICATIVA DOS DISTRATORES:
+2 — Distratores fortes. As alternativas C e D utilizam corretamente a sintaxe de JOIN, mas empregam tipos de junção inadequados ao requisito de retornar apenas deputados que efetivamente participaram de seções. A alternativa B também parece plausível por conter as duas relações, mas o uso de OR permite combinações incorretas. Esses detalhes exigem conhecimento sobre a diferença entre INNER JOIN, LEFT/RIGHT OUTER JOIN e as condições de junção."
+19,Gemini,Gemini 3.6 Flash,21/09/2026,E,100,2,0,1,Banco de Dados,Linguagem SQL (Junções de Tabelas / JOINs),"JUSTIFICATIVA DA RESPOSTA:
+A questão solicita a exibição do nome dos deputados que compareceram a pelo menos uma sessão, acompanhados das datas dessas sessões. No modelo relacional apresentado, a relação entre a entidade Deputado e a entidade Secao ocorre por meio da tabela associativa Participacao.
+
+Para retornar apenas os registros que possuem correspondência nas três tabelas (ou seja, deputados que efetivamente possuem registro de participação em ao menos uma sessão), é necessário realizar uma junção interna (INNER JOIN). A alternativa E realiza corretamente o INNER JOIN de Deputado com Participacao comparando as chaves idDeputado, e o INNER JOIN subsequente com a tabela Secao comparando as chaves idSecao.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A consulta utiliza a sintaxe antiga de junção implícita (tabelas separadas por vírgula no FROM), mas define apenas uma condição no WHERE (Deputado.idDeputado = Participacao.idDeputado). Como a tabela Secao não foi ligada a nenhuma das outras no WHERE, a consulta gera um produto cartesiano com todos os registros da tabela Secao.
+
+B:
+Incorreta. A consulta utiliza a sintaxe implícita de junção e conecta as duas condições com o operador lógico OR no WHERE. Para realizar uma junção adequada entre as três tabelas via WHERE, o operador correto seria AND. O uso do OR retorna combinações inconsistentes e indesejadas de dados.
+
+C:
+Incorreta. A consulta utiliza LEFT OUTER JOIN. Essa operação mantém todos os registros da tabela à esquerda (Deputado), incluindo deputados que não participaram de nenhuma sessão (que apareceriam com valores NULL nas colunas relativas à sessão). Isso contraria a exigência do enunciado de exibir apenas os deputados que compareceram a pelo menos uma sessão.
+
+D:
+Incorreta. A consulta utiliza RIGHT OUTER JOIN. No segundo JOIN, o RIGHT OUTER JOIN preserva todos os registros da tabela Secao (à direita), inclusive sessões nas quais nenhum deputado tenha comparecido, gerando linhas com dados de deputados como NULL.
+
+E:
+Correta. O código utiliza INNER JOIN ligando Deputado a Participacao pela chave idDeputado e Participacao a Secao pela chave idSecao. Esse encadeamento de junções internas garante que apenas deputados com ao menos um registro de presença em uma sessão sejam selecionados com suas respectivas datas.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuído nível 0 (Sem ambiguidade). O enunciado define com clareza a necessidade de junção entre as entidades e os critérios de seleção dos dados. O diagrama Entidade-Relacionamento e a sintaxe das alternativas em SQL permitem identificar a opção E como a única tecnicamente correta.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuído nível 1 (Distratores moderados). As alternativas incorretas utilizam construções e comandos válidos da linguagem SQL (como LEFT JOIN, RIGHT JOIN e sintaxe legada de JOIN), contudo apresentam falhas lógicas evidentes de filtragem e de junção que permitem o seu descarte rápido por quem domina o funcionamento do INNER JOIN."
+19,Claude,Sonnet 5,21/09/2026,E,92,2,0,1,Banco de Dados,SQL – Junções (JOIN) e Modelo Entidade-Relacionamento,"JUSTIFICATIVA DA RESPOSTA:
+O enunciado pede os deputados que compareceram a pelo menos uma sessão e as datas de cada sessão em que participaram. Isso significa que somente devem aparecer no resultado deputados que possuem registro de participação (tabela Participacao) associado a uma sessão existente. O relacionamento entre Deputado e Secao só existe por meio da tabela associativa Participacao, portanto é necessário encadear corretamente duas condições de junção: Deputado.idDeputado = Participacao.idDeputado e Participacao.idSecao = Secao.idSecao. A alternativa E utiliza INNER JOIN em ambas as junções, com as condições ON corretas, retornando exatamente as combinações de deputado e sessão em que efetivamente houve participação registrada — nem mais (sem incluir deputados sem participação), nem menos (sem excluir sessões válidas de deputados que participaram).","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A cláusula FROM lista três tabelas separadas por vírgula (produto cartesiano implícito), mas o WHERE só relaciona Deputado com Participacao. Falta a condição de junção entre Participacao e Secao, o que gera um produto cartesiano entre os resultados e todas as linhas de Secao, produzindo combinações inválidas (cada participação sendo associada a todas as sessões, não apenas à sua correspondente).
+
+B:
+Incorreta. Usa o operador lógico OR entre as duas condições de junção em vez de AND. Isso faz com que uma linha seja incluída no resultado se qualquer uma das condições for satisfeita isoladamente, gerando combinações espúrias em vez de exigir que ambas as condições de correspondência sejam verdadeiras simultaneamente. O resultado não representa corretamente os pares deputado/sessão válidos.
+
+C:
+Incorreta. O uso de LEFT OUTER JOIN a partir de Deputado preserva todos os deputados, inclusive aqueles sem nenhuma participação registrada (nesse caso, Secao.dataSecao apareceria como NULL). Isso contraria o requisito de exibir apenas deputados que compareceram a pelo menos uma sessão, pois deputados sem participação também seriam listados.
+
+D:
+Incorreta. O encadeamento de RIGHT OUTER JOIN faz com que, na segunda junção, todas as linhas de Secao sejam preservadas mesmo sem correspondência em Participacao. Isso incluiria sessões às quais nenhum deputado compareceu (com valores nulos para o deputado), o que também contraria o requisito de listar apenas participações efetivas.
+
+E:
+Correta. O uso de INNER JOIN nas duas junções, com as condições de correspondência adequadas entre Deputado–Participacao e Participacao–Secao, retorna exclusivamente as combinações em que existe participação de fato registrada, atendendo exatamente ao que foi solicitado no enunciado.","JUSTIFICATIVA DA AMBIGUIDADE:
+O enunciado é claro quanto ao que se deseja (deputados com ao menos uma participação e as respectivas datas das sessões), e o diagrama ER fornecido define precisamente as chaves primárias e estrangeiras envolvidas, permitindo identificar sem ambiguidade qual alternativa produz o resultado correto.","JUSTIFICATIVA DOS DISTRATORES:
+As alternativas C e D representam os distratores mais fortes, pois utilizam construções sintaticamente válidas e conceitualmente próximas (junções externas), exigindo que o candidato compreenda com precisão a diferença semântica entre INNER JOIN e OUTER JOIN (esquerdo/direito) e como o encadeamento de outer joins afeta a preservação de linhas sem correspondência. As alternativas A e B são mais facilmente descartáveis por quem domina a sintaxe básica de junções (ausência de condição de junção e uso indevido de OR)."
+23,ChatGPT,GPT-5.6 Luna,21/09/2026,D,96,4,1,2,Linguagens formais e autômatos,Linguagens regulares e limitações dos autômatos finitos,"JUSTIFICATIVA DA RESPOSTA:
+A alternativa correta é D, pois a asserção I é falsa e a II é verdadeira.
+
+A linguagem é definida por:
+
+para cada ocorrência de ( em w, existe uma ocorrência de ).
+
+É importante observar que o enunciado não exige que os parênteses sejam balanceados, nem que cada ( tenha um ) correspondente posteriormente. Ele apenas exige que, se houver pelo menos um (, também exista pelo menos um ) em algum ponto da cadeia.
+
+Assim, a linguagem pode ser caracterizada como:
+
+cadeias que não possuem (; ou
+cadeias que possuem ( e também possuem ).
+
+Um autômato finito consegue reconhecer essa propriedade utilizando uma quantidade finita de estados. Por exemplo, ele pode manter estados que indiquem se já apareceu ( e, depois disso, se já apareceu ). Não é necessário contar quantas ocorrências existem.
+
+Portanto, L é regular, tornando a asserção I falsa.
+
+A asserção II é verdadeira no sentido de que um autômato finito possui apenas uma quantidade finita de estados e, portanto, não consegue armazenar uma contagem arbitrariamente grande de ocorrências de um símbolo. Entretanto, isso não implica que a linguagem L não seja regular, pois L não exige essa contagem.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A asserção I é falsa. A linguagem L pode ser reconhecida por um autômato finito, pois não é necessário contar o número de ( e ).
+
+B:
+Incorreta. A asserção I continua sendo falsa. Embora a II seja verdadeira, não se pode considerar ambas verdadeiras.
+
+C:
+Incorreta. A asserção I é falsa, e não verdadeira. Além disso, a II é verdadeira.
+
+D:
+Correta. A asserção I é falsa porque L é regular. A asserção II é verdadeira porque autômatos finitos possuem memória limitada e não conseguem realizar uma contagem arbitrariamente grande por meio de estados distintos.
+
+E:
+Incorreta. A asserção II é verdadeira: um autômato finito não possui memória ilimitada para manter uma contagem arbitrária de ocorrências.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuo 1 (ambiguidade menor) porque a formulação de L pode induzir à interpretação de que os parênteses precisam ser balanceados, especialmente pelos exemplos apresentados. Entretanto, formalmente, a definição dada não exige balanceamento nem correspondência entre ( e ). Com a definição formal, é possível determinar claramente que L é regular.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuo 2 (distratores fortes). As alternativas A, B e C exploram uma confusão bastante plausível: interpretar a linguagem como exigindo contagem ou balanceamento de parênteses. Isso pode levar à conclusão de que autômatos finitos seriam insuficientes. O ponto decisivo é perceber que a definição de L exige apenas a existência de ) quando ocorre (, e não uma correspondência entre as quantidades de parênteses."
+23,Gemini,Gemini 3.6 Flash,21/09/2026,A,100,3,0,1,Teoria da Computação,Linguagens Regulares e Autômatos Finitos,"JUSTIFICATIVA DA RESPOSTA:A linguagem $L$ estabelece uma relação de correspondência quantitativa entre o número de ocorrências do símbolo ( e o número de ocorrências do símbolo ) na cadeia $w$. Conforme os exemplos fornecidos no enunciado, a presença de dois parenteses de abertura exige a presença de pelo menos dois parenteses de fechamento correspondentes, de modo que a cadeia $y$ (com dois ( e apenas um )) não pertence a $L$.Para verificar se uma cadeia pertence a $L$, um reconhecedor precisa contar ou parear uma quantidade arbitrária de símbolos. Como os autômatos finitos possuem, por definição, um número finito de estados, eles não dispõem de memória ilimitada (como uma pilha) para realizar a contagem não limitada de ocorrências de um símbolo. Consequentemente, a linguagem $L$ não é regular (Asserção I verdadeira). Além disso, a incapacidade dos autômatos finitos de realizar essa contagem ilimitada é precisamente a causa/justificativa técnica pela qual $L$ não pode ser regular (Asserção II verdadeira e justificativa correta de I).","ANÁLISE DAS ALTERNATIVAS:A:Correta. Ambas as asserções são proposições verdadeiras e a asserção II é a justificativa correta da I, pois a limitação de memória dos autômatos finitos (número finito de estados) é o motivo essencial pelo qual linguagens que exigem contagem/pareamento ilimitado de símbolos não são regulares.B:Incorreta. A asserção II justifica diretamente a asserção I, estabelecendo a relação de causa e efeito entre a limitação física do autômato finito e a impossibilidade de a linguagem $L$ ser regular.C:Incorreta. A asserção II é verdadeira, pois decorre do próprio conceito do autômato finito, cuja quantidade finita de estados impede a contagem infinita ou arbitrária de ocorrências de símbolos em cadeias de comprimento arbitrário.D:Incorreta. A asserção I é verdadeira, pois linguagens que demandam a verificação de contagem não limitada entre dois símbolos não pertencem à classe das linguagens regulares.E:Incorreta. Ambas as asserções I e II são verdadeiras.","JUSTIFICATIVA DA AMBIGUIDADE:Atribuído nível 0 (Sem ambiguidade). O enunciado apresenta o alfabeto, a definição formal da linguagem e exemplos concretos de cadeias pertencentes e não pertencentes a $L$, tornando a interpretação do problema clara e objetiva.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuído nível 1 (Distratores moderados). A alternativa B funciona como o principal distrator, pois um estudante pode reconhecer a veracidade de ambas as proposições isoladamente, mas ter dúvida sobre se a limitação dos autômatos finitos é, formalmente, a justificativa direta para a não regularidade da linguagem."
+23,Claude,Sonnet 5,21/09/2026,A,82,4,1,1,Teoria da Computação,Linguagens regulares e limitações dos autômatos finitos,"JUSTIFICATIVA DA RESPOSTA:
+Pelo exemplo dado, fica claro que L não exige apenas a mera coexistência de pelo menos um ‘(’ e um ‘)’, mas sim que, para cada ‘(’, haja um ‘)’ correspondente em quantidade — ou seja, w ∈ L se, e somente se, o número de ocorrências de ‘)’ é maior ou igual ao número de ocorrências de ‘(’ (a cadeia y possui 2 ‘(’ e apenas 1 ‘)’, por isso não pertence a L, mesmo contendo pelo menos um ‘)’). Essa é uma relação de contagem entre dois símbolos distintos do alfabeto, o que caracteriza uma dependência não local e potencialmente ilimitada entre as ocorrências de ‘(’ e ‘)’.
+
+Para mostrar que L não é regular, pode-se usar o fechamento das linguagens regulares sob interseção: se L fosse regular, então L ∩ () (interseção com a linguagem regular de todas as sequências de ‘(’ seguidas de sequências de ‘)’) também seria regular. Essa interseção resulta em {(^i)^j | j ≥ i}, que é uma linguagem clássica não regular, demonstrável pelo lema do bombeamento (de forma análoga à prova de que a^n b^n não é regular). Logo, por contradição, L não é regular, confirmando a asserção I.
+
+A asserção II expressa corretamente a limitação estrutural dos autômatos finitos: por possuírem um número finito de estados, eles não conseguem armazenar/contar quantidades ilimitadas de ocorrências de um símbolo para depois compará-las com outra quantidade também ilimitada. Essa é exatamente a razão formal (relacionada ao lema do bombeamento e à ausência de memória ilimitada) pela qual L, que depende dessa comparação de contagens, não pode ser reconhecida por um autômato finito. Portanto, II justifica corretamente I.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Correta. Ambas as asserções são verdadeiras, e a II fornece a justificativa teórica adequada (ausência de mecanismo de contagem ilimitada) para a não-regularidade de L, afirmada em I.
+
+B:
+Incorreta. Embora I e II sejam de fato verdadeiras isoladamente, a II não é apenas uma afirmação verdadeira desconectada — ela é precisamente o motivo técnico que explica a não-regularidade de L, tornando esta alternativa inadequada.
+
+C:
+Incorreta. A asserção II é verdadeira, não falsa — é um fato estabelecido da teoria dos autômatos finitos que eles não possuem memória ou mecanismo para contagem ilimitada.
+
+D:
+Incorreta. A asserção I é verdadeira (L não é regular), não falsa, conforme demonstrado pelo argumento de fechamento por interseção combinado ao lema do bombeamento.
+
+E:
+Incorreta. Nenhuma das asserções é falsa; ambas são proposições verdadeiras.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuí nível 1 porque a redação ""para cada ocorrência de '(' em w, existe uma ocorrência de ')'"" poderia, isoladamente, sugerir uma leitura mais fraca (mera existência de ao menos um ‘)’ se houver ao menos um ‘(’). No entanto, o exemplo fornecido (a cadeia y, com 2 '(' e apenas 1 ')', não pertencendo a L) resolve essa ambiguidade textual, deixando claro que se trata de uma relação de contagem (#')' ≥ #'('). Como o exemplo elimina a dúvida interpretativa, a ambiguidade é menor, não relevante.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuí nível 1. A alternativa B é o distrator mais forte, pois exige que o candidato compreenda que II não é apenas uma verdade genérica sobre autômatos finitos, mas efetivamente a razão formal da não-regularidade de L — um candidato que não conecta corretamente os dois conceitos pode escolher B por desconfiança de que a ligação causal não foi provada explicitamente. As alternativas C, D e E são mais facilmente descartáveis por quem domina os conceitos básicos de autômatos finitos e fechamento de linguagens regulares."
+27,ChatGPT,GPT-5.6 Luna,21/09/2026,B,98,3,0,2,Computação gráfica,Modelos de iluminação e técnicas de sombreamento,"JUSTIFICATIVA DA RESPOSTA:
+A alternativa B (I e III) é correta.
+
+O sombreamento constante (flat shading) calcula uma única intensidade/cor para cada face poligonal. Como cada face possui uma cor constante, as transições entre polígonos ficam visíveis, produzindo o aspecto facetado característico da figura à esquerda. Essas transições também podem produzir o efeito visual conhecido como Bandas de Mach.
+
+Já o sombreamento de Phong interpola as normais dos vértices ao longo da superfície e calcula a iluminação por pixel, produzindo uma aparência mais suave e adequada à representação de superfícies curvas.
+
+Assim:
+
+I é verdadeira.
+II é falsa, pois o modelo de Phong é justamente capaz de representar adequadamente componentes de reflexão especular.
+III é verdadeira, pois o sombreamento constante evidencia a estrutura poliedral/facetada.
+IV é falsa, pois o modelo de Phong não exige que a fonte luminosa esteja no infinito; é possível considerar fontes de luz posicionadas em locais específicos da cena.
+
+Logo, somente I e III estão corretas.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A afirmação I é verdadeira, mas a II é falsa. O modelo de Phong é utilizado para produzir efeitos de iluminação mais suaves e pode representar reflexões especulares.
+
+B:
+Correta. As afirmações I e III são verdadeiras, enquanto II e IV são falsas.
+
+C:
+Incorreta. As afirmações II e IV são falsas. Phong não é pouco eficiente na apresentação das reflexões especulares e não exige fonte de luz no infinito.
+
+D:
+Incorreta. Embora I e III sejam verdadeiras, IV é falsa. O modelo de Phong pode trabalhar com fontes de luz locais.
+
+E:
+Incorreta. II e IV são falsas. Portanto, não é possível considerar o conjunto II, III e IV como correto.","JUSTIFICATIVA DA AMBIGUIDADE:
+0 — Sem ambiguidade. As características dos dois modelos são suficientemente claras no enunciado e as afirmações podem ser avaliadas diretamente pelos conceitos de flat shading e Phong shading.","JUSTIFICATIVA DOS DISTRATORES:
+2 — Distratores fortes. As alternativas exploram principalmente as afirmações II e IV, que podem parecer plausíveis para quem confunde o modelo de Phong com outras simplificações de iluminação. A alternativa D, em particular, é um distrator forte porque contém exatamente as duas afirmações verdadeiras (I e III) acompanhadas de uma afirmação tecnicamente incorreta (IV)."
+27,Gemini,Gemini 3.6 Flash,21/09/2026,B,100,2,0,1,Computação Gráfica,Modelos de Iluminação e Sombreamento (Flat Shading e Modelo de Phong),"JUSTIFICATIVA DA RESPOSTA:
+A questão avalia os conceitos fundamentais associados aos modelos de iluminação e sombreamento em computação gráfica, comparando o sombreamento constante (flat shading) e o modelo de Phong.
+
+A afirmação I é verdadeira porque o sombreamento constante aplica uma intensidade de cor uniforme sobre cada polígono individual. As descontinuidades de intensidade entre polígonos vizinhos ativam a inibição lateral do sistema visual humano, gerando a ilusão de ótica conhecida como Bandas de Mach (Mach bands).
+
+A afirmação II é falsa porque a principal contribuição do modelo de Phong foi justamente a modelagem e representação eficiente das reflexões especulares (specular highlights), superando deficiências do sombreamento de Gouraud.
+
+A afirmação III é verdadeira porque ao atribuir uma única cor/intensidade a cada face, o sombreamento constante evidencia os contornos dos polígonos e a natureza facetada da aproximação poliedral, inviabilizando a representação realista de superfícies suaves/curvas.
+
+A afirmação IV é falsa porque o modelo de Phong funciona perfeitamente com fontes de luz pontuais locais situadas a distâncias finitas, onde o vetor de direção da luz varia para cada ponto/fragmento da superfície. A suposição de luz no infinito é uma simplificação opcional (luz direcional), não um requisito obrigatório.
+
+Portanto, apenas as afirmações I e III estão corretas.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A afirmação I está correta, mas a afirmação II é falsa, pois o modelo de Phong destaca-se exatamente pela eficiência na geração de reflexões especulares.
+
+B:
+Correta. Ambas as afirmações I e III estão corretas e descrevem com precisão os fenômenos ópticos e as limitações do sombreamento constante.
+
+C:
+Incorreta. Ambas as afirmações II e IV são falsas.
+
+D:
+Incorreta. A afirmação IV é falsa, pois o modelo de Phong não exige que a fonte de iluminação esteja no infinito.
+
+E:
+Incorreta. As afirmações II e IV são falsas, restando apenas a afirmação III como correta no conjunto indicado.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se o nível 0 porque o enunciado e as afirmações utilizam terminologia técnica padrão de computação gráfica de forma clara e inequívoca, permitindo determinar a alternativa B como a única correta.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se o nível 1 porque os distratores utilizam conceitos reais da área (como a aproximação de luz no infinito e reflexão especular), o que pode induzir ao erro candidatos que não dominam as premissas exatas do modelo de Phong ou a diferença entre sombreamento constante e interpolação de normais."
+27,Claude,Sonnet 5,21/09/2026,B,85,3,0,2,Computação Gráfica,Modelos de iluminação e sombreamento (Flat Shading vs. Phong Shading),"JUSTIFICATIVA DA RESPOSTA:
+O sombreamento constante (flat shading) atribui uma única cor a cada face poligonal, calculada a partir de um único vetor normal por face. Isso gera duas consequências diretas: (1) como a intensidade luminosa muda abruptamente entre faces adjacentes, o sistema visual humano acentua essas transições de contraste nas bordas, produzindo o fenômeno perceptivo conhecido como Bandas de Mach (afirmativa I correta); e (2) por representar a superfície curva original por meio de facetas planas visíveis, esse modelo não é adequado para simulação realística de superfícies suaves (afirmativa III correta). Já o modelo de Phong interpola normais através da superfície e calcula a iluminação (incluindo o termo especular) pixel a pixel, sendo justamente reconhecido por representar bem os brilhos especulares — o oposto do que afirma a assertiva II. Por fim, o modelo de Phong não pressupõe fonte de luz no infinito; a posição da fonte de luz é um parâmetro usado no cálculo do vetor de iluminação em cada ponto, sem essa restrição (afirmativa IV incorreta).","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Inclui II, que é falsa, pois o modelo de Phong é reconhecido justamente por representar bem as reflexões especulares, não por ser ineficiente nisso.
+
+B:
+Correta. I e III descrevem corretamente características e limitações do sombreamento constante (Bandas de Mach e aspecto facetado).
+
+C:
+Incorreta. Tanto II quanto IV são falsas, conforme explicado.
+
+D:
+Incorreta. Inclui IV, que é falsa, pois o modelo de Phong não exige que a fonte de luz esteja no infinito.
+
+E:
+Incorreta. Inclui II e IV, ambas falsas.","JUSTIFICATIVA DA AMBIGUIDADE:
+O enunciado e as afirmativas são claros e tecnicamente bem delimitados, permitindo avaliar cada assertiva de forma objetiva com base em conceitos consolidados de computação gráfica (flat shading vs. Phong shading), sem margem para interpretações alternativas razoáveis.","JUSTIFICATIVA DOS DISTRATORES:
+A afirmativa IV é um distrator forte, pois mistura um conceito real de computação gráfica (a simplificação de fonte de luz no infinito, usada em outros contextos de renderização, como certas aproximações de luz direcional) com o modelo de Phong, ao qual essa exigência não se aplica, exigindo do candidato conhecimento preciso sobre as premissas específicas desse modelo. A afirmativa II também é um distrator plausível para quem confunde Phong com o sombreamento de Gouraud (que de fato tem dificuldade em representar bem os brilhos especulares), invertendo a real vantagem do modelo de Phong."
+29,ChatGPT,GPT-5.6 Luna,21/09/2026,E,99,3,0,2,Gerenciamento de memória,Algoritmos de substituição de páginas — FIFO e LRU,"JUSTIFICATIVA DA RESPOSTA:
+A asserção I é falsa porque, com 4 páginas de memória e a sequência 1-2-3-4-1-2-5-1-2-3-4-5, FIFO e LRU apresentam quantidades diferentes de faltas de página.
+
+FIFO
+
+A memória começa vazia:
+
+Acesso	Memória após acesso	Resultado
+1	1	Falta
+2	1,2	Falta
+3	1,2,3	Falta
+4	1,2,3,4	Falta
+1	1,2,3,4	Acerto
+2	1,2,3,4	Acerto
+5	2,3,4,5	Falta
+1	3,4,5,1	Falta
+2	4,5,1,2	Falta
+3	5,1,2,3	Falta
+4	1,2,3,4	Falta
+5	2,3,4,5	Falta
+
+FIFO = 10 faltas de página.
+
+LRU
+
+Após carregar 1,2,3,4, os acessos 1 e 2 tornam essas páginas as mais recentemente utilizadas. Quando 5 chega, a página 3 é a menos recentemente utilizada e é removida.
+
+Continuando:
+
+5 → falta, remove 3.
+1 → acerto.
+2 → acerto.
+3 → falta, remove 4.
+4 → falta, remove 5.
+5 → falta, remove 3.
+
+Assim:
+
+LRU = 8 faltas de página.
+
+Portanto, FIFO e LRU não apresentam o mesmo desempenho, tornando a I falsa.
+
+A asserção II também é falsa. Os parâmetros fornecidos — tamanho da memória, sequência de referências e estado inicial da memória — são justamente suficientes para realizar a simulação e determinar o comportamento de ambos os algoritmos. A diferença pode ser observada: 10 faltas no FIFO contra 8 no LRU.
+
+Logo, I é falsa e II é falsa, correspondendo à alternativa E.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A asserção I é falsa, pois FIFO produz 10 faltas e LRU produz 8. Além disso, a II também é falsa.
+
+B:
+Incorreta. As duas asserções não são verdadeiras. A simulação permite determinar claramente o comportamento dos algoritmos.
+
+C:
+Incorreta. A asserção I não é verdadeira. Os algoritmos não apresentam o mesmo número de faltas de página.
+
+D:
+Incorreta. A asserção I é falsa, mas a II também é falsa. Os dados fornecidos são suficientes para realizar a simulação.
+
+E:
+Correta. A asserção I é falsa porque FIFO e LRU apresentam desempenhos diferentes, e a II é falsa porque os parâmetros fornecidos são suficientes para determinar essa diferença.","JUSTIFICATIVA DA AMBIGUIDADE:
+0 — Sem ambiguidade. O tamanho da memória, a sequência de acessos e o estado inicial estão explicitamente informados. Esses dados permitem simular deterministicamente os dois algoritmos.","JUSTIFICATIVA DOS DISTRATORES:
+2 — Há distratores fortes. As alternativas A, B, C e D exploram principalmente combinações diferentes dos valores de verdade das duas asserções. A principal dificuldade está em perceber que não basta conhecer conceitualmente FIFO e LRU: é necessário executar a sequência de acessos e contabilizar as faltas. A alternativa D, em particular, pode parecer plausível para quem percebe que I é falsa, mas interpreta equivocadamente que os parâmetros seriam insuficientes."
+29,Gemini,Gemini 3.6 Flash,21/09/2026,E,100,3,0,1,Sistemas Operacionais,Gerenciamento de Memória / Algoritmos de Substituição de Páginas (FIFO e LRU),"JUSTIFICATIVA DA RESPOSTA:Para avaliar as asserções, é necessário executar a simulação dos algoritmos FIFO (First In, First Out) e LRU (Least Recently Used) para uma memória com $4$ molduras (frames), inicialmente vazia, utilizando a sequência de acessos $1-2-3-4-1-2-5-1-2-3-4-5$.Simulação FIFO (substitui a página inserida há mais tempo):Acessos $1, 2, 3, 4$: Faltas de página. Memória: $[1, 2, 3, 4]$. Ordem de inserção: $1, 2, 3, 4$. (4 faltas)Acessos $1, 2$: Acertos (hits). Memória e ordem de inserção permanecem inalteradas.Acesso $5$: Falta. Substitui $1$. Memória: $[5, 2, 3, 4]$. Ordem de inserção: $2, 3, 4, 5$. (5ª falta)Acesso $1$: Falta. Substitui $2$. Memória: $[5, 1, 3, 4]$. Ordem de inserção: $3, 4, 5, 1$. (6ª falta)Acesso $2$: Falta. Substitui $3$. Memória: $[5, 1, 2, 4]$. Ordem de inserção: $4, 5, 1, 2$. (7ª falta)Acesso $3$: Falta. Substitui $4$. Memória: $[5, 1, 2, 3]$. Ordem de inserção: $5, 1, 2, 3$. (8ª falta)Acesso $4$: Falta. Substitui $5$. Memória: $[4, 1, 2, 3]$. Ordem de inserção: $1, 2, 3, 4$. (9ª falta)Acesso $5$: Falta. Substitui $1$. Memória: $[4, 5, 2, 3]$. Ordem de inserção: $2, 3, 4, 5$. (10ª falta)Total de faltas no FIFO = 10.Simulação LRU (substitui a página menos recentemente usada):Acessos $1, 2, 3, 4$: Faltas de página. Memória: $[1, 2, 3, 4]$. Recência (menos ao mais recente): $1, 2, 3, 4$. (4 faltas)Acesso $1$: Acerto. Recência: $2, 3, 4, 1$.Acesso $2$: Acerto. Recência: $3, 4, 1, 2$.Acesso $5$: Falta. Substitui $3$ (LRU). Memória: $[1, 2, 4, 5]$. Recência: $4, 1, 2, 5$. (5ª falta)Acesso $1$: Acerto. Recência: $4, 2, 5, 1$.Acesso $2$: Acerto. Recência: $4, 5, 1, 2$.Acesso $3$: Falta. Substitui $4$ (LRU). Memória: $[1, 2, 5, 3]$. Recência: $5, 1, 2, 3$. (6ª falta)Acesso $4$: Falta. Substitui $5$ (LRU). Memória: $[1, 2, 3, 4]$. Recência: $1, 2, 3, 4$. (7ª falta)Acesso $5$: Falta. Substitui $1$ (LRU). Memória: $[2, 3, 4, 5]$. Recência: $2, 3, 4, 5$. (8ª falta)Total de faltas no LRU = 8.Análise das asserções:Asserção I: É falsa, pois o desempenho não é o mesmo (o FIFO gera 10 faltas de página, enquanto o LRU gera 8).Asserção II: É falsa, pois os parâmetros fornecidos na simulação foram totalmente suficientes para evidenciar tanto a diferença do mecanismo de funcionamento quanto a diferença de desempenho entre os dois algoritmos.Portanto, ambas as asserções são falsas, o que torna a alternativa E a resposta correta.","ANÁLISE DAS ALTERNATIVAS:
+
+A: Incorreta. A asserção I é falsa (o desempenho é diferente: 10 faltas no FIFO contra 8 no LRU) e a asserção II também é falsa (os parâmetros foram suficientes para diferenciar os algoritmos).
+
+B: Incorreta. Ambas as asserções são falsas, não havendo proposições verdadeiras na questão.
+
+C: Incorreta. A asserção I é falsa, pois a simulação resulta em quantidade de faltas de página distintas para cada algoritmo (10 para FIFO e 8 para LRU).
+
+D: Incorreta. Embora a asserção I seja de fato falsa, a asserção II também é falsa, uma vez que a simulação proposta atinge o objetivo de explicitar a diferença prática de funcionamento entre os algoritmos.
+
+E: Correta. Ambas as asserções I e II são proposições falsas.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se o nível 0 (sem ambiguidade), pois o enunciado expõe claramente todos os dados necessários (tamanho de memória, estado inicial e sequência de referências) e os algoritmos possuem comportamento estritamente determinístico, permitindo a verificação direta e inequívoca da falsidade de ambas as asserções.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se o nível 1 (distratores moderados). A alternativa D funciona como distrator principal caso o examinando conclua corretamente que o FIFO e o LRU geram desempenhos distintos (falsidade da asserção I), mas interprete erroneamente a asserção II acreditando que uma sequência curta de acessos seria conceitualmente ""insuficiente"" de forma geral, desconsiderando que ela foi empiricamente suficiente na simulação apresentada."
+29,Claude,Sonnet 5,21/09/2026,E,92,3,0,1,Sistemas Operacionais,Algoritmos de substituição de páginas (FIFO x LRU),"JUSTIFICATIVA DA RESPOSTA:
+Simulando a sequência de acessos 1-2-3-4-1-2-5-1-2-3-4-5 com 4 molduras de página e memória inicialmente vazia:
+
+FIFO (não reordena em acerto, remove sempre o mais antigo que entrou):
+1(F) 2(F) 3(F) 4(F) 1(H) 2(H) 5(F,remove1) 1(F,remove2) 2(F,remove3) 3(F,remove4) 4(F,remove5) 5(F,remove1)
+Total: 10 faltas de página, 2 acertos.
+
+LRU (reordena a cada acerto, remove o menos recentemente usado):
+1(F) 2(F) 3(F) 4(F) 1(H) 2(H) 5(F,remove3) 1(H) 2(H) 3(F,remove4) 4(F,remove5) 5(F,remove1)
+Total: 8 faltas de página, 4 acertos.
+
+Logo, os desempenhos de FIFO e LRU são diferentes nessa simulação (LRU teve menos faltas de página que FIFO), tornando a asserção I falsa. Além disso, os parâmetros fornecidos (tamanho de memória, sequência de acessos e estado inicial) foram plenamente suficientes para diferenciar o comportamento dos dois algoritmos, como demonstrado pela simulação — portanto a asserção II também é falsa.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Nenhuma das asserções é verdadeira: a simulação mostra desempenhos distintos (10 x 8 faltas) e os parâmetros foram suficientes para evidenciar essa diferença.
+
+B:
+Incorreta. Ambas as asserções são falsas, não apenas a relação de causalidade entre elas está ausente.
+
+C:
+Incorreta. A asserção I é falsa (os algoritmos não apresentam o mesmo desempenho), portanto essa alternativa está equivocada quanto à I.
+
+D:
+Incorreta. A asserção II é falsa, pois os parâmetros da simulação foram suficientes para revelar diferença de desempenho entre os algoritmos.
+
+E:
+Correta. Tanto a asserção I quanto a II são falsas, conforme demonstrado pela simulação passo a passo dos dois algoritmos.","JUSTIFICATIVA DA AMBIGUIDADE:
+O enunciado fornece todos os dados necessários (tamanho da memória, sequência de acessos, estado inicial da memória) para realizar a simulação de forma determinística e inequívoca em ambos os algoritmos, permitindo identificar claramente uma alternativa correta.","JUSTIFICATIVA DOS DISTRATORES:
+A alternativa D representa o principal distrator, pois pode induzir o candidato que não simula corretamente a acreditar que os parâmetros seriam insuficientes (talvez por confundir com casos de anomalia de Belady ou por não perceber que a simulação completa já basta para diferenciar os algoritmos). As alternativas A, B e C dependem de aceitar a asserção I como verdadeira, o que exige simulação cuidadosa e comparação letra a letra dos acessos para ser refutado, exigindo atenção do candidato."
+31,ChatGPT,GPT-5.6 Luna,21/09/2026,E,95,3,1,2,Programação concorrente,Condições de corrida e sincronização entre threads,"JUSTIFICATIVA DA RESPOSTA:
+A alternativa E é a mais adequada considerando o modelo usual de execução concorrente assumido pela questão.
+
+As duas threads modificam uma variável própria e, depois, verificam a variável modificada pela outra:
+
+funcao1: primeiro faz x = 1 e depois verifica y.
+funcao2: primeiro faz y = 1 e depois verifica x.
+
+Há três possibilidades principais de interleaving:
+
+A thread 1 verifica y antes de a thread 2 executar y = 1:
+x = 1
+thread 1 verifica y == 0
+imprime 1
+depois thread 2 pode executar y = 1
+→ imprime apenas 1.
+A thread 2 verifica x antes de a thread 1 executar x = 1:
+y = 1
+thread 2 verifica x == 0
+imprime 2
+depois thread 1 pode executar x = 1
+→ imprime apenas 2.
+As duas atribuições são realizadas antes das respectivas verificações:
+x = 1
+y = 1
+thread 1 verifica y == 0 → falso
+thread 2 verifica x == 0 → falso
+→ nenhum valor é impresso.
+
+Sob esse modelo, não é possível que ambos sejam impressos. Para que 1 seja impresso, a thread 1 precisa observar y == 0; para que 2 seja impresso, a thread 2 precisa observar x == 0. Isso exigiria uma ordenação incompatível das duas atribuições e verificações.
+
+Portanto, pode ser impresso 1, 2 ou nenhum, mas não ambos.
+
+Observação técnica: em C com threads POSIX, o código possui acessos concorrentes às variáveis compartilhadas sem sincronização adequada, o que caracteriza uma condição de corrida e pode tornar o comportamento formalmente indefinido sob o modelo de memória da linguagem. A questão, porém, claramente trabalha com o modelo didático de interleaving das threads, no qual a alternativa E é a esperada.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Não é obrigatório que ambos sejam impressos. Por exemplo, se x = 1 e y = 1 ocorrerem antes das verificações, nenhuma condição será verdadeira.
+
+B:
+Incorreta. O valor 1 não é necessariamente impresso. A thread 2 pode executar y = 1 e, posteriormente, a thread 1 pode verificar y, encontrando y == 1.
+
+C:
+Incorreta. Pelo mesmo motivo, 2 também não é necessariamente impresso. A thread 1 pode estabelecer x = 1 antes de a thread 2 realizar sua verificação.
+
+D:
+Incorreta. Embora seja possível imprimir somente 1 ou somente 2, também é possível não imprimir nenhum valor. Portanto, a alternativa não contempla todas as possibilidades.
+
+E:
+Correta. As execuções podem resultar em somente 1, somente 2 ou nenhum valor, mas não em ambos, considerando o modelo de interleaving pressuposto pelo exercício.","JUSTIFICATIVA DA AMBIGUIDADE:
+Foi atribuído 1 (ambiguidade menor) porque, formalmente, o programa apresenta uma condição de corrida sobre x e y, e o padrão da linguagem C não permite simplesmente assumir um comportamento determinado para acessos concorrentes não sincronizados. Entretanto, no contexto didático de threads e interleavings, a intenção do enunciado é suficientemente clara e conduz à alternativa E.","JUSTIFICATIVA DOS DISTRATORES:
+Foi atribuído 2 (distratores fortes). As alternativas B, C e D são plausíveis porque representam subconjuntos ou interpretações parciais das possibilidades de execução. Em particular, D é um distrator forte: é correto que 1 ou 2 podem aparecer isoladamente, mas ela ignora a possibilidade de nenhum valor ser impresso. A alternativa A também explora a ideia equivocada de que ambas as threads necessariamente conseguirão imprimir seus valores."
+31,Gemini,Gemini 3.6 Flash,21/09/2026,E,100,3,0,1,Programação Concorrente,Sincronização de Threads e Condições de Corrida (POSIX Threads),"JUSTIFICATIVA DA RESPOSTA:
+A questão analisa o comportamento de duas threads (t1 e t2) executadas concorrentemente sobre as variáveis globais compartilhadas x e y, inicializadas com 0.
+
+Analisando os possíveis entrelaçamentos (interleavings) das instruções sob o modelo de consistência sequencial:
+
+Apenas ""1 "" é impresso: t1 executa x = 1 e realiza o teste if (y == 0). Como t2 ainda não executou y = 1, a condição é verdadeira e ""1 "" é impresso. Posteriormente, t2 executa y = 1 e testa if (x == 0). Como x já vale 1, o teste falha e nada mais é impresso.
+
+Apenas ""2 "" é impresso: t2 executa y = 1 e realiza o teste if (x == 0). Como t1 ainda não executou x = 1, a condição é verdadeira e ""2 "" é impresso. Posteriormente, t1 executa x = 1 e testa if (y == 0). Como y já vale 1, o teste falha e nada mais é impresso.
+
+Nenhum valor é impresso: t1 executa x = 1 e t2 executa y = 1 antes de qualquer uma das threads realizar o teste condicional. Quando as verificações ocorrem, t1 lê y == 1 (falso) e t2 lê x == 1 (falso). Logo, nenhuma mensagem é impressa.
+
+Impossibilidade de imprimir ambos: Para t1 imprimir ""1"", o teste y == 0 precisa ser avaliado como verdadeiro, o que significa que a leitura de y ocorreu antes da atribuição y = 1 em t2. Como a atribuição x = 1 precede a leitura de y dentro de t1, a atribuição x = 1 obrigatoriamente ocorre antes que t2 leia x. Assim, é impossível que t2 encontre x == 0 e imprima ""2"".
+
+Portanto, os possíveis resultados são a impressão de ""1"", de ""2"" ou de nenhum valor, mas nunca de ambos.","ANÁLISE DAS ALTERNATIVAS:
+
+A: Incorreta. É impossível que ambos os valores sejam impressos, pois a impressão de ""1"" exige que a atribuição x = 1 tenha ocorrido antes que t2 realize a leitura de x, fazendo com que a condição x == 0 falhe em t2.
+
+B: Incorreta. O valor ""1"" não será necessariamente impresso, pois se a thread t2 executar a instrução y = 1 antes que a thread t1 verifique if (y == 0), a condição falhará e ""1"" não será exibido.
+
+C: Incorreta. O valor ""2"" não será necessariamente impresso, pois se a thread t1 executar a instrução x = 1 antes que a thread t2 verifique if (x == 0), a condição falhará e ""2"" não será exibido.
+
+D: Incorreta. Embora afirme corretamente que ambos não podem ser impressos simultaneamente, a alternativa omite o cenário plenamente possível em que nenhum valor é impresso (quando ambas as variáveis são alteradas para 1 antes das checagens).
+
+E: Correta. Contempla com precisão todos os cenários possíveis de saída (""1"", ""2"" ou nenhum valor) e restringe corretamente a impossibilidade da ocorrência simultânea (""nunca ambos"").","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se nível 0 pois o enunciado e o código apresentam claramente todos os elementos necessários para a análise lógica de concorrência, não existindo dubiedade na interpretação do fluxo de execução.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se nível 1 porque a alternativa D atua como um distrator moderado. Ela atrai candidatos que identificam corretamente que ""1"" e ""2"" não podem ser impressos simultaneamente, mas esquecem de considerar o entrelaçamento no qual ambas as escritas ocorrem antes de ambas as leituras, resultando em nenhuma impressão."
+31,Claude,Sonnet 5,21/09/2026,E,90,4,0,2,Sistemas Operacionais / Programação Concorrente,Condições de corrida (race conditions) e sincronização de threads,"JUSTIFICATIVA DA RESPOSTA:
+O programa não utiliza nenhum mecanismo de sincronização (mutex, semáforo, variável atômica, barreira) entre a escrita das variáveis compartilhadas x e y e a leitura que cada thread faz da variável escrita pela outra. Isso caracteriza uma condição de corrida clássica (semelhante ao problema que motiva o algoritmo de Peterson). Cada thread executa, em ordem de programa, primeiro a escrita de sua própria variável (x=1 em funcao1, y=1 em funcao2) e só depois testa a variável da outra thread. Como não há garantia de ordenação relativa entre as duas threads (o escalonador pode intercalar as instruções de qualquer forma, inclusive executando totalmente uma thread antes de a outra iniciar, ou intercalando-as passo a passo), diversas intercalações são possíveis:
+
+T1 executa x=1 e testa y (ainda 0, pois T2 não escreveu) antes de T2 rodar → imprime somente ""1"".
+Situação simétrica → imprime somente ""2"".
+Ambas as escritas (x=1 e y=1) ocorrem antes de ambos os testes → nenhuma thread imprime nada, pois cada uma verá a variável da outra já como 1.
+É logicamente impossível que ambas imprimam simultaneamente: para que T1 imprima é necessário que seu teste de y ocorra antes da escrita y=1 por T2; para que T2 imprima é necessário que seu teste de x ocorra antes da escrita x=1 por T1. Mas a ordem de programa interna de cada thread exige que a própria escrita (x=1 em T1, y=1 em T2) ocorra antes do respectivo teste da variável alheia. Combinando essas exigências, chega-se a uma contradição cíclica (T2 testa x antes de T1 escrever x, que por sua vez deve ocorrer antes de T1 testar y, que deve ocorrer antes de T2 escrever y, que deve ocorrer antes de T2 testar x — fechando um ciclo impossível em uma ordem de execução sequencial). Logo, ""1"" e ""2"" nunca são impressos simultaneamente.
+Portanto, os resultados possíveis ao final da execução são: apenas ""1"", apenas ""2"", ou nenhum dos dois — nunca ambos — o que corresponde exatamente à alternativa E.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Como demonstrado, é logicamente impossível que ambos os valores sejam impressos simultaneamente, devido à ordem de programa interna de cada thread (escrita da própria variável sempre precede o teste da variável alheia).
+
+B:
+Incorreta. Não há garantia de que ""1"" seja necessariamente impresso; dependendo do escalonamento, pode-se imprimir apenas ""2"" ou nenhum valor.
+
+C:
+Incorreta, pelo mesmo motivo da alternativa B, mas simetricamente para o valor ""2"".
+
+D:
+Incorreta, pois, embora esteja certo que nunca ambos os valores são impressos, esta alternativa ignora a possibilidade de que nenhum valor seja impresso (quando ambas as escritas ocorrem antes de ambos os testes).
+
+E:
+Correta. Contempla corretamente todas as possibilidades reais de execução (apenas ""1"", apenas ""2"", ou nenhum), reconhecendo a condição de corrida e a impossibilidade de impressão simultânea de ambos os valores.","JUSTIFICATIVA DA AMBIGUIDADE:
+O enunciado é claro quanto ao código e ao comportamento das threads, sem sincronização explícita entre as duas funções. Embora o trecho ""// várias instruções"" seja uma abstração, seu propósito didático (permitir intercalações arbitrárias) é uma convenção padrão em questões desse tipo, não gerando ambiguidade real quanto à análise pedida.","JUSTIFICATIVA DOS DISTRATORES:
+As alternativas B, C e D são distratores fortes: B e C exploram a tentação de assumir uma ordem fixa de execução (como se pthread_create garantisse execução imediata e sequencial), enquanto D captura corretamente metade do raciocínio (impossibilidade de ambos) mas erra ao excluir a possibilidade de nenhum valor ser impresso, exigindo do candidato uma análise cuidadosa e completa de todas as intercalações possíveis para descartá-la."
+32,ChatGPT,GPT-5.6 Luna,21/09/2026,B,99,2,0,1,Inteligência Artificial e Agentes Inteligentes,"Agentes, percepções, sequências percebidas e funções de agente","JUSTIFICATIVA DA RESPOSTA:
+A alternativa B está correta porque, em Inteligência Artificial, o comportamento de um agente pode ser descrito por uma função de agente, que associa uma sequência de percepções recebidas pelo agente a uma ação. Formalmente, a função pode ser representada como:
+
+f: sequência de percepções → ação
+
+No Mundo do Aspirador de Pó, por exemplo, o agente recebe informações por meio de seus sensores, como sua localização e a existência de sujeira, e, com base no histórico dessas percepções, seleciona uma ação, como limpar, mover-se ou não fazer nada.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Se existem dois ambientes, a localização do agente possui 2 possibilidades. Além disso, cada um dos dois ambientes pode estar limpo ou sujo, resultando em 2² = 4 configurações de sujeira. Portanto, considerando localização e configuração de sujeira, há 2 × 4 = 8 estados, e não 4. A alternativa considera apenas as configurações de sujeira e ignora a localização do agente.
+
+B:
+Correta. A função de agente mapeia uma determinada sequência de percepções para uma ação. Essa é justamente a definição utilizada para representar o comportamento de um agente.
+
+C:
+Incorreta. A sequência percebida corresponde ao histórico das percepções recebidas pelo agente, e não ao histórico dos resultados das ações tomadas. Percepções são informações obtidas pelos sensores.
+
+D:
+Incorreta. A percepção de um agente corresponde à informação que ele recebe dos sensores em determinado momento. Ela não representa os resultados das ações executadas.
+
+E:
+Incorreta. “Fazer nada” é uma ação que o agente pode executar, não uma percepção. Uma percepção seria, por exemplo, identificar que o ambiente atual está sujo ou limpo.","JUSTIFICATIVA DA AMBIGUIDADE:
+0 = Sem ambiguidade. As definições apresentadas permitem distinguir claramente percepção, sequência de percepções e ação. Além disso, a contagem de estados da alternativa A pode ser determinada diretamente a partir das duas possibilidades de localização e das quatro configurações possíveis de sujeira.","JUSTIFICATIVA DOS DISTRATORES:
+1 = Distratores moderados. A alternativa A é um distrator plausível porque utiliza corretamente o cálculo 2² = 4 para as configurações de sujeira, mas deixa de considerar a localização do agente. As alternativas C, D e E confundem conceitos fundamentais entre percepção, ação e sequência de percepções, sendo descartáveis por quem domina essas definições."
+32,Gemini,Gemini 3.6 Flash,21/09/2026,B,100,2,0,1,Inteligência Artificial,Agentes Inteligentes e Estrutura de Agentes,"JUSTIFICATIVA DA RESPOSTA:
+Na formulação clássica de Inteligência Artificial (Russell & Norvig), o comportamento de um agente é formalmente descrito por uma função do agente (agent function), a qual mapeia qualquer sequência dada de percepções ($P^*$) para uma ação ($A$), conforme a relação $f: P^* \to A$. Dessa forma, a alternativa B expressa com exatidão a definição conceitual do comportamento de um agente inteligente.","ANÁLISE DAS ALTERNATIVAS:A:Incorreta. Para um ambiente composto por 2 salas (A e B), onde cada sala pode assumir 2 estados de sujeira (limpo ou sujo) e o agente pode ocupar qualquer uma das 2 salas, o número total de estados possíveis é de $2 \text{ (localizações do agente)} \times 2^2 \text{ (combinações de sujeira)} = 8$ estados, e não 4.B:Correta. O comportamento de um agente é abstraído e formalizado por meio da função de agente, que estabelece o mapeamento entre o histórico de sequências percebidas e a escolha da ação a ser realizada.C:Incorreta. A sequência percebida (percept sequence) corresponde ao histórico de todas as percepções (entradas sensoriais) captadas pelo agente ao longo do tempo, e não ao histórico dos resultados das ações efetuadas.D:Incorreta. A percepção do agente refere-se estritamente aos dados fornecidos pelos sensores em um dado instante de tempo, não devendo ser confundida com as consequências ou resultados das ações executadas no ambiente.E:Incorreta. A opção ""fazer nada"" (NoOp) é um tipo de ação que o agente pode escolher executar, e não uma percepção capturada por seus sensores.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuído nível 0. O enunciado fornece claramente os elementos teóricos do problema do Mundo do Aspirador de Pó e as opções utilizam terminologia padronizada da literatura de Inteligência Artificial, existindo apenas uma alternativa teoricamente correta.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuído nível 1. Os distratores utilizam inversões conceituais plausíveis para quem não domina os fundamentos da área, como confundir percepção com ação (alternativa E), confundir sequência percebida com o histórico de resultados de ações (alternativas C e D) ou cometer um erro clássico de cálculo do espaço de estados (alternativa A)."
+32,Claude,Sonnet 5,21/09/2026,B,95,2,0,1,Inteligência Artificial,"Agentes Inteligentes (Fundamentos: agente, percepção, sequência percebida, função de agente)","JUSTIFICATIVA DA RESPOSTA:
+Na formulação clássica de Russell e Norvig, um agente é definido matematicamente por sua função de agente (agent function), que mapeia qualquer sequência percebida (percept sequence) — o histórico completo de tudo o que o agente já percebeu — para uma ação. Essa função pode ser implementada por um ou mais programas de agente (agent program), mas a descrição abstrata do comportamento do agente é exatamente esse mapeamento de sequências de percepções para ações. A alternativa B expressa corretamente esse conceito central.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. Para o cenário com 2 ambientes (A e B), o estado do mundo é definido pela localização do agente (2 possibilidades: A ou B) combinada com o status de sujeira de cada ambiente (2 possibilidades para cada um dos 2 ambientes, ou seja, 2² = 4 combinações de sujeira). O número total de estados é, portanto, 2 × 2² = 8, e não 2² = 4 como afirmado. A alternativa ignora a variável ""localização do agente"" ao calcular o total.
+
+B:
+Correta. Corresponde à definição formal de comportamento do agente como função de agente: um mapeamento de sequências percebidas para ações, podendo ser implementado por uma ou mais funções/programas.
+
+C:
+Incorreta. A sequência percebida (percept sequence) refere-se ao histórico de tudo o que o agente percebeu (percepções sensoriais), e não ao histórico das ações que ele tomou. A alternativa inverte percepção por ação.
+
+D:
+Incorreta. A percepção (percept) refere-se à entrada sensorial do agente a cada instante — o que ele capta do ambiente através de seus sensores —, e não ao resultado das ações que ele executa. Novamente há inversão entre percepção (entrada) e efeito das ações (saída/consequência).
+
+E:
+Incorreta. ""Fazer nada"" (no-op) é uma das ações possíveis que o agente pode executar (parte do seu repertório de atuadores/efetuadores), não uma percepção. Percepções vêm dos sensores (localização e sujeira), não do conjunto de ações disponíveis.","JUSTIFICATIVA DA AMBIGUIDADE:
+O enunciado e as alternativas são claros e utilizam terminologia padrão da literatura de IA (Russell & Norvig), citada explicitamente como referência. Não há duplo sentido relevante nem informação faltante que impeça identificar uma alternativa claramente superior.","JUSTIFICATIVA DOS DISTRATORES:
+A alternativa A é o distrator mais forte, pois emprega corretamente o raciocínio combinatório sobre estados (2² relacionado à sujeira), mas comete um erro sutil ao esquecer de multiplicar pelo número de posições possíveis do agente, o que exige do candidato atenção cuidadosa ao cálculo completo de estados. As alternativas C e D também podem gerar hesitação por invertarem os conceitos de percepção e ação de forma simétrica e verossímil. Ainda assim, para quem domina as definições básicas de agente, percepção e sequência percebida, a alternativa correta permanece claramente identificável."
+33,ChatGPT,GPT-5.6 Luna,21/09/2026,D,98,3,1,1,Teoria da Complexidade,Equações de recorrência e análise de funções recursivas,"JUSTIFICATIVA DA RESPOSTA:
+A função F(n) realiza um laço com n iterações e, ao final, faz uma única chamada recursiva para F(n/2).
+
+Considerando o custo da própria F, a recorrência é da forma:
+
+$$ T(n)=T(n/2)+\Theta(n) $$
+
+Essa recorrência não é a do mergesort, que possui a forma:
+
+$$ T(n)=2T(n/2)+\Theta(n) $$
+
+Portanto, a afirmação I é falsa.
+
+Para as chamadas recursivas, os valores de n são aproximadamente:
+
+$$ n,\frac n2,\frac n4,\frac n8,\ldots $$
+
+até chegar a zero. Assim, o número de níveis recursivos é:
+
+$$ \Theta(\log n) $$
+
+Logo, II é verdadeira.
+
+A função G é chamada n vezes na primeira execução de F, n/2 na segunda, n/4 na terceira e assim por diante. Portanto:
+
+$$ n+\frac n2+\frac n4+\frac n8+\cdots $$
+
+Essa é uma progressão geométrica cuja soma é:
+
+$$ \Theta(n) $$
+
+Como \(\Theta(n)\) também pertence a \(O(n\log n)\), a afirmação III é verdadeira.
+
+Assim, somente II e III estão corretas.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A afirmação I é falsa, pois a recorrência de F possui apenas uma chamada recursiva, enquanto o mergesort possui duas chamadas recursivas.
+
+B:
+Incorreta. A afirmação II é verdadeira, mas III também é verdadeira. Portanto, não é correto afirmar que somente II está correta.
+
+C:
+Incorreta. A afirmação I é falsa. Embora III seja verdadeira, a combinação I e III não é válida.
+
+D:
+Correta. As afirmações II e III são verdadeiras, enquanto I é falsa.
+
+E:
+Incorreta. I é falsa, portanto as três afirmações não podem ser verdadeiras simultaneamente.","JUSTIFICATIVA DA AMBIGUIDADE:
+Nível 1. O ponto que pode gerar alguma dúvida é a função G, cuja complexidade não foi informada. Entretanto, a afirmação III pergunta especificamente sobre o número de chamadas de G, e esse número pode ser determinado independentemente do custo de cada execução de G. Assim, a questão continua solucionável.","JUSTIFICATIVA DOS DISTRATORES:
+Nível 1. O principal distrator é a afirmação I: ela pode parecer correta porque tanto o mergesort quanto F envolvem divisão por 2 e um trabalho linear, mas o mergesort possui duas chamadas recursivas, enquanto F possui apenas uma. A alternativa E também pode parecer plausível para quem identifica corretamente II e III, mas não percebe essa diferença fundamental."
+33,Gemini,Gemini 3.6 Flash,21/09/2026,D,95,3,1,2,Análise de Algoritmos e Complexidade,"Recursão, Equações de Recorrência e Notação Assintótica ($O$ e $\Theta$)","JUSTIFICATIVA DA RESPOSTA:A análise individual de cada afirmação revela o seguinte:Afirmação I (Incorreta): A função $F(n)$ realiza o laço de repetição $n$ vezes e faz apenas uma chamada recursiva para $F(n/2)$. Logo, sua equação de recorrência é $T(n) = T(n/2) + \Theta(n)$. Por outro lado, o algoritmo MergeSort divide o vetor em duas metades e realiza duas chamadas recursivas, possuindo a equação de recorrência $T(n) = 2T(n/2) + \Theta(n)$. Como o número de chamadas recursivas difere ($1$ contra $2$), as equações não são as mesmas.Afirmação II (Correta): A cada passo da recursão, o valor de $n$ é dividido por $2$ até atingir a condição de parada ($n \le 0$). A profundidade da árvore de recursão é $\lfloor \log_2 n \rfloor + 1$, o que garante que o número total de chamadas recursivas seja $\Theta(\log n)$.Afirmação III (Correta): A função $G$ é chamada $n$ vezes no primeiro nível, $n/2$ vezes no segundo nível, $n/4$ vezes no terceiro nível, e assim sucessivamente. O total de chamadas a $G$ é dado pela série geométrica $n + n/2 + n/4 + \dots + 1 = 2n - 1$, cuja complexidade assintótica exata é $\Theta(n)$. Pela definição formal da notação $O$ (limite superior assintótico), se $f(n) \in \Theta(n)$, então $f(n) \in O(n)$, o que implica diretamente que $f(n) \in O(n \log n)$, pois $O(n) \subset O(n \log n)$. Adicionalmente, limitar superiormente o trabalho de cada um dos $\Theta(\log n)$ níveis por $n$ resulta diretamente em um limite superior válido de $O(n \log n)$.Portanto, estão corretas apenas as afirmações II e III, justificando a alternativa D.","ANÁLISE DAS ALTERNATIVAS:A:Incorreta. A afirmação I é falsa, pois a equação de recorrência de $F$ é $T(n) = T(n/2) + n$, enquanto a do MergeSort é $T(n) = 2T(n/2) + n$.B:Incorreta. A afirmação III também é verdadeira sob a definição matemática formal da notação $O$ (limite superior), portanto a afirmação II não é a única correta.C:Incorreta. A afirmação I é falsa devido à diferença na quantidade de chamadas recursivas em relação ao MergeSort.D:Correta. As afirmações II e III são verdadeiras, e a afirmação I é falsa.E:Incorreta. A afirmação I é falsa, o que invalida a opção de todas estarem corretas.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se nível 1 (ambiguidade menor) pois a afirmação III utiliza a notação $O(n \log n)$ para um número total de chamadas cujo limite assintótico justo (tight bound) é $\Theta(n)$. Embora $O(n \log n)$ seja formal e matematicamente correto como limite superior, a ausência de indicação explícita sobre a busca por um limite justo pode levar candidatos a interpretar $O(n \log n)$ como incorreto por não ser a ordem de crescimento estrita.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se nível 2 (distratores fortes). O principal distrator é a alternativa B (""II, apenas""). Candidatos que calculam corretamente o somatório das chamadas a G como 2n−1=Θ(n) frequentemente descartam a afirmação III por confundirem a notação O (limite superior) com a notação Θ (limite assintótico justo), concluindo erroneamente que O(nlogn) estaria incorreto."
+33,Claude,Sonnet 5,21/09/2026,D,88,4,1,2,Teoria da Complexidade de Algoritmos,Recorrências e notação assintótica (Master Theorem),"JUSTIFICATIVA DA RESPOSTA:
+A função F faz uma única chamada recursiva sobre n/2 (linha 6), precedida por um laço de custo linear O(n) que invoca G (linhas 3-4). A recorrência que descreve F é T(n) = T(n/2) + O(n), com apenas UMA chamada recursiva. Isso é estruturalmente diferente da recorrência do mergesort, que é T(n) = 2T(n/2) + O(n), com DUAS chamadas recursivas — a diferença no número de subchamadas é o que caracteriza a diferença entre complexidade linear e O(n log n), tornando a afirmação I falsa. A afirmação II é verdadeira: a cada chamada n é dividido por 2 até atingir 0, o que ocorre após Θ(log n) chamadas recursivas (é o número de vezes que se pode dividir n por 2 até chegar à condição de parada). A afirmação III também é verdadeira: o total de chamadas a G, somando o custo de cada nível da recursão, é n + n/2 + n/4 + ... ≈ 2n, ou seja, Θ(n); como O(n) está contido em O(n log n) (a notação O representa um limite superior, não necessariamente justo), a afirmação de que o número de chamadas é O(n log n) é tecnicamente correta, embora não seja a cota mais apertada possível. Logo, apenas II e III estão corretas, o que corresponde à alternativa D.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A afirmação I é falsa, pois a recorrência de F possui apenas uma chamada recursiva (T(n) = T(n/2) + O(n)), enquanto o mergesort possui duas (T(n) = 2T(n/2) + O(n)). São recorrências estruturalmente distintas, mesmo que ambas envolvam a divisão de n por 2.
+
+B:
+Incorreta. Embora II seja verdadeira isoladamente, esta alternativa desconsidera que III também é verdadeira, tornando a alternativa incompleta.
+
+C:
+Incorreta, pois inclui I, que é falsa, e omite II, que é verdadeira.
+
+D:
+Correta. II e III são verdadeiras: o número de chamadas recursivas de F é Θ(log n) e o número total de chamadas a G é O(n log n) (sendo, de forma mais precisa, Θ(n), que está contido em O(n log n)).
+
+E:
+Incorreta, pois inclui I, que é falsa. A inclusão de I é o principal risco de erro nesta alternativa, já que superficialmente ambas as recorrências ""dividem n por 2"", mas o número de chamadas recursivas por nível as diferencia completamente.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuo nível 1 porque a afirmação III emprega a notação O(n log n) para descrever uma quantidade cujo comportamento exato é Θ(n). Embora seja tecnicamente correto afirmar O(n log n) como cota superior válida (já que O(n) ⊆ O(n log n)), um estudante pode interpretar erroneamente que a questão exige a cota mais justa (tight bound), o que geraria dúvida sobre se III deveria ser considerada verdadeira ou ""imprecisa"". Ainda assim, aplicando rigorosamente a definição formal de O, há uma alternativa claramente mais adequada.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuo nível 2 porque a alternativa E é um distrator forte: a semelhança superficial entre ""dividir n por 2"" em F e no mergesort pode levar quem não observa cuidadosamente o número de chamadas recursivas por nível a considerar I verdadeira. Além disso, a alternativa C também exige essa mesma discriminação conceitual. A afirmação III, com sua notação O(n log n) aplicada a uma quantidade Θ(n), exige do candidato compreensão precisa da diferença entre limite superior (O) e limite justo (Θ), o que aumenta a plausibilidade de descartá-la incorretamente como falsa, reforçando a força dos distratores B e C."
+34,ChatGPT,GPT-5.6 Luna,21/09/2026,A,98,4,0,2,Normalização de bancos de dados,"Formas normais, dependências funcionais e 1FN, 2FN e 3FN","JUSTIFICATIVA DA RESPOSTA:
+A alternativa correta é A) I.
+
+A coluna Numero possui valor único e não repetido, portanto funciona como chave da tabela. Assim, existe a dependência funcional:
+
+Numero → todos os demais atributos
+
+Entretanto, a tabela apresenta valores não atômicos em FoneEleitor, pois um mesmo eleitor pode possuir vários telefones armazenados na mesma célula. Isso viola a Primeira Forma Normal (1FN), que exige valores atômicos nos atributos.
+
+Como a 2FN e a 3FN pressupõem que a relação esteja na 1FN, uma tabela que não atende à 1FN também não pode ser considerada em 2FN ou 3FN. Portanto, a afirmação I é verdadeira.
+
+As demais afirmações são falsas.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Correta. A afirmação I é verdadeira: a presença de múltiplos valores de telefone em uma mesma célula viola a 1FN. Consequentemente, a tabela também não atende à 2FN e à 3FN. Portanto, I é a única afirmação correta.
+
+B:
+Incorreta. A afirmação IV é falsa. Como Numero é uma chave única, seus valores determinam funcionalmente todos os atributos da linha, inclusive Sigla, NomePartido, NumCand e NomeCand. Portanto, é incorreto afirmar que esses atributos não dependem funcionalmente de Numero.
+
+C:
+Incorreta. Embora I seja verdadeira, III é falsa. Na tabela Voto, teríamos, entre outras, as dependências:
+
+Numero → Sigla, NomePartido, NumCand, NomeCand, Titulo
+
+e também:
+
+Sigla → NomePartido
+
+NumCand → NomeCand
+
+Logo, NomePartido e NomeCand apresentam dependências transitivas em relação à chave Numero, o que viola a 3FN. Além disso, a questão original apresenta o problema de atomicidade dos telefones.
+
+D:
+Incorreta. A afirmação II não é suficiente para garantir que as três tabelas estejam em 2FN. Criar as tabelas Partido e Candidato não resolve o problema da 1FN existente na tabela original, especialmente os múltiplos telefones em FoneEleitor. Portanto, II é falsa e, consequentemente, a combinação II e III também está incorreta.
+
+E:
+Incorreta. A afirmação II é falsa pelo motivo anterior, e IV também é falsa porque Numero determina funcionalmente todos os atributos da linha.","JUSTIFICATIVA DA AMBIGUIDADE:
+0 — Sem ambiguidade. O enunciado informa explicitamente que Numero possui valor único e não repetido, permitindo tratá-lo como chave. A tabela também mostra claramente múltiplos telefones associados a um mesmo eleitor, caracterizando valores não atômicos e violação da 1FN. As afirmações podem ser avaliadas diretamente a partir das regras de normalização.","JUSTIFICATIVA DOS DISTRATORES:
+2 — Distratores fortes. As alternativas D e E são particularmente plausíveis porque as decomposições propostas podem parecer, à primeira vista, suficientes para atingir formas normais. Porém, é necessário analisar as dependências funcionais e lembrar que a 2FN/3FN pressupõem a 1FN. A alternativa B também explora um erro conceitual importante: confundir a existência de dependências funcionais entre atributos com a ideia de que determinados atributos não dependem da chave."
+34,Gemini,Gemini 3.6 Flash,21/09/2026,A,100,2,0,1,Banco de Dados,"Normalização de Dados (1FN, 2FN e 3FN)","JUSTIFICATIVA DA RESPOSTA:
+A afirmativa I é a única correta. A tabela apresentada viola a Primeira Forma Normal (1FN) porque o atributo FoneEleitor contém múltiplos valores para uma mesma tupla (dados não atômicos/multivalorados). Como a satisfação da 1FN é uma pré-condição obrigatória para que uma tabela possa estar na Segunda Forma Normal (2FN) e na Terceira Forma Normal (3FN), a tabela automaticamente não atende nem à 2FN nem à 3FN. Portanto, apenas a afirmação I está correta, correspondendo à alternativa A.","ANÁLISE DAS ALTERNATIVAS:A:Correta. A afirmação I é verdadeira, pois a violação da 1FN pelo atributo multivalorado FoneEleitor impede encadeadamente que a tabela esteja na 2FN ou 3FN. Como todas as demais afirmações são falsas, esta alternativa é a única correta.B:Incorreta. A afirmação IV é falsa. O atributo Numero é um identificador único de cada registro de voto. Todos os atributos do registro (incluindo Sigla, NomePartido, NumCand e NomeCand) dependem funcionalmente de Numero, pois a cada número de registro corresponde exatamente um partido e um candidato votado.C:Incorreta. Embora a afirmação I seja verdadeira, a afirmação III é falsa. Ao criar a tabela Eleitor mantendo os atributos restantes, o campo FoneEleitor continua multivalorado (não atômico), violando a 1FN. Além disso, a tabela Voto manteria dependências transitivas (Sigla $\rightarrow$ NomePartido e NumCand $\rightarrow$ NomeCand), violando a 3FN.D:Incorreta. As afirmações II e III são falsas. Na afirmação II, a criação das tabelas Partido e Candidato não remove o atributo multivalorado FoneEleitor da tabela original, de modo que nem todas as três tabelas atenderiam à 2FN.E:Incorreta. As afirmações II e IV são falsas, conforme explicado nas análises das alternativas B e D.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se o nível 0 (Sem ambiguidade) porque o enunciado e a imagem fornecem com clareza a estrutura dos dados, exibindo a não atomicidade de FoneEleitor, permitindo a aplicação direta dos conceitos bem estabelecidos de formas normais e dependência funcional.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se o nível 1 (Distratores moderados) porque as afirmativas II, III e IV exploram a intuição de separação de entidades (como Partido e Candidato), o que pode levar o candidato desatento a considerar as proposições corretas sem verificar a permanência de atributos multivalorados em Eleitor ou a definição formal de dependência funcional a partir da chave Numero."
+34,Claude,Sonnet 5,21/09/2026,A,82,4,0,2,Banco de Dados,"Normalização (1FN, 2FN, 3FN)","JUSTIFICATIVA DA RESPOSTA:
+A tabela original contém o atributo FoneEleitor com múltiplos valores em uma mesma célula (grupo repetitivo), o que viola a exigência de atomicidade da 1FN. Como a 1FN é pré-requisito lógico para a 2FN e a 3FN (uma tabela só pode ser avaliada quanto à 2FN/3FN se antes satisfizer a 1FN), a afirmação I é verdadeira por definição, independentemente de outras características da tabela. As demais afirmações (II, III e IV) apresentam decomposições ou conclusões que não eliminam corretamente os problemas de normalização (o atributo multivalorado permanece nas tabelas resultantes em II e III, e a afirmação IV confunde dependência transitiva com ausência de dependência funcional), tornando-as incorretas.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Correta. A tabela original não está na 1FN devido ao atributo FoneEleitor, que armazena múltiplos telefones na mesma célula (viola a atomicidade). Como toda forma normal pressupõe o atendimento das anteriores, uma tabela fora da 1FN automaticamente não atende à 2FN nem à 3FN.
+
+B:
+Incorreta. A afirmação IV está equivocada (ver análise abaixo), então uma alternativa que dependa apenas dela não pode estar correta.
+
+C:
+Incorreta. Embora I seja verdadeira, III é falsa: mesmo decompondo a tabela em Voto e Eleitor, a tabela Eleitor ainda contém FoneEleitor como atributo multivalorado, o que a mantém fora da 1FN (e, portanto, fora da 3FN). Além disso, na tabela Voto, Sigla e NomePartido dependem transitivamente de Numero por meio de NumCand, o que também viola a 3FN.
+
+D:
+Incorreta. II é falsa porque, mesmo extraindo Partido e Candidato, a tabela remanescente (com Numero como chave) ainda mantém o atributo multivalorado FoneEleitor, o que a impede de estar na 1FN e, consequentemente, na 2FN. III também é falsa pelos motivos expostos na análise da alternativa C.
+
+E:
+Incorreta. II é falsa (ver análise acima) e IV também é falsa: os atributos Sigla, NomePartido, NumCand e NomeCand dependem funcionalmente de Numero (já que Numero é chave única da tabela), ainda que essa dependência seja transitiva (via NumCand/Sigla). A afirmação IV erra ao dizer que ""não dependem funcionalmente"", quando na verdade dependem, só que de forma transitiva — o que é justamente o problema que compromete a 3FN, e não a ausência de dependência.","JUSTIFICATIVA DA AMBIGUIDADE:
+O enunciado e a tabela fornecem informações suficientes e claras (inclusive evidenciando visualmente que FoneEleitor contém múltiplos valores por linha) para identificar uma única alternativa correta, sem necessidade de suposições adicionais.","JUSTIFICATIVA DOS DISTRATORES:
+A alternativa C é o distrator mais forte, pois a decomposição proposta em III (Voto e Eleitor) parece, à primeira vista, uma normalização razoável e intuitiva, exigindo que o candidato perceba dois problemas simultâneos: a permanência do atributo multivalorado FoneEleitor em Eleitor e a dependência transitiva em Voto. As alternativas D e E também exigem análise cuidadosa da afirmação II, que erroneamente sugere que extrair Partido e Candidato resolveria a 2FN, ignorando que o problema de 1FN (FoneEleitor) permanece na tabela remanescente. A afirmação IV é um distrator conceitualmente sutil, pois confunde ""dependência transitiva"" com ""ausência de dependência funcional"", um erro comum entre estudantes menos atentos à definição formal de dependência funcional."
+35,ChatGPT,GPT-5.6 Luna,21/09/2026,E,100,3,0,1,Programação concorrente,Deadlock e ordenação de aquisição de recursos,"JUSTIFICATIVA DA RESPOSTA:
+A alternativa E é correta porque as threads solicitam os recursos em ordens diferentes.
+
+T1 aloca E1 e, posteriormente, solicita E2.
+T2 aloca E2 e, posteriormente, solicita E1.
+
+É possível ocorrer a seguinte situação:
+
+T1 obtém o semáforo de E1.
+T2 obtém o semáforo de E2.
+T1 tenta obter E2, mas E2 está ocupado por T2, então T1 fica bloqueada.
+T2 tenta obter E1, mas E1 está ocupado por T1, então T2 fica bloqueada.
+
+Assim, cada thread mantém um recurso enquanto espera pelo recurso que está com a outra. Forma-se uma espera circular, uma das condições necessárias para deadlock.
+
+Uma forma clássica de evitar esse problema é estabelecer uma ordem global para aquisição dos recursos. Por exemplo, ambas as threads devem sempre solicitar E1 antes de E2. Dessa forma, não é possível que uma thread segure E1 esperando E2 enquanto outra segure E2 esperando E1.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A sequência de alocação não impede o deadlock. Pelo contrário, o fato de T1 solicitar E1 → E2 e T2 solicitar E2 → E1 possibilita a espera circular.
+
+B:
+Incorreta. O problema não é a existência de cálculos entre os pedidos de alocação. Mesmo que não haja cálculos entre as solicitações, ainda pode ocorrer a situação em que T1 mantém E1 e espera E2 enquanto T2 mantém E2 e espera E1.
+
+C:
+Incorreta. A possibilidade de deadlock não pode ser descartada com base em uma suposta baixa probabilidade ou em consequências supostamente inócuas. Se as condições para o deadlock podem ser satisfeitas, o programa pode ficar bloqueado.
+
+D:
+Incorreta. O uso de semáforos não é suficiente para evitar deadlock. Semáforos podem controlar corretamente o acesso concorrente, mas uma utilização inadequada deles pode justamente permitir situações de espera circular.
+
+E:
+Correta. Fazer com que ambas as threads solicitem os recursos na mesma ordem evita a espera circular. Por exemplo, se ambas sempre solicitarem E1 antes de E2, uma thread não poderá ficar segurando E2 enquanto espera por E1 simultaneamente à outra situação inversa.","JUSTIFICATIVA DA AMBIGUIDADE:
+0. O enunciado fornece informações suficientes para identificar claramente a possibilidade de deadlock. As ordens de aquisição são explícitas e a alternativa E apresenta a técnica clássica de prevenção por ordenação dos recursos.","JUSTIFICATIVA DOS DISTRATORES:
+
+Os distratores são moderados. As alternativas B e D podem parecer plausíveis para quem confunde prevenção de deadlock com controle de concorrência ou com redução da possibilidade de interleavings. Entretanto, a alternativa E é claramente superior para quem reconhece a condição de espera circular e a solução por ordenação dos recursos."
+35,Gemini,Gemini 3.6 Flash,21/09/2026,E,100,2,0,1,Sistemas Operacionais,Concorrência e Prevenção de Deadlock,"JUSTIFICATIVA DA RESPOSTA:
+A thread T1 aloca o recurso E1 e em seguida tenta alocar E2. Simultaneamente, a thread T2 aloca E2 e em seguida tenta alocar E1. Esse padrão de alocação em ordem invertida pode levar à condição de espera circular (uma das quatro condições necessárias para a ocorrência de deadlock/impasse). Se T1 obtiver E1 ao mesmo tempo em que T2 obtiver E2, ambas as threads ficarão bloqueadas indefinidamente aguardando a liberação do segundo recurso. Para prevenir a ocorrência de deadlock, uma das estratégias fundamentais é eliminar a espera circular definindo uma ordem hierárquica global estrita para a aquisição dos recursos; isto é, garantindo que todas as threads solicitem os recursos na mesma ordem (por exemplo, sempre E1 antes de E2).","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A sequência de alocação atual é justamente inversa entre as threads, o que favorece e possibilita a formação de um deadlock devido à espera circular.
+
+B:
+Incorreta. A presença ou ausência de cálculos entre as chamadas de alocação apenas altera a janela temporal de vulnerabilidade (timing), mas não elimina a possibilidade teórica nem impede a ocorrência do deadlock.
+
+C:
+Incorreta. O deadlock causa a paralisação indefinida das threads afetadas, o que não é um efeito inócuo e compromete o funcionamento correto do programa.
+
+D:
+Incorreta. O uso de semáforos garante a exclusão mútua sobre cada recurso individualmente, mas o uso simples de semáforos não é suficiente para evitar deadlock quando o encadeamento de alocações é feito em ordens cruzadas.
+
+E:
+Correta. O deadlock é possível devido à alocação em ordem invertida de recursos. Exigir que ambas as threads solicitem os recursos exatamente na mesma ordem elimina a condição de espera circular, prevenindo a ocorrência de deadlock.","JUSTIFICATIVA DA AMBIGUIDADE:
+Atribuiu-se nível 0 (Sem ambiguidade) pois o enunciado expõe com clareza o comportamento das duas threads e as opções abordam conceitos consolidados de concorrência e condições de Coffman para impasse.","JUSTIFICATIVA DOS DISTRATORES:
+Atribuiu-se nível 1 (Distratores moderados) porque alternativas como B e D citam elementos reais de programação concorrente (semáforos e tempo de execução), podendo atuar como distratores plausíveis para quem não domina as estratégias de prevenção de impasse."
+35,Claude,Sonnet 5,21/09/2026,E,95,2,0,1,Sistemas Operacionais,"Concorrência, deadlock e sincronização de threads","JUSTIFICATIVA DA RESPOSTA:
+A tabela mostra que T1 aloca E1 e depois tenta alocar E2, enquanto T2 aloca E2 e depois tenta alocar E1. Essa é exatamente a condição de espera circular (circular wait), uma das quatro condições necessárias para deadlock (exclusão mútua, posse e espera, não preempção e espera circular). Se as duas threads executarem de forma intercalada, é possível que T1 retenha E1 aguardando E2, enquanto T2 retenha E2 aguardando E1, gerando bloqueio mútuo permanente. Essa condição de espera circular pode ser eliminada impondo uma ordem total/consistente de solicitação dos recursos entre todas as threads (por exemplo, ambas alocando primeiro E1 e depois E2), o que é uma técnica clássica e comprovada de prevenção de deadlock. Portanto, a alternativa E está correta.","ANÁLISE DAS ALTERNATIVAS:
+
+A:
+Incorreta. A sequência de alocação (T1: E1→E2; T2: E2→E1) é justamente o padrão que caracteriza espera circular, não impede o deadlock — pelo contrário, é a causa típica dele.
+
+B:
+Incorreta. Evitar cálculos entre os pedidos de alocação não elimina a possibilidade de deadlock. O problema está na ordem invertida de solicitação dos recursos (E1/E2 vs E2/E1), não no tempo decorrido entre as alocações. Mesmo sem cálculos intermediários, as threads ainda poderiam ser escalonadas de forma a gerar espera circular.
+
+C:
+Incorreta. Não há garantia de que a probabilidade de deadlock seja baixa nem que sua consequência seja inócua; deadlock em sistemas reais normalmente trava as threads envolvidas indefinidamente, comprometendo a execução do programa (especialmente threads essenciais que manipulam as estruturas de dados).
+
+D:
+Incorreta. O uso de semáforos por si só controla exclusão mútua no acesso às estruturas, mas não impede deadlock quando a ordem de aquisição dos recursos é diferente entre as threads. Semáforos garantem apenas acesso exclusivo, não a ausência de espera circular.
+
+E:
+Correta. Solicitar os recursos (E1 e E2) sempre na mesma ordem em todas as threads elimina a condição de espera circular, prevenindo o deadlock de forma comprovada e é uma técnica clássica de prevenção do problema.","JUSTIFICATIVA DA AMBIGUIDADE:
+O enunciado e a tabela fornecem informações claras e suficientes (ordem de alocação dos recursos por thread) para identificar a condição de deadlock e a solução adequada. Não há ambiguidade relevante nem informação insuficiente.","JUSTIFICATIVA DOS DISTRATORES:
+A alternativa D é o distrator mais forte, pois menciona corretamente o uso de semáforos como mecanismo de controle de concorrência, o que pode induzir o candidato menos atento a pensar que isso é suficiente para evitar deadlock — confundindo exclusão mútua com prevenção de espera circular. A alternativa B também é moderadamente plausível por tentar relacionar tempo de execução ao problema, mas um exame mais cuidadoso da tabela revela que a causa real é a ordem invertida de alocação, não o intervalo entre chamadas."
