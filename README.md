@@ -20,6 +20,10 @@ Resultados completos da avaliação estão disponíveis neste link:
 
 [https://drive.google.com/drive/folders/17w3xHl4Qy1WrGA7JInzwUhUIlh20-7gh?usp=drive_link](https://drive.google.com/drive/folders/17w3xHl4Qy1WrGA7JInzwUhUIlh20-7gh?usp=drive_link)
 
+Colab auxiliar:
+
+[https://colab.research.google.com/drive/1RPQm8IinuGui3r3PnkvMzeBzQhFD08A4?usp=sharing](https://colab.research.google.com/drive/1RPQm8IinuGui3r3PnkvMzeBzQhFD08A4?usp=sharing)
+
 ---
 
 ## 1. Pipeline de avaliação
